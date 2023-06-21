@@ -1,0 +1,77 @@
+  .bg-{
+    background-color: white;
+  }
+
+  .bg-overig {
+    background-color: $main-overig;
+  }
+
+  .bg-landrover{
+    background-color: $landrover;
+  }
+  .bg-landenvolk{
+    background-color: $main-blue;
+  }
+  .bg-muziek{
+    background-color: $main-red;
+  }
+  .bg-taal{
+    background-color: $main-green;
+  }
+
+  .bg-hlandenvolk{
+    background-color: $main-blue;
+  }
+  .bg-hmuziek{
+    background-color: $main-red;
+  }
+  .bg-htaal{
+    background-color: $main-green;
+  }
+  .bg-hoverig{
+    background-color: $main-overig;
+  }
+
+.textitems {
+  margin: 5px 10px 5px 5px;
+  background-color: rgba(255,255,255,0.6);
+  border-radius: 2px;
+}
+
+.masthead {
+    padding-top: 140px;
+
+  .xxmasthead-heading {
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+
+  }
+  .xxmasthead-subheading {
+    font-size: 1.25rem;
+  }
+
+}
+
+@include media-breakpoint-up(lg) {
+
+
+  .masthead {
+
+    padding-top: 80px;
+    padding-bottom: 1rem;
+
+    .masthead-heading {
+
+      font-family: $top-font-family;
+      white-space: nowrap;
+      font-size: 18rem;
+      font-weight: normal;
+      letter-spacing: 2.4rem;
+
+    }
+    .masthead-subheading {
+      font-size: 1.5rem;
+    }
+
+  }
+}

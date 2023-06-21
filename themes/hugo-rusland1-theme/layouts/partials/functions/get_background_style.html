@@ -1,0 +1,114 @@
+{{ $page := .page }}
+{{ $css_class := .css_class }}
+{{ $bg := $page.Params.design.background }}
+{{ $bg_image := .bg_image }}
+{{ $path := .path }}
+{{- $theme_index := (site.Params.theme | lower | replaceRE "\\s" "_") | default "minimal" -}}
+{{ $theme := index site.Data.themes $theme_index }}
+
+{{/* Begin hero styling */}}
+{{ $style := "" }}
+{{ $image := "" }}
+
+{{ if $bg_image }}
+  {{ $darken := "" }}
+  {{ if $bg.image_darken }}
+    {{ $darken = printf "linear-gradient(rgba(0, 0, 0, %s), rgba(0, 0, 0, %s))," (string $bg.image_darken) (string $bg.image_darken) }}
+  {{ end }}
+
+  {{ $lighten := "" }}
+  {{ if $bg.image_lighten }}
+    {{ $lighten = printf "linear-gradient(rgba(255, 255, 255, %s), rgba(255, 255, 255, %s))," (string $bg.image_lighten) (string $bg.image_lighten) }}
+  {{ end }}
+
+  {{ $image_path := "" }}
+  {{ $resource_page := "" }}
+
+  {{ $image_path = printf "%s*%s*" $path $bg_image}}
+  {{ if eq $page.Parent.Type "widget_page"}}
+    {{ $resource_page = $page.Parent }}
+  {{ else }}
+    {{ $resource_page = $page}}
+  {{ end}}
+
+  {{ $image := ($resource_page.Resources.ByType "image").GetMatch $image_path}}
+
+  {{ with $image }}
+      {{ $extraSmall := .Resize "500x" }}
+      {{ $small := .Resize "768x" }}
+      {{ $medium := .Resize "992x" }}
+      {{ $large := .Resize "1200x" }}
+      {{ $extralarge := .Resize "1920x" }}
+
+      <style>
+            @media (max-width: 667px) {
+              .{{$css_class}} {
+                background:
+                  {{ $darken  | safeCSS }}
+                  {{ $lighten | safeCSS }}
+                  url({{$extraSmall.RelPermalink | safeCSS }}) no-repeat top {{ $bg.image_position | safeCSS }};
+              }
+            }
+
+            @media (min-width: 668px) {
+              .{{$css_class}} {
+              background:
+                {{ $darken  | safeCSS }}
+                {{ $lighten | safeCSS }}
+                url({{$small.RelPermalink | safeCSS }}) no-repeat top {{ $bg.image_position | safeCSS }};
+              }
+
+            }
+
+            @media (min-width: 992px) {
+              .{{$css_class}} {
+
+              background:
+                {{ $darken  | safeCSS }}
+                {{ $lighten | safeCSS }}
+                url( {{$medium.RelPermalink | safeCSS }}) no-repeat top {{ $bg.image_position | safeCSS }};
+              }
+            }
+
+            @media (min-width: 1200px) {
+              .{{$css_class}} {
+              background:
+                {{ $darken  | safeCSS }}
+                {{ $lighten | safeCSS }}
+                url({{$large.RelPermalink | safeCSS }}) no-repeat center {{ $bg.image_position | safeCSS }};
+              }
+            }
+
+            @media (min-width: 1600px) {
+              .{{$css_class}} {
+              background:
+                {{ $darken  | safeCSS }}
+                {{ $lighten | safeCSS }}
+                url({{$extralarge.RelPermalink | safeCSS }}) no-repeat center {{ $bg.image_position | safeCSS }};
+              }
+            }
+
+
+          }
+      </style>
+
+  {{ end }}
+{{ else }}
+      <style>
+        {{ if $bg.color }}
+            .{{$css_class}} {
+              {{ printf "background-color: %s;" ($bg.color | safeCSS ) }}
+            }
+        {{ else }}
+        .{{$css_class}} {
+          background-color: {{ $theme.backgrounds.footer }};
+        }
+        {{ end }}
+
+        {{ if and $bg.gradient_start $bg.gradient_end }}
+            .{{$css_class}} {
+              {{ printf "%sbackground-image: linear-gradient(%s, %s);" $style $bg.gradient_start $bg.gradient_end | safeCSS }}
+            }
+        {{ end }}
+      </style>
+{{ end }}

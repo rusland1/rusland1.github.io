@@ -1,0 +1,20 @@
+{{ define "main" }}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<main id="main">
+    <div class="container">
+        <div class="row">
+            {{ range $idx, $item := ( sort (where .Paginator.Pages.ByPublishDate "Type" "in" .Site.Params.mainSections) ".Params.publishdate" "desc") }}
+              {{ $pagePath := .Permalink }}
+              {{ partial "article-in-grid.html" . }}
+            {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
+    </div>
+</main>
+{{ end }}

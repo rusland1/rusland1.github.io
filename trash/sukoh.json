@@ -1,0 +1,831 @@
+
+
+
+{
+   "build": [
+     {
+       "config": "config.toml",
+       "key": "default"
+     }
+   ],
+   "collections": [
+     {
+       "dataformat": "yaml",
+       "extension": "md",
+       "fields": [
+         {
+           "extensions": [
+             "jpg",
+             "png",
+             "jpeg",
+             "pdf"
+           ],
+           "fields": [
+             {
+               "key": "thumb",
+               "title": "Thumb",
+               "type": "bundle-image-thumbnail"
+             }
+           ],
+           "key": "imgs",
+           "path": "imgs",
+           "title": "Imgs",
+           "type": "bundle-manager"
+         },
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "intro",
+           "title": "Intro",
+           "type": "string"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "land_en_volk_onderwerpen",
+           "title": "Land en volk onderwerpen",
+           "type": "chips"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         },
+         {
+           "key": "trefwoorden",
+           "title": "Trefwoorden",
+           "type": "chips"
+         },
+         {
+           "key": "voetnoot",
+           "title": "Voetnoot",
+           "type": "string"
+         }
+       ],
+       "folder": "content/land-en-volk/",
+       "itemtitle": "Land en volk",
+       "key": "c_land-en-volk_",
+       "title": "Land en volk"
+     },
+     {
+       "dataformat": "yaml",
+       "extension": "md",
+       "fields": [
+         {
+           "extensions": [
+             "jpg",
+             "png",
+             "jpeg",
+             "pdf"
+           ],
+           "fields": [
+             {
+               "key": "thumb",
+               "title": "Thumb",
+               "type": "bundle-image-thumbnail"
+             }
+           ],
+           "key": "imgs",
+           "path": "imgs",
+           "title": "Imgs",
+           "type": "bundle-manager"
+         },
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "intro",
+           "title": "Intro",
+           "type": "string"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "taal_onderwerpen",
+           "title": "Taal onderwerpen",
+           "type": "chips"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         },
+         {
+           "key": "trefwoorden",
+           "title": "Trefwoorden",
+           "type": "chips"
+         },
+         {
+           "key": "voetnoot",
+           "title": "Voetnoot",
+           "type": "string"
+         }
+       ],
+       "folder": "content/taal/",
+       "itemtitle": "Taal",
+       "key": "c_taal_",
+       "title": "Taal"
+     },
+     {
+       "dataformat": "yaml",
+       "extension": "md",
+       "fields": [
+         {
+           "extensions": [
+             "jpg",
+             "png",
+             "jpeg",
+             "pdf"
+           ],
+           "fields": [
+             {
+               "key": "thumb",
+               "title": "Thumb",
+               "type": "bundle-image-thumbnail"
+             }
+           ],
+           "key": "imgs",
+           "path": "imgs",
+           "title": "Imgs",
+           "type": "bundle-manager"
+         },
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "artiesten",
+           "title": "Artiesten",
+           "type": "chips"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "genres",
+           "title": "Genres",
+           "type": "chips"
+         },
+         {
+           "key": "intro",
+           "title": "Intro",
+           "type": "string"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         },
+         {
+           "key": "trefwoorden",
+           "title": "Trefwoorden",
+           "type": "chips"
+         },
+         {
+           "key": "voetnoot",
+           "title": "Voetnoot",
+           "type": "string"
+         }
+       ],
+       "folder": "content/muziek/",
+       "itemtitle": "Muziek",
+       "key": "c_muziek_",
+       "title": "Muziek"
+     },
+     {
+       "dataformat": "yaml",
+       "extension": "md",
+       "fields": [
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         }
+       ],
+       "folder": "content/testpagina/",
+       "itemtitle": "Testpagina",
+       "key": "c_testpagina_",
+       "title": "Testpagina"
+     },
+     {
+       "dataformat": "yaml",
+       "extension": "md",
+       "fields": [
+         {
+           "extensions": [
+             "jpg",
+             "png",
+             "jpeg",
+             "pdf"
+           ],
+           "fields": [
+             {
+               "key": "thumb",
+               "title": "Thumb",
+               "type": "bundle-image-thumbnail"
+             }
+           ],
+           "key": "imgslinks",
+           "path": "imgslinks",
+           "title": "Imgslinks",
+           "type": "bundle-manager"
+         },
+         {
+           "extensions": [
+             "jpg",
+             "png",
+             "jpeg",
+             "pdf"
+           ],
+           "fields": [
+             {
+               "key": "thumb",
+               "title": "Thumb",
+               "type": "bundle-image-thumbnail"
+             }
+           ],
+           "key": "imgsrechts",
+           "path": "imgsrechts",
+           "title": "Imgsrechts",
+           "type": "bundle-manager"
+         },
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "hallo",
+           "title": "Hallo",
+           "type": "string"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "settings",
+           "title": "Settings",
+           "type": "string"
+         }
+       ],
+       "folder": "content/stuff/",
+       "itemtitle": "Stuff",
+       "key": "c_stuff_",
+       "title": "Stuff"
+     }
+   ],
+   "hugover": "extended_0.76.5",
+   "menu": [
+     {
+       "key": "pages",
+       "menuItems": [
+         {
+           "key": "s__contact"
+         },
+         {
+           "key": "s__links"
+         },
+         {
+           "key": "s__faq"
+         }
+       ],
+       "title": "Pages"
+     },
+     {
+       "key": "groups",
+       "menuItems": [
+         {
+           "key": "c_land-en-volk_"
+         },
+         {
+           "key": "c_taal_"
+         },
+         {
+           "key": "c_muziek_"
+         },
+         {
+           "key": "c_testpagina_"
+         },
+         {
+           "key": "c_stuff_"
+         }
+       ],
+       "title": "Groups"
+     },
+     {
+       "key": "Other content",
+       "menuItems": [
+         {
+           "key": "d_data_globalSiteSettings"
+         }
+       ],
+       "title": "Other content"
+     },
+     {
+       "key": "general",
+       "menuItems": [
+         {
+           "key": "config"
+         },
+         {
+           "key": "menus"
+         }
+       ],
+       "title": "General"
+     }
+   ],
+   "serve": [
+     {
+       "config": "config.toml",
+       "key": "default"
+     }
+   ],
+   "singles": [
+     {
+       "dataformat": "toml",
+       "fields": [
+         {
+           "key": "address1",
+           "title": "Address1",
+           "type": "string"
+         },
+         {
+           "key": "address2",
+           "title": "Address2",
+           "type": "string"
+         },
+         {
+           "key": "addressTitle",
+           "title": "Address title",
+           "type": "string"
+         },
+         {
+           "key": "copyright",
+           "title": "Copyright",
+           "type": "string"
+         },
+         {
+           "key": "description",
+           "title": "Description",
+           "type": "string"
+         },
+         {
+           "key": "name",
+           "title": "Name",
+           "type": "string"
+         },
+         {
+           "key": "overtekst1",
+           "title": "Overtekst1",
+           "type": "string"
+         },
+         {
+           "key": "overtekst2",
+           "title": "Overtekst2",
+           "type": "string"
+         },
+         {
+           "key": "overtitel",
+           "title": "Overtitel",
+           "type": "string"
+         },
+         {
+           "key": "socialGithub",
+           "title": "Social github",
+           "type": "string"
+         },
+         {
+           "key": "socialPatreon",
+           "title": "Social patreon",
+           "type": "string"
+         },
+         {
+           "key": "socialTitle",
+           "title": "Social title",
+           "type": "string"
+         },
+         {
+           "key": "socialTwitter",
+           "title": "Social twitter",
+           "type": "string"
+         },
+         {
+           "key": "socialYoutube",
+           "title": "Social youtube",
+           "type": "string"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         }
+       ],
+       "file": "/data/globalSiteSettings.toml",
+       "key": "d_data_globalSiteSettings",
+       "previewUrl": "/",
+       "title": "Global site settings"
+     },
+     {
+       "dataformat": "toml",
+       "fields": [
+         {
+           "key": "description",
+           "title": "Description",
+           "type": "string"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         },
+         {
+           "fields": [
+             {
+               "key": "mainSections",
+               "title": "Main sections",
+               "type": "chips"
+             }
+           ],
+           "groupdata": true,
+           "key": "params",
+           "title": "Params",
+           "type": "section"
+         }
+       ],
+       "file": "config.toml",
+       "key": "config",
+       "title": "Settings"
+     },
+     {
+       "dataformat": "toml",
+       "fields": [
+         {
+           "fields": [
+             {
+               "fields": [
+                 {
+                   "key": "identifier",
+                   "title": "Identifier",
+                   "type": "string"
+                 },
+                 {
+                   "arrayTitle": true,
+                   "key": "name",
+                   "title": "Name",
+                   "type": "string"
+                 },
+                 {
+                   "key": "parent",
+                   "title": "Parent",
+                   "type": "string"
+                 },
+                 {
+                   "key": "url",
+                   "title": "Url",
+                   "type": "string"
+                 },
+                 {
+                   "key": "weight",
+                   "title": "Weight",
+                   "type": "number"
+                 }
+               ],
+               "key": "main",
+               "title": "Main",
+               "type": "accordion"
+             },
+             {
+               "fields": [
+                 {
+                   "key": "identifier",
+                   "title": "Identifier",
+                   "type": "string"
+                 },
+                 {
+                   "arrayTitle": true,
+                   "key": "name",
+                   "title": "Name",
+                   "type": "string"
+                 },
+                 {
+                   "key": "parent",
+                   "title": "Parent",
+                   "type": "string"
+                 },
+                 {
+                   "key": "url",
+                   "title": "Url",
+                   "type": "string"
+                 },
+                 {
+                   "key": "weight",
+                   "title": "Weight",
+                   "type": "number"
+                 }
+               ],
+               "key": "nav1",
+               "title": "Nav1",
+               "type": "accordion"
+             },
+             {
+               "fields": [
+                 {
+                   "key": "identifier",
+                   "title": "Identifier",
+                   "type": "string"
+                 },
+                 {
+                   "arrayTitle": true,
+                   "key": "name",
+                   "title": "Name",
+                   "type": "string"
+                 },
+                 {
+                   "key": "parent",
+                   "title": "Parent",
+                   "type": "string"
+                 },
+                 {
+                   "key": "url",
+                   "title": "Url",
+                   "type": "string"
+                 },
+                 {
+                   "key": "weight",
+                   "title": "Weight",
+                   "type": "number"
+                 }
+               ],
+               "key": "nav2",
+               "title": "Nav2",
+               "type": "accordion"
+             }
+           ],
+           "groupdata": true,
+           "key": "menu",
+           "title": "Menu",
+           "type": "section"
+         }
+       ],
+       "file": "/config.toml",
+       "key": "menus",
+       "title": "Menus"
+     },
+     {
+       "dataformat": "yaml",
+       "fields": [
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "categories",
+           "title": "Categories",
+           "type": "chips"
+         },
+         {
+           "default": "now",
+           "key": "date",
+           "title": "Date",
+           "type": "date"
+         },
+         {
+           "key": "description",
+           "title": "Description",
+           "type": "string"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "lastmod",
+           "title": "Lastmod",
+           "type": "hidden"
+         },
+         {
+           "key": "publishdate",
+           "title": "Publishdate",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         }
+       ],
+       "file": "content/contact/index.md",
+       "key": "s__contact",
+       "previewUrl": "/",
+       "title": "Contact"
+     },
+     {
+       "dataformat": "yaml",
+       "fields": [
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "categories",
+           "title": "Categories",
+           "type": "chips"
+         },
+         {
+           "default": "now",
+           "key": "date",
+           "title": "Date",
+           "type": "date"
+         },
+         {
+           "key": "description",
+           "title": "Description",
+           "type": "string"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "lastmod",
+           "title": "Lastmod",
+           "type": "hidden"
+         },
+         {
+           "key": "publishdate",
+           "title": "Publishdate",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         }
+       ],
+       "file": "content/links/index.md",
+       "key": "s__links",
+       "previewUrl": "/",
+       "title": "Links"
+     },
+     {
+       "dataformat": "yaml",
+       "fields": [
+         {
+           "key": "mainContent",
+           "title": "Main content",
+           "type": "markdown"
+         },
+         {
+           "key": "categories",
+           "title": "Categories",
+           "type": "chips"
+         },
+         {
+           "default": "now",
+           "key": "date",
+           "title": "Date",
+           "type": "date"
+         },
+         {
+           "key": "description",
+           "title": "Description",
+           "type": "string"
+         },
+         {
+           "key": "draft",
+           "title": "Draft",
+           "type": "boolean"
+         },
+         {
+           "key": "iscjklanguage",
+           "title": "Iscjklanguage",
+           "type": "hidden"
+         },
+         {
+           "key": "lastmod",
+           "title": "Lastmod",
+           "type": "hidden"
+         },
+         {
+           "key": "publishdate",
+           "title": "Publishdate",
+           "type": "hidden"
+         },
+         {
+           "key": "resources",
+           "title": "Resources",
+           "type": "hidden"
+         },
+         {
+           "key": "title",
+           "title": "Title",
+           "type": "string"
+         }
+       ],
+       "file": "content/faq/index.md",
+       "key": "s__faq",
+       "previewUrl": "/",
+       "title": "Faq"
+     }
+   ]
+ }

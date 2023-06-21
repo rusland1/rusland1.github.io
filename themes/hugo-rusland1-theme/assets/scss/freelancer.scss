@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: 'six_capsregular';
+    src: url('../fonts/sixcaps-regular-webfont.woff2') format('woff2'), url('../fonts/sixcaps-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'prataregular';
+    src: url('../fonts/prata-regular-webfont.woff2') format('woff2'), url('../fonts/prata-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nunitobold';
+    src: url('../fonts/nunito-bold-webfont.woff2') format('woff2'), url('../fonts/nunito-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'junicoderegularultracond';
+    src: url('../fonts/junicode-regularultracond-webfont.woff2') format('woff2'), url('../fonts/junicode-regularultracond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'noto_serifextracondensed';
+    src: url('../fonts/notoserif-extracondensed3-webfont.woff2') format('woff2'), url('../fonts/notoserif-extracondensed3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/OpenSans-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansitalic';
+    src: url('../fonts/OpenSans-Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('../fonts/OpenSans-Bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansbold_italic';
+    src: url('../fonts/OpenSans-BoldItalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import "base/variables.scss";
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Import base styles
+@import "base/page.scss";
+
+// Import components styles
+@import "components/divider.scss";
+@import "components/buttons.scss";
+
+// Import layout styles
+@import "layout/navbar.scss";
+@import "layout/masthead.scss";
+@import "layout/portfolio.scss";
+@import "layout/contact.scss";
+@import "layout/footer.scss";

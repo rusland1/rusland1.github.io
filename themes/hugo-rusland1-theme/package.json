@@ -1,0 +1,13 @@
+{
+  "name": "hugo-freelancer-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "postcss-cli": "^7.1.0"
+  }
+}

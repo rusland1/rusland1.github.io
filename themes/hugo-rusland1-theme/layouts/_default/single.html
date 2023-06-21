@@ -1,0 +1,145 @@
+{{ define "main" }}
+
+{{ if eq .Section "taal" }}
+{{.Scratch.Set "colorclass" "taal" }}
+{{.Scratch.Set "titel" "taal" }}
+{{ else if eq .Section "muziek" }}
+{{.Scratch.Set "colorclass" "muziek" }}
+{{.Scratch.Set "titel" "muziek" }}
+{{ else if eq .Section "land-en-volk" }}
+{{.Scratch.Set "colorclass" "landenvolk" }}
+{{.Scratch.Set "titel" "Land & Volk" }}
+{{ end }}
+
+<main id="main">
+<section class="page-section portfolio" id="portfolio">
+  <div class="container">
+
+    <div class="row">
+
+      <div class="offset-md-2 col-md-8 col-lg-8 text-center mt-5 mb-4">
+        {{/*
+          <a href="/{{ .Section | urlize }}"><strong style="text-transform: uppercase;">{{.Scratch.Get "titel"}} </strong></a> <br>
+        */}}
+      </div>
+
+      <div class="offset-md-1 col-md-10 text-center mt-5 mb-0">
+        <h1>{{ .Title }}</h1>
+      </div>
+      <div class="offset-md-2 col-md-8 col-lg-8 text-center mt-0">
+
+          {{ if eq .Section "taal" }}
+          <strong>Onderwerp: </strong>
+          {{ range .Params.Taal_Onderwerpen }}
+          <a href="{{ "taal_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}"
+             class="text-primary">{{ . }}</a>&nbsp;
+          {{ end }}
+
+          {{ else if eq .Section "muziek" }}
+          <strong>Artiest: </strong>
+          {{ range .Params.Artiesten }}
+          <a href="{{ "artiesten/" | relLangURL }}{{ . | urlize | lower }}"
+             class="text-primary">{{ . }}</a>
+          {{ end }}
+
+          <strong> -- Genre: </strong>
+          {{ range .Params.Genres }}
+          <a href="{{ "genres/" | relLangURL }}{{ . | urlize | lower }}"
+             class="text-primary">{{ . }}</a>&nbsp;
+          {{ end }}
+
+
+          {{ else if eq .Section "land-en-volk" }}
+          <strong>Onderwerp: </strong>
+          {{ range .Params.Land_En_Volk_Onderwerpen }}
+          <a href="{{ "land_en_volk_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}"
+             class="text-primary">{{ . }}</a>
+          {{ end }}
+
+          {{ end }}
+          {{ with .Params.Trefwoorden }}
+          <strong> -- Trefwoorden: </strong>
+          {{ range . }}
+          <a href="{{ "trefwoorden/" | relLangURL }}{{ . | urlize | lower }}"
+             class="text-primary">{{ . }}</a>&nbsp;
+          {{ end }}
+          <br>
+          {{ end }}
+
+
+      </div>
+    </div>
+  </div>
+
+
+          {{ $images := .Resources.ByType "image" }}
+          {{ range first 1 $images }}
+              {{ $imageOriginal :=  .  }}
+              {{ $imageResource :=  $imageOriginal.Resize "1200x jpg"  }}
+              <div class="container">
+                <div class="row" style="  xmax-height:400px;
+                      xoverflow:hidden;">
+                  <div class="offset-md-0 col-md-12 col-lg-12 mt-3 mb-5 px-0">
+                      <img
+                         class="img-responsive w-100 h-100"
+                         src="{{ $imageResource.RelPermalink }}" />
+                   </div>
+                 </div>
+               </div>
+          {{ end }}
+
+  <div class="container">
+    <div class="row">
+      <div class="offset-md-2 col-md-8 col-lg-8 mt-0">
+          <p class="mb-3"><strong>{{ with .Param "intro" }} {{ . | markdownify  }} {{ end }}</strong></p>
+
+          {{ .Content }}
+
+      </div>
+    </div>
+  </div>
+
+  {{ with .Param "voetnoot" }}
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 my-5 p-3 bg-landrover">
+            {{ . | markdownify }}
+        </div>
+    </div>
+  </div>
+  {{ end }}
+</section>
+
+{{ if .Scratch.Get "titel"}}
+
+<section class="mb-5 bg-{{.Scratch.Get "colorclass"}}">
+  <div class="container">
+    <div class="row masthead" style="padding:0">
+        <div>
+        <p><strong>Meer</strong></p>
+        <h3 style="font-size: 3rem" class="masthead-heading text-uppercase mb-0">{{.Scratch.Get "titel"}}</h3>
+        </div>
+    </div>
+  </div>
+
+  <div class="row py2 copyright">
+  </div>
+</section>
+
+<div class="container mt-5">
+
+    <!-- Portfolio Grid Items -->
+    <div class="row articlegrid">
+
+        {{ range first 6 (where .Site.RegularPages.ByPublishDate.Reverse "Section" .Section ) }}
+        {{ partial "article-in-grid.html" . }}
+
+        {{ end }}
+
+    </div>
+
+</div>
+{{ end}}
+
+</main>
+{{ end }}

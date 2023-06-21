@@ -1,0 +1,25 @@
+{
+  "rules":[
+    {
+        "from": "/project1",
+        "to": "/project2",
+        "code": 301
+    },
+    {
+        "from": "/project3/*",
+        "to": "/project2",
+        "code": 301
+    },
+    {
+        "from": "/project4/sub1/",
+        "to": "/project2",
+        "code": 301
+    }
+  ],
+  "options":{
+    "mainDomain": "rusland1.nl",
+    "mainProtocol": "https",
+    "redirectAllToMainDomain": true,
+    "redirectCode": 301
+  }
+}

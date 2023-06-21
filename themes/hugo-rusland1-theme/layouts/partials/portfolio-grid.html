@@ -1,0 +1,11 @@
+<!-- Portfolio Section -->
+{{ $pages := .Pages }}
+    <div class="container mt-5">
+        <!-- Portfolio Grid Items -->
+        <div class="row articlegrid">
+          {{ range $idx, $item := ( sort $pages ".Params.publishdate" "desc") }}
+              {{ $pagePath := .Permalink }}
+              {{ partial "article-in-grid.html" . }}
+          {{ end }}
+        </div>
+    </div>

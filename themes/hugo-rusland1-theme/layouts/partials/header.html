@@ -1,0 +1,136 @@
+
+{{ if or (eq .wp.Section "taal") (eq .wp.Section "taal_onderwerpen") }}
+  {{.ctx.Scratch.Set "colorclass" "taal" }}
+  {{.ctx.Scratch.Set "titel" "taal" }}
+  {{.ctx.Scratch.Set "bgcolor" "#05DA0A" }}
+
+  {{range first 1 (where .ctx.Site.Pages ".Params.settings" "taal")}}
+
+      {{ $images := (.Resources.ByType "image").Match "imgslinks/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundLPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+      {{ $images := (.Resources.ByType "image").Match "imgsrechts/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundRPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+  {{ end }}
+
+
+{{ else if or (eq .wp.Section "muziek") (eq .wp.Section "genres") }}
+  {{.ctx.Scratch.Set "colorclass" "muziek" }}
+  {{.ctx.Scratch.Set "titel" "muziek" }}
+  {{.ctx.Scratch.Set "bgcolor" "#FF272E" }}
+
+  {{range first 1 (where .ctx.Site.Pages ".Params.settings" "muziek")}}
+
+      {{ $images := (.Resources.ByType "image").Match "imgslinks/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundLPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+      {{ $images := (.Resources.ByType "image").Match "imgsrechts/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundRPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+  {{ end }}
+
+{{ else if or (eq .wp.Section "land-en-volk") (eq .wp.Section "land_en_volk_onderwerpen") }}
+  {{.ctx.Scratch.Set "colorclass" "landenvolk" }}
+  {{.ctx.Scratch.Set "titel" "Land & Volk" }}
+  {{.ctx.Scratch.Set "bgcolor" "#00ffff" }}
+
+  {{range first 1 (where .ctx.Site.Pages ".Params.settings" "land-en-volk")}}
+
+      {{ $images := (.Resources.ByType "image").Match "imgslinks/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundLPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+      {{ $images := (.Resources.ByType "image").Match "imgsrechts/*" }}
+      {{ range first 1 $images }}
+          {{ $imageResource :=  .  }}
+          {{ if gt .Width 1400 }}
+              {{ $imageResource =  .Resize "1400x"  }}
+          {{ end }}
+          {{ $.ctx.Scratch.Set "backgroundRPermalink" $imageResource.Permalink }}
+      {{ end }}
+
+  {{ end }}
+
+
+{{ end }}
+
+
+<style>
+  .bg-hoha{
+    background:
+        url({{.ctx.Scratch.Get "backgroundRPermalink"}}) right 10% bottom 35px no-repeat,
+        url({{.ctx.Scratch.Get "backgroundLPermalink"}}) left 10% bottom 35px no-repeat
+        {{.ctx.Scratch.Get "bgcolor"}};
+    background-blend-mode: multiply;
+  }
+</style>
+
+<header class="masthead bg-hoha bg-h{{.ctx.Scratch.Get "colorclass"}} text-center">
+    <div class="container d-flex align-items-center flex-column">
+        <h1 class="masthead-heading text-uppercase mb-0">{{.ctx.Scratch.Get "titel"}}</h1>
+    </div>
+
+    <div class="subsectionmenu bg-h{{.ctx.Scratch.Get "colorclass"}}" style="">
+
+
+        {{ if or (eq .wp.Section "taal") (eq .wp.Section "taal_onderwerpen") }}
+            {{ range .ctx.Site.Taxonomies.taal_onderwerpen }}
+            <a class="textitems" href="{{ .Page.Permalink }}">
+              <div>
+                  {{ .Page.Title }}
+              </div>
+            </a>
+            {{ end }}
+
+        {{ else if or (eq .wp.Section "muziek") (eq .wp.Section "genres") }}
+            {{ range .ctx.Site.Taxonomies.genres }}
+            <a class="textitems" href="{{ .Page.Permalink }}">
+              <div>
+                  {{ .Page.Title }}
+              </div>
+            </a>
+            {{ end }}
+
+        {{ else if or (eq .wp.Section "land-en-volk") (eq .wp.Section "land_en_volk_onderwerpen") }}
+            {{ range .ctx.Site.Taxonomies.land_en_volk_onderwerpen }}
+            <a  class="textitems" href="{{ .Page.Permalink }}">
+            <div>
+                {{ .Page.Title }}
+            </div>
+            </a>
+            {{ end }}
+
+        {{ end }}
+      </div>
+
+</header>

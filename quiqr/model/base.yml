@@ -1,0 +1,433 @@
+hugover: extended_0.75.0
+serve:
+  - key: default
+    config: config.toml
+build:
+  - key: default
+    config: config.toml
+
+menu:
+  - key: article
+    title: Artikelen
+    menuItems:
+      - key: taalartikelen
+      - key: muziekartikelen
+      - key: landartikelen
+
+  - key: pagina
+    title: Overige pagina's
+    menuItems:
+      - key: faq
+      - key: linkspagina
+      - key: contactpagina
+
+  - key: lab
+    title: Testpagina's
+    menuItems:
+      - key: lab
+
+  - key: Instellingen
+    title: Voorpaginateksten
+    menuItems:
+      - key: globalSiteSettings
+      - key: taalvoorpagina
+      - key: muziekvoorpagina
+      - key: landvoorpagina
+
+collections:
+  - key: landartikelen
+    title: Land & Volk
+    sortkey: publishdate
+    folder: content/land-en-volk/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: land_en_volk_onderwerpen
+        title: Onderwerp(en) Land en Volk
+        type: chips
+        tip: Alleen van toepassing in Land en Volk
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: muziekartikelen
+    title: Muziek
+    sortkey: publishdate
+    folder: content/muziek/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: genres
+        title: Genre(s)
+        type: chips
+        tip: 'Alleen van toepassing in Muziek '
+      - key: artiesten
+        title: Artiest(en)
+        type: chips
+        tip: 'Alleen van toepassing in Muziek '
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: lab
+    title: Лаборатория
+    folder: content/лаборатория/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+
+  - key: taalartikelen
+    title: Taal
+    sortkey: publishdate
+    folder: content/taal/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: taal_onderwerpen
+        title: Taalonderwerp(en)
+        type: chips
+        tip: Alleen van toepassing in Taal
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+
+singles:
+  - key: taalvoorpagina
+    title: Instellingen Taal
+    file: content/stuff/taal/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: muziekvoorpagina
+    title: Instellingen Muziek
+    file: content/stuff/muziek/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: landvoorpagina
+    title: Instellingen Land & Volk
+    file: content/stuff/land-en-volk/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+
+  - key: contactpagina
+    title: 'Pagina: Contact'
+    file: content/contact/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: faq
+    title: 'Pagina: FAQ'
+    file: content/faq/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+  - key: linkspagina
+    title: 'Pagina: Links'
+    file: content/links/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Paginatitel
+        type: string
+      - key: description
+        title: 'Meta: description'
+        type: string
+        multiLine: true
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+
+  - key: globalSiteSettings
+    title: Site Instellingen
+    file: data/globalSiteSettings.toml
+    fields:
+      - key: title
+        title: Site Titel
+        type: string
+        tip: Zichtbaar in browsertab
+      - key: description
+        title: Site description (SEO)
+        type: string
+        tip: Zichtbaar in Google resultaten
+      - key: name
+        title: Naam site eigenaar
+        type: string
+      - key: overtitel
+        title: Over Titel
+        type: string
+      - key: overtekst1
+        title: Over tekst regel 1
+        type: string
+      - key: overtekst2
+        title: Over tekst regel 2
+        type: string
+      - key: copyright
+        title: Copyright
+        type: string
+      - key: addressTitle
+        title: Adres Titel
+        type: string
+      - key: address1
+        title: Adres regel 1
+        type: string
+      - key: address2
+        title: Adres regel 2
+        type: string
+      - key: socialTitle
+        title: Social.. Titel
+        type: string
+      - key: socialTwitter
+        title: URL Twitter
+        type: string
+      - key: socialYoutube
+        title: URL youtube
+        type: string
+      - key: socialPatreon
+        title: URL Patreon
+        type: string
+      - key: socialGithub
+        title: URL Github
+        type: string
+
+  - key: mainConfig
+    title: Site Instellingen
+    file: config.toml
+    fields:
+      - key: googleAnalytics
+        title: Google Analytics
+        type: string
+        tip: Provide a Google Analitics Tracking Code to enable analytics.

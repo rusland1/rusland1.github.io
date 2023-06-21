@@ -1,0 +1,29 @@
+
+            <div class="mb-5 col-md-6 col-lg-4 d-flex flex-column articlecard">
+                <div class="" style="">
+                    <h2> <a href="{{ .RelPermalink }}"> {{ .Title }} </a> </h2>
+                </div>
+                <div class="mb-2">
+                    {{ with .Param "intro" }}
+                    {{ .| markdownify  }}
+                    {{ else }}
+                    {{ .Summary }}
+                    {{ end }}
+                </div>
+                <div class="d-flex flex-grow-1 flex-fill bg-secondary" style="overflow: hidden;">
+                    {{ $pagelink:= .RelPermalink }}
+                    {{ $images := .Resources.ByType "image" }}
+                    {{ range first 1 $images }}
+                    {{ $imageOriginal :=  .  }}
+                    {{ $imageResource :=  $imageOriginal.Resize "600x jpg"  }}
+
+                    <a href="{{ $pagelink }}"><img
+                       class="ximg-fluid"
+                       style="max-width: 100%; min-height: 100%;
+                       object-fit: cover; vertical-align: bottom;"
+                       src="{{ $imageResource.RelPermalink }}" /></a>
+                    {{ end }}
+
+                </div>
+            </div>
+

@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <main id="main">
+      {{ partial "header.html" (dict "wp" . "ctx" $) }}
+      {{ partial "portfolio-grid.html" . }}
+  </main>
+{{ end }}

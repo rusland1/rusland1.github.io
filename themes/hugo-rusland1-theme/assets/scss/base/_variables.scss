@@ -1,0 +1,48 @@
+// Variables
+$landrover: #A9E5BB;
+$blauwman: #0075C4;
+$zwartman: #2c3e50 !default;
+
+$main-red: #FF272E;
+$main-blue: #00ffff;       //previously   #0532CD;
+$main-green: #05DA0A;
+$main-overig: #618d92;
+
+
+// Override Bootstrap primary and secondary colors
+$primary: $blauwman !default;
+$secondary: $zwartman !default;
+
+$logo-size:190px;
+
+$spacer: 1rem !default;
+$headings-margin-bottom:      $spacer / 2 !default;
+
+// Set custom fonts
+$top-font-family: "six_capsregular","Arial Narrow", sans-serif;
+$subtop-font-family: "nunitobold", sans-serif;
+$narrow-headings-font-family: "noto_serifextracondensed";
+
+// Override Bootstrap font variables
+$font-family-sans-serif: "open_sansregular", "Helvetica Neue", sans-serif !default;
+$headings-font-family: "open_sansregular", "Helvetica Neue", sans-serif !default;
+
+// Override Bootstrap border variables
+$border-width: 0.125rem !default;
+$border-radius: 0.5rem !default;
+$border-radius-lg: 0.75rem !default;
+$border-radius-sm: 0.25rem !default;
+
+// Override Bootstrap input/button variables
+$input-btn-border-width: $border-width !default;
+
+// Override Bootstrap modal variables
+$modal-inner-padding: 4rem 1rem !default;
+$modal-content-border-width: 0 !default;
+
+// media variables
+$custom-media-phonesmall: 320px;
+$custom-media-phonebig: 568px;
+$custom-media-tablet: 800px;
+$custom-media-desktop : 1000px;
+$custom-media-retina : 1400px;

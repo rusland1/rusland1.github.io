@@ -1,0 +1,88 @@
+title = "Rusland 1"
+DefaultContentLanguage = "nl"
+MetaDataFormat = "yaml"
+Paginate = 30
+SectionPagesMenu = "main"
+baseURL = "/"
+canonifyURLs = false
+disableKinds = []
+enableRobotsTXT = true
+googleAnalytics = ""
+languageCode = "nl-nl"
+relativeURLs = true
+resources = []
+summarylength = 40.0
+theme = [
+ "hugo-rusland1-theme"
+]
+
+[markup]
+
+  [markup.goldmark]
+
+    [markup.goldmark.renderer]
+    unsafe = true
+
+[outputFormats]
+
+  [outputFormats.Sukoh]
+  baseName = "sukoh"
+  mediaType = "application/json"
+  path = "/"
+
+[outputs]
+home = [
+  "HTML",
+  "Sukoh"
+]
+section = [
+  "HTML"
+]
+
+
+[menu]
+
+  [[menu.nav1]]
+  name = "Taal"
+  url = "/taal/"
+  weight = 2.0
+
+  [[menu.nav1]]
+  name = "Muziek"
+  url = "/muziek/"
+  weight = 3.0
+
+  [[menu.nav1]]
+  name = "Land en Volk"
+  url = "/land-en-volk/"
+  weight = 4.0
+
+  [[menu.nav2]]
+  name = "Links"
+  url = "/links/"
+  weight = 7.0
+
+  [[menu.nav2]]
+  name = "FAQ"
+  url = "/faq/"
+  weight = 8.0
+
+  [[menu.nav2]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 9.0
+
+[params]
+
+mainSections = [
+  "land-en-volk",
+  "muziek",
+  "taal"
+]
+
+[taxonomies]
+artiesten = "artiesten"
+genres = "genres"
+land_en_volk_onderwerpen = "land_en_volk_onderwerpen"
+taal_onderwerpen = "taal_onderwerpen"
+trefwoorden = "trefwoorden"
