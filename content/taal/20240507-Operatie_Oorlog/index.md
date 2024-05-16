@@ -64,7 +64,7 @@ Poetin zelf deed dat ook, en eerder, zie [Putin declares ‘war’ – aloud –
 
 #### Deze site
 
-Al ruim vóór de Operatie was Rusland1 (lees:de maker ervan) stil komen te vallen. Het laatst geplaatste stuk dateert van 2021. Nu wordt het project hervat. Het ging en gaat hier vooral over de Russische taal, en die is niet wezenlijk veranderd. (Zie wel:  [How the War Has Changed the Russian Language](https://youtu.be/DBQT5yjqeco?si=DAV-GQ68I4JSSeG6), Easy Russian, 2023, 28 m.)
+Al ruim vóór de Operatie was Rusland1 (lees: de maker ervan) stil komen te vallen. Het laatst geplaatste stuk dateert van 2021. Nu wordt het project hervat. Het ging en gaat hier vooral over de Russische taal, en die is niet wezenlijk veranderd. (Zie wel:  [How the War Has Changed the Russian Language](https://youtu.be/DBQT5yjqeco?si=DAV-GQ68I4JSSeG6), Easy Russian, 2023, 28 m.)
 
 <wr/>
 <wr/>
