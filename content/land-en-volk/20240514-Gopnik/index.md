@@ -105,7 +105,7 @@ Verschillende lezingen over de herkomst van de term. Die kan terug te voeren zij
 
 #### Slav Squat
 
-De hurkzit, of *Slav squat*, is een blijvende nalatenschap van de gopniki. Probeer vooral zelf, of bekijk:
+De hurkzit, of *Slav squat*, is een blijvende nalatenschap van de gopniki. Probeer vooral zelf, en ontdek misschien dat het er makkelijker uitziet dan het is.
 
 <br/>
 
@@ -122,7 +122,7 @@ De hurkzit, of *Slav squat*, is een blijvende nalatenschap van de gopniki. Probe
 <br/>
 
 
-Zie ook [Russian Gopnik Anatoly Teaches Westerners How to Squat](https://www.youtube.com/watch?v=dLsGZCUVW74) (AnatolyRusTV 2018, 10 m) en, van hetzelfde kanaal, [How to do Long Squat like Real Gopnik](https://www.youtube.com/watch?v=EJc0t5FtDTs) (2018, 4 m) en [Gopnik Workout (Russian Prison Exercise)](https://www.youtube.com/watch?v=ERl2kySiois) (2018, 6 m), plus [Gopnik workout program](https://www.youtube.com/watch?v=lu9GPqLL4RQ) (Life of Boris 2017, 6 m) – om ja te kunnen zeggen op: [Could You Pass The Russian Gopnik Test?](https://www.youtube.com/watch?v=42DzIDtMJlY) (Bald and Bankrupt, 2019, 20 m). Meer links onderaan.
+Zie ook [Russian Gopnik Anatoly Teaches Westerners How to Squat](https://www.youtube.com/watch?v=dLsGZCUVW74) (AnatolyRusTV, 2018, 10 m) en, van hetzelfde kanaal, [How to do Long Squat like Real Gopnik](https://www.youtube.com/watch?v=EJc0t5FtDTs) (2018, 4 m) en [Gopnik Workout (Russian Prison Exercise)](https://www.youtube.com/watch?v=ERl2kySiois) (2018, 6 m), plus [Gopnik workout program](https://www.youtube.com/watch?v=lu9GPqLL4RQ) (Life of Boris 2017, 6 m) – om ja te kunnen zeggen op: [Could You Pass The Russian Gopnik Test?](https://www.youtube.com/watch?v=42DzIDtMJlY) (Bald and Bankrupt, 2019, 20 m). Meer links onderaan.
 
 
 <br/>
@@ -135,7 +135,7 @@ Zie
 
 - [A Complete Guide on Dealing with Gopniks](https://www.youtube.com/watch?v=pJ7x-HKRkoU) (NFKRZ, 2022, 14 m); van hetzelfde kanaal is [Russian 101 – Talking to Gopniks](https://www.youtube.com/watch?v=8OsCOM6PYrM) (2017, 5 m)
 - [How to Date Real Gopnitsa (Gopnik Dating Tutorial)](https://www.youtube.com/watch?v=mXdvjPJkwZc) (AnatolyRusTV, 2018, 5 m)
-- [What's in my gopnik bag?]( https://www.youtube.com/watch?v=s5FwtI0G49A) (Life of Boris 2017, 7 m)
+- [What's in my gopnik bag]( https://www.youtube.com/watch?v=s5FwtI0G49A) (Life of Boris 2017, 7 m)
 
 
 <br/>
