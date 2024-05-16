@@ -1,5 +1,5 @@
 ---
-title: GOPNIK
+title: GOPNIK EN DE SLAV SQUAT
 publishdate: '2024-05-14'
 draft: false
 land_en_volk_onderwerpen:
@@ -13,8 +13,8 @@ trefwoorden:
   - etymologie
   - Ushanka Show
 seo_description: >-
-  Volkscultuur in een trainingspak. De Russische gopnik in 300 woorden en 40
-  video's
+  Volkscultuur in een trainingspak. De Russische gopnik in 400 woorden en 40
+  links
 intro: >-
 
   Wat wij tokkies of gabbers zouden noemen, en wat elders wordt aangeduid met
@@ -105,7 +105,7 @@ Verschillende lezingen over de herkomst van de term. Die kan terug te voeren zij
 
 #### Slav Squat
 
-De hurkzit, of *Slav squat*, is een blijvende nalatenschap van de gopniki. Probeer vooral zelf, en ontdek misschien dat het er makkelijker uitziet dan het is.
+De hurkzit, of *Slav squat*, is een blijvende nalatenschap van de gopniki. Probeer vooral zelf, en ontdek misschien dat het er gemakkelijker uitziet dan het is.
 
 <br/>
 
