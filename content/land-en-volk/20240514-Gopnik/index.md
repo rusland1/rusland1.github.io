@@ -135,7 +135,7 @@ Zie
 
 - [A Complete Guide on Dealing with Gopniks](https://www.youtube.com/watch?v=pJ7x-HKRkoU) (NFKRZ, 2022, 14 m); van hetzelfde kanaal is [Russian 101 – Talking to Gopniks](https://www.youtube.com/watch?v=8OsCOM6PYrM) (2017, 5 m)
 - [How to Date Real Gopnitsa (Gopnik Dating Tutorial)](https://www.youtube.com/watch?v=mXdvjPJkwZc) (AnatolyRusTV, 2018, 5 m)
-- [What's in my gopnik bag]( https://www.youtube.com/watch?v=s5FwtI0G49A) (Life of Boris 2017, 7 m)
+- [What's in my gopnik bag](https://youtu.be/s5FwtI0G49A?si=3bwB64XUgfmAdcki) (Life of Boris 2017, 7 m)
 
 
 <br/>
