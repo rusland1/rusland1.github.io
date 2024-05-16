@@ -131,8 +131,9 @@ Zie ook [Russian Gopnik Anatoly Teaches Westerners How to Squat](https://www.you
 
 #### Meer
 
-Zie
+Kijken
 
+- [Supergopniks – Gopnik Weapons – Fight Like A Gopnik](https://www.youtube.com/watch?v=Pzn6POMEGqE) (HBKN, 2020, 4 m)
 - [A Complete Guide on Dealing with Gopniks](https://www.youtube.com/watch?v=pJ7x-HKRkoU) (NFKRZ, 2022, 14 m); van hetzelfde kanaal is [Russian 101 – Talking to Gopniks](https://www.youtube.com/watch?v=8OsCOM6PYrM) (2017, 5 m)
 - [How to Date Real Gopnitsa (Gopnik Dating Tutorial)](https://www.youtube.com/watch?v=mXdvjPJkwZc) (AnatolyRusTV, 2018, 5 m)
 - [What's in my gopnik bag](https://youtu.be/s5FwtI0G49A?si=3bwB64XUgfmAdcki) (Life of Boris 2017, 7 m)
@@ -140,7 +141,7 @@ Zie
 
 <br/>
 
-Lees
+Lezen
 
 EN
 
