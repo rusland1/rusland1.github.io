@@ -1,6 +1,6 @@
 ---
 title: 'ZESDE NAAMVAL: LOCATIEF/PREPOSITIONAL'
-publishdate: '2024-05-23'
+publishdate: '2024-06-01'
 draft: false
 taal_onderwerpen:
   - naamvallen
