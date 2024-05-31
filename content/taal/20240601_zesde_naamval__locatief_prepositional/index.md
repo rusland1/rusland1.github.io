@@ -108,9 +108,8 @@ Zie ook
 - [Prepositions В, ВО, НА | Russian prepositions (Prepositional case)](https://www.youtube.com/watch?v=3Vf3xgi60KA) (Diana Lipsky, 2022, 6 m)
 - [Предлоги "В" и "НА"](https://www.youtube.com/watch?v=6JveE4NFwtY) (Russian for Foreigners, 2022, 9 m)
 - [Грамматика русского языка: предлог ВО](https://www.youtube.com/watch?v=52jMIy7Z-P8) (русский с носителем, 2019, 5 m)
-- [The most important Russian Prepositions: В, НА, О (in, on, about) with Prepositional Case](https://www.youtube.com/watch?v=_aru1fn_qV4) (Alfia, 2019, 17 m)
+- [The most important Russian Prepositions: В, НА, О (in, on, about) with Prepositional Case](https://www.youtube.com/watch?v=_aru1fn_qV4) (LRW Alfia, 2019, 17 m)
 - [Предлоги "В" и "НА" в русском языке](https://www.youtube.com/watch?v=2-gpYEHzCRI) (русский с носителем, 2018, 14 m)
-- [Beginning Russian: В or НА? Prepositional Case For Location](https://www.youtube.com/watch?v=fuZbYiPyDLo) (Amazing Russian, 2017, 5 m)
 - [Prepositional Case with "in" and "at"](https://www.youtube.com/watch?v=Z3sPNew8Ibk) (College Russian, 2015, 20 m)
 - [Russian prepositions 2 – в, на – in, at, on – Russian vocabulary](https://youtu.be/yAPDZz41zp0) (Antonia Romaker, 2014, 6 m); van hetzelfde kanaal is [Russian prepositions: в, на – in, at, on, on the surface of – русские предлоги](https://www.youtube.com/watch?v=nPiGs3AN8Y0)
 (2014, 6 m)
@@ -216,7 +215,7 @@ In zwart overhemd (**черная рубашка**): **в черной руба�
 
 #### Tijdvak
 Zesde naamval voor een plaatsing in de tijd.<br/>
-Deze week(**неделя**): **на этой неделе**.<br/>
+Deze week (**неделя**): **на этой неделе**.<br/>
 Volgende maand (**месяц**): **в следующем месяце**.<br/>
 Vorig jaar (**год**): **в прошлом году**.
 
@@ -224,7 +223,7 @@ Vorig jaar (**год**): **в прошлом году**.
 
 Zie
 
-- [Basic Russian 3: Months. Expressing “In a Certain Month”](https://youtu.be/1pP9CqJCmSw?si=bCTNhyDP6vHoa8Ay) (Amazing Russian, 2024, 6 m)
+- [Months. Expressing “In a Certain Month”](https://youtu.be/1pP9CqJCmSw?si=bCTNhyDP6vHoa8Ay) (Amazing Russian, 2024, 6 m)
 - [Prepositional in WHEN Constructions](https://www.youtube.com/watch?v=9h4ZEdFkfZE) (Intermediate Russian, 2019, 1 m)
 
 
