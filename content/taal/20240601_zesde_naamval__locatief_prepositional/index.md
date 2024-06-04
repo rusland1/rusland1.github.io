@@ -83,10 +83,11 @@ Beide voorzetsels kunnen ook richting aangeven. Dan geen zesde naamval maar de v
 <br/>
 
 
-De **в** wordt **во** wanneer ook het daaropvolgende woord een f-klank heeft.<br/>
-In Frankrijk (**Франция**): **во Франции**.<br/>
-In de zin (**фраза**): **во фразе**.<br/>
-In alles (**все**): **во всех**.
+De **в** wordt **во** wanneer de uitspraak (of uitspreekbaarheid) erom vraagt, Zoals in<br/>
+in Frankrijk (**Франция**): **во Франции**.<br/>
+in de zin (**фраза**): **во фразе**.<br/>
+in alles (**все**): **во всех**.
+in een droom/slaap (**сон**): **во сне**.
 
 <br/>
 
