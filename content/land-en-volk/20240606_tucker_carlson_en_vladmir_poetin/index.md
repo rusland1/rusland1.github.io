@@ -50,6 +50,13 @@ Slechte recensies waren er al voordat iemand iets gezien had. Zie [The biggest o
 
 <br/>
 
+#### Na afloop
+
+Tijdens het gesprek leken de verhoudingen best vriendelijk; na afloop was dat anders. Carlson vergeleek Poetin met [an over-prepared student](https://www.msn.com/en-us/news/world/tucker-carlson-throws-putin-under-the-bus/ar-BB1j7UH8) en noemde diens 'denazificatie'-argument 'one of the dumbest things I'd ever heard'. Poetin op zijn beurt was niet lovend over de interviewer; zie o.a. [Putin Humiliates Tucker Carlson After Interview](https://www.newsweek.com/putin-humiliates-tucker-carlson-after-interview-too-soft-1870167) (Newsweek, 15-02-2024) en [Putin (...) mocks Tucker Carlson’s questions](https://www.theguardian.com/world/2024/feb/15/vladimir-putin-tucker-carlson-interview-footage-sharp-questions?ref=mc.news) (The Guardian, 15-02-2024).
+
+<br/>
+
+
 #### Meer
 
 Kijken (EN/NL)<br/>
@@ -80,7 +87,7 @@ Lezen
 
 #### Financial Times
 
-Het voorgaande grote gesprek tussen Poetin en westerse pers dateert van 28 juni 2019. Interview met The Financial Times, veelal over (Poetins kijk op) liberalisme. Zie [Vladimir Putin says liberalism has ‘become obsolete’](https://www.ft.com/content/670039ec-98f3-11e9-9573-ee5cbb98ed36) voor tekst en [Vladimir Putin: the full interview](https://www.ft.com/video/d62ed062-0d6a-4818-86ff-4b8120125583) voor beeld (90 m). Ontmoeting en/of botsing tussen twee werelden, Engels ondertiteld, . Kort versie (6 m) hieronder.
+Het voorgaande grote gesprek tussen Poetin en westerse pers dateert van 28 juni 2019. Interview met The Financial Times, veelal over (Poetins kijk op) liberalisme. Zie [Vladimir Putin says liberalism has ‘become obsolete’](https://www.ft.com/content/670039ec-98f3-11e9-9573-ee5cbb98ed36) voor tekst en [Vladimir Putin: the full interview](https://www.ft.com/video/d62ed062-0d6a-4818-86ff-4b8120125583) voor beeld (90 m). Ontmoeting en/of botsing tussen twee werelden, Engels ondertiteld. Korte versie (6 m) hieronder.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YCxDh2rf21E?si=HBzMsIo4mOzLfW9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
