@@ -6,12 +6,11 @@ intro: >-
   dan beter dan **русский** leren. 
 pubdate: 2020-7-9
 publishdate: '2020-07-09'
-resources: []
 seo_description: >-
   In quarantaine of veel thuis vanwege corona? Zo besteed je je extra tijd
   nuttig: door Russisch te leren.
 taal_onderwerpen:
-  - Studie
+  - leren
 title: Russisch leren in coronatijd
 trefwoorden:
   - corona

@@ -11,12 +11,11 @@ intro: >-
   de beste reden voor Russisch: gewoon de mooiste taal van allemaal.
 pubdate: 2020-1-31
 publishdate: '2020-01-31'
-resources: []
 seo_description: >-
   De beste redenen (er zijn er een heleboel) om (ondanks de moeilijksgraad) de
   mooiste taal ter wereld te gaan leren.
 taal_onderwerpen:
-  - Studie
+  - leren
 title: Waarom Russisch?
 trefwoorden:
   - Amazing Russian

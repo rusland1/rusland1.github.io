@@ -7,9 +7,9 @@ intro: >-
   and displays of military might, we meet the people of Russia. They tell us of
   a nation poised between tradition and the future.’
 land_en_volk_onderwerpen:
-  - reportage
+  - mens
+  - documentaire
 publishdate: '2020-11-24'
-resources: []
 seo_description: >-
   Het leven van gewone Russen in twee series DW-documentaires: The Russians (2
   delen) & Living in Russia (6 delen). Door Juri Rescheto.

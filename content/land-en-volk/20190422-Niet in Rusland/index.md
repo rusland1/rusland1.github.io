@@ -9,18 +9,17 @@ intro: >-
   Toch nuttig om even kennis van te nemen, zeker voor wie oostwaarts reist.
 land_en_volk_onderwerpen:
   - cultuur
-  - reizen
 onderwerpen:
   - cultuur
   - reizen
 pubdate: 2020-1-31
 publishdate: '2019-04-22'
-resources: []
 seo_description: ''
 tags: advies
 title: Niet in Rusland
 trefwoorden:
   - advies
+  - reizen
 voetnoot: ''
 
 ---

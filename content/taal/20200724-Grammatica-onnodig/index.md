@@ -8,12 +8,11 @@ intro: >
   beschrijving onder de hier ingeplakte video), ‘throw away the grammar books
   and you'll make massive progress very quickly’.
 publishdate: '2020-07-24'
-resources: []
 seo_description: >-
   Moet je per se (veel) grammtica leren om Russisch te kunnen? Bald and Bankrupt
   zegt van niet.
 taal_onderwerpen:
-  - Studie
+  - leren
 title: Grammatica onnodig?
 trefwoorden:
   - grammatica

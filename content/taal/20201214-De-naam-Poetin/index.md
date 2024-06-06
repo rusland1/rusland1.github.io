@@ -9,18 +9,18 @@ intro: >-
   taal](https://btsrotterdam.nl/2017/06/06/6-juni-dag-russische-taal/) (6 juni)
   2019.
 publishdate: '2020-12-14'
-resources: []
 seo_description: >-
   Waar komt de naam Poetin vandaan? En betekent het iets? Hier het antwoord van
   Ellen Rutten (aan FunX, 2019) en meer over het woord путь.
 taal_onderwerpen:
-  - namen
+  - weten
 title: Wegmans? De naam Poetin en het woord путь
 trefwoorden:
   - Poetin
   - Ellen Rutten
   - Dag van de Russische taal
   - Comprehensible Russian
+  - namen
 voetnoot: ''
 
 ---

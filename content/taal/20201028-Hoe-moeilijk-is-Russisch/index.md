@@ -9,12 +9,11 @@ intro: >
   beproeving zijn. De een loopt met gemak een marathon, de ander krijgt een
   halve nog niet uitgefietst.
 publishdate: '2020-10-28'
-resources: []
 seo_description: >-
   Hoe moeilijk is Russisch? Russisch is makkelijk, Russisch is moeilijk. Het is
   allebei waar, en dit is waarom.
 taal_onderwerpen:
-  - studie
+  - leren
 title: Hoe moeilijk is Russisch?
 trefwoorden:
   - ' i Speak Russian'

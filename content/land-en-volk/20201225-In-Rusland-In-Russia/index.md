@@ -10,10 +10,9 @@ intro: >-
   je kijken waar die drie vervolgens mee terugkwamen. ‘Whatever man wishes to
   see in our Mother Russia, is there to find.’
 land_en_volk_onderwerpen:
-  - reizen
   - stad en land
+  - documentaire
 publishdate: '2020-12-25'
-resources: []
 seo_description: >-
   In Russia – в России (2020, 6 m), door Vincent Urban, Max Neumeier en Tim
   Höddinghaus. ‘Whatever man wishes to see in our Mother Russia, is there to

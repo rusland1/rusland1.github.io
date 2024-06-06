@@ -9,10 +9,11 @@ intro: >-
   kilometer), op het geld dat Herman onderweg verdient. Documentaire, kunst en
   roadmovie: het is van alles bij elkaar en niks te veel. 
 land_en_volk_onderwerpen:
-  - reportage
+  - documentaire
+  - mens
+  - cultuur
 pubdate: 2020-2-15
 publishdate: '2020-02-15'
-resources: []
 seo_description: ''
 title: Russian Tattoo Tour
 trefwoorden:

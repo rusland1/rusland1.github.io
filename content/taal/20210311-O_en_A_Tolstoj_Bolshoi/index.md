@@ -10,13 +10,12 @@ intro: >+
   woord **крокодил** (krokodil) als de uitspraak van namen zoals Tolstoj.
 
 publishdate: '2021-03-11'
-resources: []
 seo_description: >-
   Russische klemtoon (Russian stress) en de uitspraak van O en A. Hoe je Tolstoj
   en Bolshoi echt uitspreekt.  
 taal_onderwerpen:
   - letters
-  - namen
+  - woorden
 title: 'O en A: Tolstoj, Bolshoi en krakadil Gena'
 trefwoorden:
   - klemtoon
@@ -26,6 +25,7 @@ trefwoorden:
   - Anya Golubeva
   - Real Russian Club
   - russianwithrussian
+  - namen
 voetnoot: ''
 
 ---

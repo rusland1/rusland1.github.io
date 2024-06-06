@@ -14,9 +14,8 @@ intro: >
   (Smithsonian Magazine, 2015). 
 land_en_volk_onderwerpen:
   - documentaire
-  - muziek
+  - cultuur
 publishdate: '2020-07-16'
-resources: []
 seo_description: ''
 title: Vinyl in Rusland (en röntgen in de USSR)
 trefwoorden:

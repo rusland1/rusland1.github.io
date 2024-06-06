@@ -6,20 +6,19 @@ intro: >+
   net wat anders dan praktijk, en soms zijn de verschillen groot. 
 
 publishdate: '2021-01-20'
-resources: []
 seo_description: >-
   Introductie van de Russische spreektaal, Russian colloquial of русский
   разговорный язык. Russisch in de praktijk is iets anders dan het Russisch in
   lesmateriaal. 
 taal_onderwerpen:
   - spreken
-  - slang
 title: Spreek- en informele taal (разговорный язык)
 trefwoorden:
   - Russian With Max
   - Boost Your Russian
   - Ru-Land Club
   - Russian with Katya
+  - slang
 voetnoot: ''
 
 ---

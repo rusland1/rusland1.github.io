@@ -7,10 +7,9 @@ intro: >-
   Rusland om 'Rasputin' te spelen. Van, jawel, ons eigen [Boney
   M](https://youtu.be/SYnVYJDxu2Q), uit de tijd dat TopPop nog bestond.
 land_en_volk_onderwerpen:
-  - Muziek
+  - Varia
 pubdate: 2020-2-15
 publishdate: '2020-02-15'
-resources: []
 seo_description: ''
 title: Davie504 in Moskou
 trefwoorden:

@@ -13,10 +13,9 @@ intro: >-
 iscjklanguage: ''
 land_en_volk_onderwerpen:
   - Stad en land
-  - reportage
+  - documentaire
 pubdate: 2020-3-21
 publishdate: '2020-03-21'
-resources: []
 seo_description: ''
 title: 'Koud, kouder, koudst: Ojmjakon'
 trefwoorden:

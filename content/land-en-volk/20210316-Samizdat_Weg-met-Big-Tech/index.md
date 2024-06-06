@@ -7,10 +7,8 @@ intro: >-
   weer in beeld: samizdat, de ondergrondse doe-het-zelf pers en distributie.
 land_en_volk_onderwerpen:
   - literatuur
-  - muziek
   - geschiedenis
 publishdate: '2021-03-16'
-resources: []
 seo_description: >-
   Over samizdat of самиздат, de de ondergrondse DIY-pers uit de sovjettijd, voor
   vrije verspreiding van denkbeelden en kunst. 

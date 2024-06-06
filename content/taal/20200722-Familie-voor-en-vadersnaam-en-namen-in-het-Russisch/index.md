@@ -7,16 +7,16 @@ intro: >-
   voor Russen een bekende en staat op hun paspoort, rijbewijs en aanverwante
   documenten.
 publishdate: '2020-07-22'
-resources: []
 seo_description: >-
   Een Russische naam heeft drie delen. Hier lees en leer je (bijna) alles over
   de familie-, voor- en vadersnaam (FIO) in het Russisch.
 taal_onderwerpen:
-  - Namen
-title: 'Familie-, voor- en vadersnaam (FIO) en namen in het Russisch'
+  - weten
+title: Familie-, voor- en vadersnaam (FIO) en namen in het Russisch
 trefwoorden:
   - Russian from Russia
   - Amazing Russian
+  - namen
 voetnoot: ''
 
 ---

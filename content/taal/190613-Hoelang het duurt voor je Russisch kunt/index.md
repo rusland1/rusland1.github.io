@@ -10,12 +10,11 @@ intro: >
   om de taal goed te leren? **Как долго** (hoe lang), **сколько** (hoeveel)?
 pubdate: 2020-1-31
 publishdate: '2020-01-31'
-resources: []
 seo_description: >-
   Hoelang duurt het tot je vloeiend Russisch kunt? Verschillende antwoorden hier
   verzameld.
 taal_onderwerpen:
-  - Studie
+  - leren
 title: Hoelang het duurt voor je Russisch kunt
 trefwoorden:
   - motivatie

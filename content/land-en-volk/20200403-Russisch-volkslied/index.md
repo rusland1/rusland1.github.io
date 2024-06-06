@@ -8,10 +8,9 @@ intro: >-
   slotwoorden (**так было, так есть и так будет всегда**): zo was het, zo is
   het, en zo zal het altijd zijn.
 land_en_volk_onderwerpen:
-  - muziek
+  - Cultuur
 pubdate: 2020-4-3
 publishdate: '2020-04-03'
-resources: []
 seo_description: 'Alles wat je altijd al wilde weten (en meer) over het Russisch volkslied. '
 title: Russisch volkslied
 trefwoorden:

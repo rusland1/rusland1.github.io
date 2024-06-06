@@ -8,13 +8,13 @@ intro: >-
   dat wil zeggen substandaard taalgebruik’, zegt
   [Wikipedia](https://nl.wikipedia.org/wiki/Slang_(taal)). 
 publishdate: '2020-08-02'
-resources: []
 seo_description: Introductie op het rijke domein van de Russische slang.
 taal_onderwerpen:
-  - slang
+  - spreken
 title: Roesski sleng
 trefwoorden:
   - RussianLearnsYou
+  - slang
 voetnoot: ''
 
 ---
