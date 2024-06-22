@@ -83,7 +83,6 @@ Lezen
 - [‘Talkshow or a serious conversation?’](https://www.theguardian.com/us-news/2024/feb/09/tucker-carlson-vladimir-putin-interview-analysis-russia-ukraine) (The Guardian, 09-02-2024)
 
 <br/>
-<br/>
 
 #### Financial Times
 

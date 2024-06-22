@@ -57,12 +57,9 @@ Artikel op [realnoevremya.ru](https://realnoevremya.ru/news/307878-ast-zakrasilo
 
 Russian with Julie zet de schrik van alle taalstudenten in: de supersnel pratende nieuwslezer(es). Elke snipper ([Vladimir Zhirinovsky](https://en.wikipedia.org/wiki/Vladimir_Zhirinovsky) overleden, Poetin feliciteert [Aleksandar Vučić](https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87)) levert stof op voor minuten analyse en (vooral) grammatica.
 
- <br/>
-
 
 **Learn Russian with News** <br/>
 (2022, 17 m)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQFL5dyM-0I?si=DBIFsvAyYW-F5XTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,9 +71,6 @@ Russian with Julie zet de schrik van alle taalstudenten in: de supersnel pratend
 #### Wimbledon
 
 Anna Cher (Russian From the Heart) was zo behulpzaam om een (licht ingekort) [BBC-artikel](https://www.bbc.com/russian/news-61131218) drie keer door te nemen. Eerst langzaam, dan met uitleg, en aan het einde snel – al is dat voor haar **в нормальном темпе**, op normaal tempo. Wat aanvankelijk volkomen onnavolgbaar lijkt, wordt snel helder. Anna wordt bedankt, en al twee jaar ook gemist. 
-
- <br/>
-
 
 
 **Russian News Reading: Уимблдон и российские теннисисты**  <br/>
