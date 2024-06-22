@@ -73,7 +73,7 @@ Russian with Julie zet de schrik van alle taalstudenten in: de supersnel pratend
 
 #### Wimbledon
 
-Anna Cher (Russian From the Heart) was zo behulpzaam om een (licht ingekort) [BBC-artikel](https://www.bbc.com/russian/news-61131218) drie keer door te nemen. Eerst langzaam, dan met uitleg, en aan het einde snel – al is dat voor Anna **в нормальном темпе**, op normaal tempo. Wat aanvankelijk volkomen onnavolgbaar lijkt, wordt snel helder. Anna wordt bedankt, en al twee jaar ook gemist. 
+Anna Cher (Russian From the Heart) was zo behulpzaam om een (licht ingekort) [BBC-artikel](https://www.bbc.com/russian/news-61131218) drie keer door te nemen. Eerst langzaam, dan met uitleg, en aan het einde snel – al is dat voor haar **в нормальном темпе**, op normaal tempo. Wat aanvankelijk volkomen onnavolgbaar lijkt, wordt snel helder. Anna wordt bedankt, en al twee jaar ook gemist. 
 
  <br/>
 
@@ -93,11 +93,11 @@ Anna Cher (Russian From the Heart) was zo behulpzaam om een (licht ingekort) [BB
 #### MEER
 
 
-**Boost Your Russian** maakte acht afleveringen News in Slow Russian, verzameld in deze [playlist](https://www.youtube.com/watch?v=4P-b7-ILvdc&list=PLlly00ErnI99IR4QfCwpBsUV5EnBfO3Hl). "News" is een groot woord voor items als [Skinniest House in London](https://www.youtube.com/watch?v=2x7f5mODSlk) (2021, 6 m), [Postcard from Titanic](https://www.youtube.com/watch?v=DUMZbFO3lY8) (2021, 7 m) en [Unusual spots for wedding](https://youtu.be/sykakBssebE?si=P3Xp0kIJT5RxPHPj) (2022, 7 m), maar dat maakt weinig uit: Kristina's (voorlees)stem maakt alles onverteerbaar.
+**Boost Your Russian** maakte acht afleveringen News in Slow Russian, verzameld in deze [playlist](https://www.youtube.com/playlist?list=PLlly00ErnI99IR4QfCwpBsUV5EnBfO3Hl). "News" is een groot woord voor items als [Skinniest House in London](https://www.youtube.com/watch?v=2x7f5mODSlk) (2021, 6 m), [Postcard from Titanic](https://www.youtube.com/watch?v=DUMZbFO3lY8) (2021, 7 m) en [Unusual spots for wedding](https://youtu.be/sykakBssebE?si=P3Xp0kIJT5RxPHPj) (2022, 7 m), maar dat maakt weinig uit: Kristina's (voorlees)stem maakt alles onverteerbaar.
 
 **Russian with Nastya** behandelt nieuwsvocabulaire in [Understand Russian News | Advanced Vocabulary](https://www.youtube.com/watch?v=2lbxd84HJFY) (2023, 22 m).
 
-De serie Russian News for language students van **Learn Russian** (Stanislav Chernyshov) is matig en verouderd. 19 beknopte items in deze [playlist ](https://www.youtube.com/watch?v=2Y6E5hHaf_4&list=PLLeL3RO6WtnX5RZEtg6PExYF2Z47O5GEj&index=1) voor wie desondanks interesse heeft. 
+De serie Russian News for language students van **Learn Russian** (Stanislav Chernyshov) is matig en verouderd. 19 beknopte items in deze [playlist ](https://www.youtube.com/playlist?list=PLLeL3RO6WtnX5RZEtg6PExYF2Z47O5GEj) voor wie desondanks interesse heeft. 
 
 
 
