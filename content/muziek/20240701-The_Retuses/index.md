@@ -76,7 +76,7 @@ Uit de talkshow Профилактика, 27-01-2012
 Muziek
 
 - [17:55 sessions](https://youtu.be/H7yjR55R1kQ?si=m0ImoLTFFLBq3Bi_) (2020, 13 m)
-- [PSP](https://youtu.be/NTY35x2ALyU?si=RN8j4SItZPtBlZJW) (2019)
+- [PSP](https://youtu.be/cP35yGG81gA?si=y5AEFYUawzp6YuWx) (2019)
 - [Когда нибудь мой свет тебя найдет](https://youtu.be/vlkRQK0IXRQ?si=JnoABrEyGOTGt52q) (2016)
 - [Sagitta](https://youtu.be/lcehQJGAP9E?si=FP8f45Yr_UP_IPxF) (2016), zie ook [tekstclip](https://youtu.be/jswvYoYxlQA?si=52SYC1FvjABlIWDJ) en [live bij ШООМ](https://youtu.be/jswvYoYxlQA?si=52SYC1FvjABlIWDJ)
 - [Молчать и Смотреть](https://youtu.be/RFgnx6jKmis?si=d7PeNwJb3WPpiHYS) (2013)
