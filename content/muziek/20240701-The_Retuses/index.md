@@ -96,3 +96,13 @@ Zie/lees
 
 [Instagram](https://www.instagram.com/the_retuses_music/)<br/>
 [Wikipedia](https://ru.wikipedia.org/wiki/The_Retuses)
+
+
+
+<br/>
+<br/>
+
+
+*De meeste muziek hier staat ook in een [R1 afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLeE-zqOrSLhxfIpK2vuUJNCKSzyVBi0yM) (op volgorde van plaatsing). <br/>
+Zie ook [Best Russian Music](https://www.youtube.com/playlist?list=PLeE-zqOrSLhxTFYDvlwUu4hYby9DojwoD) en [Russian Song Lyrics](https://www.youtube.com/playlist?list=PLeE-zqOrSLhzkRCATzT8__oNifBChVHGK).*
+
