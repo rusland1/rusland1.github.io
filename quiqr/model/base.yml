@@ -11,34 +11,94 @@ menu:
     title: Artikelen
     menuItems:
       - key: taalartikelen
+      - key: entaalartikelen
       - key: muziekartikelen
+      - key: enmuziekartikelen
       - key: landartikelen
+      - key: enlandartikelen
 
   - key: pagina
     title: Overige pagina's
     menuItems:
       - key: faq
+      - key: enfaq
       - key: linkspagina
+      - key: enlinkspagina
       - key: contactpagina
+      - key: encontactpagina
 
   - key: lab
     title: Testpagina's
     menuItems:
       - key: lab
+      - key: enlab
 
   - key: Instellingen
     title: Voorpaginateksten
     menuItems:
       - key: globalSiteSettings
+      - key: englobalSiteSettings
       - key: taalvoorpagina
+      - key: entaalvoorpagina
       - key: muziekvoorpagina
+      - key: enmuziekvoorpagina
       - key: landvoorpagina
+      - key: enlandvoorpagina
 
 collections:
   - key: landartikelen
     title: Land & Volk
     sortkey: publishdate
-    folder: content/land-en-volk/
+    folder: content/nl/land-en-volk/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: land_en_volk_onderwerpen
+        title: Onderwerp(en) Land en Volk
+        type: chips
+        tip: Alleen van toepassing in Land en Volk
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: enlandartikelen
+    title: Land & Volk (EN)
+    sortkey: publishdate
+    folder: content/en/land-en-volk/
     extension: md
     dataformat: yaml
     itemtitle: Post
@@ -87,7 +147,60 @@ collections:
   - key: muziekartikelen
     title: Muziek
     sortkey: publishdate
-    folder: content/muziek/
+    folder: content/nl/muziek/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: genres
+        title: Genre(s)
+        type: chips
+        tip: 'Alleen van toepassing in Muziek '
+      - key: artiesten
+        title: Artiest(en)
+        type: chips
+        tip: 'Alleen van toepassing in Muziek '
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: enmuziekartikelen
+    title: Muziek (EN)
+    sortkey: publishdate
+    folder: content/en/muziek/
     extension: md
     dataformat: yaml
     itemtitle: Post
@@ -139,7 +252,28 @@ collections:
 
   - key: lab
     title: Лаборатория
-    folder: content/лаборатория/
+    folder: content/nl/лаборатория/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+
+  - key: enlab
+    title: Лаборатория (EN)
+    folder: content/en/лаборатория/
     extension: md
     dataformat: yaml
     itemtitle: Post
@@ -161,7 +295,52 @@ collections:
   - key: taalartikelen
     title: Taal
     sortkey: publishdate
-    folder: content/taal/
+    folder: content/nl/taal/
+    extension: md
+    dataformat: yaml
+    itemtitle: Post
+    fields:
+      - key: publishdate
+        title: Publicatiedatum
+        type: date
+        default: now
+      - key: draft
+        title: Draft
+        type: boolean
+      - key: taal_onderwerpen
+        title: Taalonderwerp(en)
+        type: chips
+        tip: Alleen van toepassing in Taal
+      - key: trefwoorden
+        title: Trefwoorden
+        type: chips
+      - key: seo_description
+        title: SEO beschrijving (voor als intro tekst niet volstaat)
+        type: string
+      - key: title
+        title: Titel
+        type: string
+      - key: intro
+        title: Intro
+        type: markdown
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: voetnoot
+        title: Voetnoot
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+
+  - key: entaalartikelen
+    title: Taal (EN)
+    sortkey: publishdate
+    folder: content/en/taal/
     extension: md
     dataformat: yaml
     itemtitle: Post
@@ -206,7 +385,42 @@ collections:
 singles:
   - key: taalvoorpagina
     title: Instellingen Taal
-    file: content/stuff/taal/index.md
+    file: content/nl/stuff/taal/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: entaalvoorpagina
+    title: Instellingen Taal (EN)
+    file: content/en/stuff/taal/index.md
     dataformat: yaml
     fields:
       - key: settings
@@ -241,7 +455,42 @@ singles:
 
   - key: muziekvoorpagina
     title: Instellingen Muziek
-    file: content/stuff/muziek/index.md
+    file: content/nl/stuff/muziek/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: enmuziekvoorpagina
+    title: Instellingen Muziek (EN)
+    file: content/en/stuff/muziek/index.md
     dataformat: yaml
     fields:
       - key: settings
@@ -276,7 +525,7 @@ singles:
 
   - key: landvoorpagina
     title: Instellingen Land & Volk
-    file: content/stuff/land-en-volk/index.md
+    file: content/nl/stuff/land-en-volk/index.md
     dataformat: yaml
     fields:
       - key: settings
@@ -309,10 +558,67 @@ singles:
             title: Thumbnail
             type: bundle-image-thumbnail
 
+  - key: enlandvoorpagina
+    title: Instellingen Land & Volk (EN)
+    file: content/en/stuff/land-en-volk/index.md
+    dataformat: yaml
+    fields:
+      - key: settings
+        title: settings
+        type: hidden
+
+      - key: achtergrondLinks
+        title: Achtergrondafb. Links
+        type: bundle-manager
+        path: imgslinks
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+      - key: achtergrondRechts
+        title: Achtergrondafb. Rechts
+        type: bundle-manager
+        path: imgsrechts
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
 
   - key: contactpagina
     title: 'Pagina: Contact'
-    file: content/contact/index.md
+    file: content/nl/contact/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
+  - key: encontactpagina
+    title: 'Pagina: Contact (EN)' 
+    file: content/en/contact/index.md
     dataformat: yaml
     fields:
       - key: title
@@ -335,7 +641,7 @@ singles:
 
   - key: faq
     title: 'Pagina: FAQ'
-    file: content/faq/index.md
+    file: content/nl/faq/index.md
     dataformat: yaml
     fields:
       - key: title
@@ -355,9 +661,49 @@ singles:
           - key: thumb
             title: Thumbnail
             type: bundle-image-thumbnail
+
+  - key: enfaq
+    title: 'Pagina: FAQ (EN)'
+    file: content/en/faq/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Titel
+        type: string
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+      - key: bundle-manager
+        type: bundle-manager
+        path: imgs
+        extensions:
+          - png
+          - jpg
+          - gif
+        fields:
+          - key: thumb
+            title: Thumbnail
+            type: bundle-image-thumbnail
+
   - key: linkspagina
     title: 'Pagina: Links'
-    file: content/links/index.md
+    file: content/nl/links/index.md
+    dataformat: yaml
+    fields:
+      - key: title
+        title: Paginatitel
+        type: string
+      - key: description
+        title: 'Meta: description'
+        type: string
+        multiLine: true
+      - key: mainContent
+        title: Inhoud
+        type: markdown
+
+  - key: enlinkspagina
+    title: 'Pagina: Links (EN)'
+    file: content/en/links/index.md
     dataformat: yaml
     fields:
       - key: title
@@ -373,7 +719,59 @@ singles:
 
   - key: globalSiteSettings
     title: Site Instellingen
-    file: data/globalSiteSettings.toml
+    file: data/nl/globalSiteSettings.toml
+    fields:
+      - key: title
+        title: Site Titel
+        type: string
+        tip: Zichtbaar in browsertab
+      - key: description
+        title: Site description (SEO)
+        type: string
+        tip: Zichtbaar in Google resultaten
+      - key: name
+        title: Naam site eigenaar
+        type: string
+      - key: overtitel
+        title: Over Titel
+        type: string
+      - key: overtekst1
+        title: Over tekst regel 1
+        type: string
+      - key: overtekst2
+        title: Over tekst regel 2
+        type: string
+      - key: copyright
+        title: Copyright
+        type: string
+      - key: addressTitle
+        title: Adres Titel
+        type: string
+      - key: address1
+        title: Adres regel 1
+        type: string
+      - key: address2
+        title: Adres regel 2
+        type: string
+      - key: socialTitle
+        title: Social.. Titel
+        type: string
+      - key: socialTwitter
+        title: URL Twitter
+        type: string
+      - key: socialYoutube
+        title: URL youtube
+        type: string
+      - key: socialPatreon
+        title: URL Patreon
+        type: string
+      - key: socialGithub
+        title: URL Github
+        type: string
+
+  - key: englobalSiteSettings
+    title: Site Instellingen (EN)
+    file: data/en/globalSiteSettings.toml
     fields:
       - key: title
         title: Site Titel

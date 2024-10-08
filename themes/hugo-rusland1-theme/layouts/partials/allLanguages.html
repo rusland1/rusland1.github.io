@@ -1,0 +1,5 @@
+<div style="position: absolute; right: 12px; top: 0;">
+    {{ range $.Site.Home.AllTranslations }}
+    <a style="font-size: 12px;" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+</div>
