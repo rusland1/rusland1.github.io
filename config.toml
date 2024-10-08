@@ -1,5 +1,4 @@
 title = "Rusland 1"
-DefaultContentLanguage = "nl"
 MetaDataFormat = "yaml"
 Paginate = 30
 SectionPagesMenu = "main"
@@ -8,13 +7,92 @@ canonifyURLs = false
 disableKinds = []
 enableRobotsTXT = true
 googleAnalytics = ""
-languageCode = "nl-nl"
 relativeURLs = true
 resources = []
 summarylength = 40.0
 theme = [
  "hugo-rusland1-theme"
 ]
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.nl]
+    contentDir = 'content/nl'
+    disabled = false
+    languageCode = 'nl-NL'
+    languageDirection = 'ltr'
+    languageName = 'Dutch'
+    weight = 1
+    [languages.nl.menu]
+      [[languages.nl.menu.nav1]]
+        name = "Taal"
+        url = "/nl/taal/"
+        weight = 2.0
+
+      [[languages.nl.menu.nav1]]
+        name = "Muziek"
+        url = "/nl/muziek/"
+        weight = 3.0
+
+      [[languages.nl.menu.nav1]]
+        name = "Land en Volk"
+        url = "/nl/land-en-volk/"
+        weight = 4.0
+
+      [[languages.nl.menu.nav2]]
+        name = "Links"
+        url = "/nl/links/"
+        weight = 7.0
+
+      [[languages.nl.menu.nav2]]
+        name = "FAQ"
+        url = "/nl/faq/"
+        weight = 8.0
+
+      [[languages.nl.menu.nav2]]
+        name = "Contact"
+        url = "/nl/contact/"
+        weight = 9.0
+
+
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.nav1]]
+        name = "Language"
+        url = "/en/taal/"
+        weight = 2.0
+
+      [[languages.en.menu.nav1]]
+        name = "Music"
+        url = "/en/muziek/"
+        weight = 3.0
+
+      [[languages.en.menu.nav1]]
+        name = "Country"
+        url = "/en/land-en-volk/"
+        weight = 4.0
+
+      [[languages.en.menu.nav2]]
+        name = "Links"
+        url = "/en/links/"
+        weight = 7.0
+
+      [[languages.en.menu.nav2]]
+        name = "FAQ"
+        url = "/en/faq/"
+        weight = 8.0
+
+      [[languages.en.menu.nav2]]
+        name = "Contact"
+        url = "/en/contact/"
+        weight = 9.0
 
 [markup]
 
@@ -39,39 +117,6 @@ section = [
   "HTML"
 ]
 
-
-[menu]
-
-  [[menu.nav1]]
-  name = "Taal"
-  url = "/taal/"
-  weight = 2.0
-
-  [[menu.nav1]]
-  name = "Muziek"
-  url = "/muziek/"
-  weight = 3.0
-
-  [[menu.nav1]]
-  name = "Land en Volk"
-  url = "/land-en-volk/"
-  weight = 4.0
-
-  [[menu.nav2]]
-  name = "Links"
-  url = "/links/"
-  weight = 7.0
-
-  [[menu.nav2]]
-  name = "FAQ"
-  url = "/faq/"
-  weight = 8.0
-
-  [[menu.nav2]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 9.0
-
 [params]
 
 mainSections = [
@@ -81,8 +126,8 @@ mainSections = [
 ]
 
 [taxonomies]
-artiesten = "artiesten"
-genres = "genres"
-land_en_volk_onderwerpen = "land_en_volk_onderwerpen"
-taal_onderwerpen = "taal_onderwerpen"
-trefwoorden = "trefwoorden"
+  artiesten = "artiesten"
+  genres = "genres"
+  land_en_volk_onderwerpen = "land_en_volk_onderwerpen"
+  taal_onderwerpen = "taal_onderwerpen"
+  trefwoorden = "trefwoorden"

@@ -1,0 +1,66 @@
+
+{{ if or (eq .Section "taal") (eq .Section "taal_onderwerpen") }}
+    {{.Scratch.Set "colorclass" "taal" }}
+    {{.Scratch.Set "titel" "taal" }}
+
+{{ else if or (eq .Section "muziek") (eq .Section "genres") }}
+    {{.Scratch.Set "colorclass" "muziek" }}
+    {{.Scratch.Set "titel" "muziek" }}
+
+{{ else if or (eq .Section "land-en-volk") (eq .Section "land_en_volk_onderwerpen") }}
+    {{.Scratch.Set "colorclass" "landenvolk" }}
+    {{.Scratch.Set "titel" "Land & Volk" }}
+
+{{ else}}
+    {{.Scratch.Set "colorclass" "overig" }}
+
+{{ end }}
+
+<div class="fixed-top" id="mainNav">
+
+
+    <div class="text-uppercase maingrid">
+      <div class="navcolorbg bg-{{.Scratch.Get "colorclass"}}"></div>
+        <div class="subgrid">
+
+            {{ $current := . }}
+            {{ range .Site.Menus.nav1 }}
+                {{ $active := or ($current.IsMenuCurrent "nav1" .) ($current.HasMenuCurrent "nav1" .) }}
+                {{ $active = or $active (eq .Name $current.Title) }}
+                {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
+                {{ $active = or $active (and (eq .Name "Tags") (eq $current.Section "tags")) }}
+                <a href="{{ .URL }}" {{ if $active }}class="active" aria-current="page"{{ end }}>
+                    <div class="item">
+                        {{ .Name }}
+                  </div>
+                </a>
+            {{ end }}
+
+        </div>
+
+        <div class="item">
+            <div class="sticky circle logo-{{.Scratch.Get "colorclass"}}">
+                <img src="/img/logobg2.png" id="logobg" />
+                <a href="/"><img src="/img/logoseq/image-0001.png" id="logo" /></a>
+            </div>
+        </div>
+
+        <div class="subgrid">
+            {{ partial "allLanguages.html" . }}
+
+            {{ $current := . }}
+            {{ range .Site.Menus.nav2 }}
+                {{ $active := or ($current.IsMenuCurrent "nav2" .) ($current.HasMenuCurrent "nav2" .) }}
+                {{ $active = or $active (eq .Name $current.Title) }}
+                {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
+                {{ $active = or $active (and (eq .Name "Tags") (eq $current.Section "tags")) }}
+                <a href="{{ .URL }}" {{ if $active }}class="active" aria-current="page"{{ end }}>
+                <div class="item">
+                    {{ .Name }}
+                </div>
+                </a>
+            {{ end }}
+        </div>
+    </div>
+
+  </div>
