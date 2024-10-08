@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language info on Rusland 1</title>
+    <link>/en/trefwoorden/language-info/</link>
+    <description>Recent content in Language info on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/trefwoorden/language-info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The letter Ё</title>
+      <link>/en/taal/20200219-de-letter-e/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20200219-de-letter-e/</guid>
+      <description>Yo The sound isn’t hard. It’s like the Yo in York, says the (English) Wikipedia. The Dutch version compares it to the jo in jokken (to fib). Russian sources often give examples like ёжик (jozhik, hedgehog) or ёлка (yolka, Christmas tree).</description>
+    </item>
+    
+    <item>
+      <title>Cyrillic</title>
+      <link>/en/taal/190420-cyrillisch/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/190420-cyrillisch/</guid>
+      <description>Three short clips (more under the videos) about the history of Cyrillic.
+Cyril and Slavic Christianity – Christian History Made Easy (Rose Publishing, 2012, 2 m)
+Cyril and Methodices (Museum of the Bible, 2017, 1 m)
+The creation of Cyrillic Script / История за кирилицата (Elektrick Me, 2018, 3 m)</description>
+    </item>
+    
+  </channel>
+</rss>

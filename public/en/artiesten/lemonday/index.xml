@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemonday on Rusland 1</title>
+    <link>/en/artiesten/lemonday/</link>
+    <description>Recent content in Lemonday on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/artiesten/lemonday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lemonday – I Sniff</title>
+      <link>/en/muziek/20200227-lemonday-ik-snuf/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/muziek/20200227-lemonday-ik-snuf/</guid>
+      <description>Cold, cold, cold Words that are repeated:
+Я нюхаю я нюхаю я очень много нюхаю: I sniff, I sniff, I sniff a lot. Or I snuff, sniff, or smell a lot, in any case, something you do when it’s cold.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on Rusland 1</title>
+    <link>/nl/genres/</link>
+    <description>Recent content in Genres on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/nl/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>punk</title>
+      <link>/nl/genres/punk/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/punk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alternatief</title>
+      <link>/nl/genres/alternatief/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/alternatief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pop</title>
+      <link>/nl/genres/pop/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hard</title>
+      <link>/nl/genres/hard/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/hard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wave</title>
+      <link>/nl/genres/wave/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>akoestisch</title>
+      <link>/nl/genres/akoestisch/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/akoestisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>special</title>
+      <link>/nl/genres/special/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock</title>
+      <link>/nl/genres/rock/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elektro</title>
+      <link>/nl/genres/elektro/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/elektro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>klassiek</title>
+      <link>/nl/genres/klassiek/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/klassiek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rap</title>
+      <link>/nl/genres/rap/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/rap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

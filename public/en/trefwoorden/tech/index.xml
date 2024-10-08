@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Rusland 1</title>
+    <link>/en/trefwoorden/tech/</link>
+    <description>Recent content in tech on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/trefwoorden/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samizdat (Down with Big Tech)</title>
+      <link>/en/land-en-volk/20210316-samizdat_weg-met-big-tech/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/land-en-volk/20210316-samizdat_weg-met-big-tech/</guid>
+      <description>Self/DIY The word самиздат roughly translates to self- or DIY publishing. Сам (sam) means self, издатель means publisher. If you search for the term, you’ll often come across services offering self-publishing and self-funded book publishing. Вас могут читать уже сегодня!</description>
+    </item>
+    
+    <item>
+      <title>Telegram (Better Than WhatsApp) and P. Durov</title>
+      <link>/en/land-en-volk/20210126-telegram-en-pavel-durov/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/land-en-volk/20210126-telegram-en-pavel-durov/</guid>
+      <description>Goodbye WhatsApp In 2020, WhatsApp reached the milestone of two billion users, which the company (owned by Facebook since 2014) said made them humbled and honored. But there was little humility to be seen in the new terms of service the messaging app announced barely a year later.</description>
+    </item>
+    
+  </channel>
+</rss>

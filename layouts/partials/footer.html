@@ -1,0 +1,117 @@
+{{ if eq .Section "taal" }}
+  {{.Scratch.Set "colorclass" "taal" }}
+  {{.Scratch.Set "titel" "taal" }}
+{{ else if eq .Section "muziek" }}
+  {{.Scratch.Set "colorclass" "muziek" }}
+  {{.Scratch.Set "titel" "muziek" }}
+{{ else if eq .Section "land-en-volk" }}
+  {{.Scratch.Set "colorclass" "landenvolk" }}
+  {{.Scratch.Set "titel" "Land & Volk" }}
+{{ end }}
+
+
+  <!-- Footer -->
+  <footer class="footer text-center">
+    <div class="container">
+      <div class="row">
+
+        {{ $lang := .Site.Language.Lang }}
+
+
+        <!-- Footer Location -->
+        <div class="col-lg-4 mb-5 mb-lg-0">
+            <h4 class="text-uppercase mb-4">{{ with index .Site.Data $lang "globalSiteSettings" }}
+              {{ .addressTitle }}
+            {{ end }}</h4>
+            <p class="lead mb-0">
+              {{ with index .Site.Data $lang "globalSiteSettings" }}
+              {{ .address1 }}
+            {{ end }}
+            <br>
+            {{ with index .Site.Data $lang "globalSiteSettings" }}
+              {{ .address2 }}
+            {{ end }}
+            </p>
+        </div>
+
+        <!-- Footer Social Icons -->
+        <div class="col-lg-4 mb-5 mb-lg-0">
+
+          <h4 class="text-uppercase mb-4">{{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .socialTitle }}
+          {{ end }}</h4>
+
+          {{ with index .Site.Data $lang "globalSiteSettings" }}
+          <a class="btn btn-outline btn-social mx-1" href="{{ .socialTwitter }}">
+            <i class="fab fa-fw fa-twitter"></i>
+          </a>
+          {{ end }}
+
+          {{ with index .Site.Data $lang "globalSiteSettings" }}
+          <a class="btn btn-outline btn-social mx-1" href="{{ .socialYoutube }}">
+            <i class="fab fa-fw fa-youtube"></i>
+          </a>
+          {{ end }}
+
+          {{ with index .Site.Data $lang "globalSiteSettings" }}
+          <a class="btn btn-outline btn-social mx-1" href="{{ .socialGithub }}">
+            <i class="fab fa-fw fa-github"></i>
+          </a>
+          {{ end }}
+
+          {{ with index .Site.Data $lang "globalSiteSettings" }}
+          <a class="btn btn-outline btn-social mx-1" href="{{ .socialPatreon }}">
+            <i class="fab fa-fw fa-patreon"></i>
+          </a>
+          {{ end }}
+
+        </div>
+
+        <!-- Footer About Text -->
+        <div class="col-lg-4">
+          <h4 class="text-uppercase mb-4">{{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .overtitel }}
+          {{ end }}</h4>
+          <p class="lead mb-0">
+            {{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .overtekst1 }}
+          {{ end }}<br/>
+          {{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .overtekst2 }}
+          {{ end }}
+
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+  <!-- Copyright Section -->
+  <section class="copyright py-4 text-center">
+      <div class="container">
+          <small>{{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .text1 }}
+          {{ end }}</small><br/>
+          <small>{{ with index .Site.Data $lang "globalSiteSettings" }}
+            {{ .text2 }}
+          {{ end }}</small>
+      </div>
+  </section>
+
+  <!--
+  <section class="px-5 m-5 text-center" style="background-color: #FCF6B1">
+  </section>
+  -->
+
+
+  <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+  <div class="scroll-to-top d-lg-none position-fixed ">
+    <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+      <i class="fa fa-chevron-up"></i>
+    </a>
+  </div>
+
+  <section class=" py-2 text-center bg-{{.Scratch.Get "colorclass"}}">
+    <a class="copyright" href="https://poppygo.io">Made with PoppyGo</a>
+  </section>

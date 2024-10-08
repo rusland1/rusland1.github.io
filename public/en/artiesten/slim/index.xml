@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slim on Rusland 1</title>
+    <link>/en/artiesten/slim/</link>
+    <description>Recent content in Slim on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/en/artiesten/slim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centr 3x</title>
+      <link>/en/muziek/190419-centr-3x/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/muziek/190419-centr-3x/</guid>
+      <description>Padarok Also from there: ‘Initially, they wrote an unofficial album Подарок (Podarok / Gift), but only 13 copies of it were made and given to their close friends for the New Year.’
+Качели (katsjeli) means swing, and that’s also the title of their first album (released in 2007, more on Википедия = Wikipedia in Russian).</description>
+    </item>
+    
+    <item>
+      <title>Slim – Recently</title>
+      <link>/en/muziek/190417-slim-onlangs/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/muziek/190417-slim-onlangs/</guid>
+      <description>Chaos and Decay The diligently crafted fan clip provides a brief lesson in Russian recent history. Chaos and decay are central themes; in barely 3 minutes, more of that passes than can be explained here. Boris Yeltsin doesn’t come off well, but he does do a funny dance.</description>
+    </item>
+    
+  </channel>
+</rss>

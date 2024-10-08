@@ -1,0 +1,16 @@
+- id: trefwoorden
+  translation: "Keywords"
+- id: onderwerp
+  translation: "Topics"
+- id: artiest
+  translation: "Artists"
+- id: genre
+  translation: "Genres"
+- id: taal
+  translation: "Language"
+- id: muziek
+  translation: "Music"
+- id: landenvolk
+  translation: "Country"
+- id: meer
+  translation: "More"

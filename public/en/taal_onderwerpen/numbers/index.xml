@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numbers on Rusland 1</title>
+    <link>/en/taal_onderwerpen/numbers/</link>
+    <description>Recent content in Numbers on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/taal_onderwerpen/numbers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russian Ordinal Numbers</title>
+      <link>/en/taal/20201127-russische-rangtelwoorden/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20201127-russische-rangtelwoorden/</guid>
+      <description>Third is an exception too, and it just keeps going.
+Applications It’s worth mentioning, because otherwise you might think it’s unimportant or uninteresting. You definitely need ordinal numbers for dates. For instance, we say: today is the 27th. You can get a preview in Ordinal numbers and dates in Russian (Learn Russian with Alfia, 2020, 22 m).</description>
+    </item>
+    
+    <item>
+      <title>Telling Time in Russian</title>
+      <link>/en/taal/200218-klokkijken/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/200218-klokkijken/</guid>
+      <description>First Half-Hour 12 minutes past 3, for a Russian, is 12 minutes from the fourth. That last part (from the fourth) requires two steps. From четыре (four), you make четвёртый (fourth). To say &amp;lsquo;from the&amp;rsquo;, you apply the second case (genitive) to четвёртый, resulting in четвёртого – from the fourth.</description>
+    </item>
+    
+    <item>
+      <title>Counting and Numbers</title>
+      <link>/en/taal/200215-tellen-en-getallen/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/200215-tellen-en-getallen/</guid>
+      <description>The words for 1 and 2 can take different forms (respectively один, одна, одно and два or две). And when Russians count, instead of starting with один, they often begin with раз (time/once).
+From 10 to 20 Once you can count from 1 to 10, you can easily go further.</description>
+    </item>
+    
+  </channel>
+</rss>

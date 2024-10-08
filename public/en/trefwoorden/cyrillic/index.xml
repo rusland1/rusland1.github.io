@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyrillic on Rusland 1</title>
+    <link>/en/trefwoorden/cyrillic/</link>
+    <description>Recent content in Cyrillic on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/trefwoorden/cyrillic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wrong Cyrillic</title>
+      <link>/en/taal/20210319-fout_cyrillisch/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20210319-fout_cyrillisch/</guid>
+      <description>Misuse of Cyrillic The letter Я (also the word for I) has nothing to do with an R. And the И/и is an I/i, not an N/n. If it is used that way, then disasters like Яussiaи are the consequences.</description>
+    </item>
+    
+    <item>
+      <title>Russian Keyboard</title>
+      <link>/en/taal/20200730-russisch-toetsenbord/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20200730-russisch-toetsenbord/</guid>
+      <description>Two ways to type in Cyrillic.
+Adjusting your keyboard Setting your keyboard to Russian isn’t hard (search for How to install the Cyrillic Keyboard for Mac or How to add Russian keyboard for Windows 10 if needed). However, using it can be tricky, especially if you can’t see the Russian letters.</description>
+    </item>
+    
+    <item>
+      <title>Cyrillic</title>
+      <link>/en/taal/190420-cyrillisch/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/190420-cyrillisch/</guid>
+      <description>Three short clips (more under the videos) about the history of Cyrillic.
+Cyril and Slavic Christianity – Christian History Made Easy (Rose Publishing, 2012, 2 m)
+Cyril and Methodices (Museum of the Bible, 2017, 1 m)
+The creation of Cyrillic Script / История за кирилицата (Elektrick Me, 2018, 3 m)</description>
+    </item>
+    
+  </channel>
+</rss>

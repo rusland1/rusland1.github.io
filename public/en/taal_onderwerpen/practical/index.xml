@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>practical on Rusland 1</title>
+    <link>/en/taal_onderwerpen/practical/</link>
+    <description>Recent content in practical on Rusland 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/taal_onderwerpen/practical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russian Abbreviations, Truncations, and Acronyms</title>
+      <link>/en/taal/20201210-russische-afkortingen-inkortingen-acroniemen/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20201210-russische-afkortingen-inkortingen-acroniemen/</guid>
+      <description>и т.д. etc. Starting with a common abbreviation (аббревиатура) that you often use at the end. и т.д. (note the space after и) = etc., as it stands for и так далее, meaning &amp;ldquo;and so on&amp;rdquo; or &amp;ldquo;and so forth&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Russian Keyboard</title>
+      <link>/en/taal/20200730-russisch-toetsenbord/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/taal/20200730-russisch-toetsenbord/</guid>
+      <description>Two ways to type in Cyrillic.
+Adjusting your keyboard Setting your keyboard to Russian isn’t hard (search for How to install the Cyrillic Keyboard for Mac or How to add Russian keyboard for Windows 10 if needed). However, using it can be tricky, especially if you can’t see the Russian letters.</description>
+    </item>
+    
+  </channel>
+</rss>
