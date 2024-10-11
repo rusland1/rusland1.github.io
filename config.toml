@@ -14,7 +14,7 @@ theme = [
  "hugo-rusland1-theme"
 ]
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'nl'
 defaultContentLanguageInSubdir = true
 [languages]
   [languages.nl]
