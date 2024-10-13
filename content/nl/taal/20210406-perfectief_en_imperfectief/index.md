@@ -69,7 +69,7 @@ Dit zijn wat gebruikelijke werkwoordparen (imperfectief – perfectief):
 
 #### Twintig vormen
 
-Omdat resultaat altijd betrekking heeft op verleden of toekomende tijd (ik las het boek uit of ik zal het uitlezen), heeft het perfectieve werkwoord geen (vervoegingen in) tegenwoordige tijd. Daar is de imperfectief al voor. Ook die heeft (vervoegingen in) [verleden tijd](https://rusland1.nl/taal/200217-verleden-tijd/); voor toekomende tijd vervoeg je (alleen) het werkwoord [zijn](https://rusland1.nl/taal/20200818-zijn-of-niet-zijn/). Zowel in **я читал** (ik las) als in **я буду читать** (ik zal lezen) spreek je over het proces of over een herhaalde/onvoltooide actie.
+Omdat resultaat altijd betrekking heeft op verleden of toekomende tijd (ik las het boek uit of ik zal het uitlezen), heeft het perfectieve werkwoord geen (vervoegingen in) tegenwoordige tijd. Daar is de imperfectief al voor. Ook die heeft (vervoegingen in) [verleden tijd](https://rusland1.nl/nl/taal/200217-verleden-tijd/); voor toekomende tijd vervoeg je (alleen) het werkwoord [zijn](https://rusland1.nl/nl/taal/20200818-zijn-of-niet-zijn/). Zowel in **я читал** (ik las) als in **я буду читать** (ik zal lezen) spreek je over het proces of over een herhaalde/onvoltooide actie.
 
 
 Een en ander leidt ertoe dat elk werkwoordkoppel 20 vervoegingen heeft. Die je soms gewoon vanbuiten moet leren, omdat niet alle onderdelen even logisch of voorspelbaar zijn. Zie bijvoorbeeld deze, van **давать** en **дать** (geven). 

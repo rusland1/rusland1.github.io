@@ -97,7 +97,7 @@ Tekstversie van [Lyrics Channel](https://www.youtube.com/channel/UCDXabnvDcPBtK2
 
  <br/>
 
-Meer over Порнофильмы [hier](https://rusland1.nl/muziek/20200212-pornofilmy-3x/) (2020). Meer over Volodya/Vladimir Kotlyarov (Володя/Владимир Котляров, 1987) op [24 СМИ](https://24smi.org/celebrity/102480-volodia-kotliarov.html), bij [Rockcult](https://rockcult.ru/interview/interview-pofilmy-2016/), op de Russische [Wikipedia](https://ru.wikipedia.org/wiki/Котляров,_Владимир_(музыкант)) en zelfs bij [Veggiepeople](https://veggiepeople.org/person/vladimir-kotlyarov) (RU). Doet ook weleens tekst zonder band en zonder gitaar, zoals in [Техносфера (Стихи)](https://youtu.be/FW1JIHbLIGQ) en in drie minuten precies [Три](https://youtu.be/lpO-xhNshl8).
+Meer over Порнофильмы [hier](https://rusland1.nl/nl/muziek/20200212-pornofilmy-3x/) (2020). Meer over Volodya/Vladimir Kotlyarov (Володя/Владимир Котляров, 1987) op [24 СМИ](https://24smi.org/celebrity/102480-volodia-kotliarov.html), bij [Rockcult](https://rockcult.ru/interview/interview-pofilmy-2016/), op de Russische [Wikipedia](https://ru.wikipedia.org/wiki/Котляров,_Владимир_(музыкант)) en zelfs bij [Veggiepeople](https://veggiepeople.org/person/vladimir-kotlyarov) (RU). Doet ook weleens tekst zonder band en zonder gitaar, zoals in [Техносфера (Стихи)](https://youtu.be/FW1JIHbLIGQ) en in drie minuten precies [Три](https://youtu.be/lpO-xhNshl8).
 
 <br/>
 

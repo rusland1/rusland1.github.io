@@ -31,7 +31,7 @@ voetnoot: ''
 
 Catalógus of catálogus? Dat laatste is correct (te herleiden tot het [Grieks](https://nl.wikipedia.org/wiki/Catalogus)), maar niemand die raar opkijkt als je catalógus zegt. In het Russisch is de klemtoon belangrijker. Die kan zowel de uitspraak van een woord bepalen (een beklemtoonde lettergreep klinkt soms heel anders dan een onbeklemtoonde), als de spelling ervan.
 
-Met dat laatste krijg je vaak te maken bij de vervoeging van [bijvoeglijk naamwoorden](https://rusland1.nl/taal/20201219-russische-bijvoeglijk-naamwoorden/). Op **ж**, **ц**, **ч**, **ш** en **щ** volgt alleen een o als die beklemtoond is; zo niet, dan e in plaats van o. Dat verklaart waarom je **хорóшее вино** (goede wijn) schrijft, maar **плохóе вино** (slechte wijn). 
+Met dat laatste krijg je vaak te maken bij de vervoeging van [bijvoeglijk naamwoorden](https://rusland1.nl/nl/taal/20201219-russische-bijvoeglijk-naamwoorden/). Op **ж**, **ц**, **ч**, **ш** en **щ** volgt alleen een o als die beklemtoond is; zo niet, dan e in plaats van o. Dat verklaart waarom je **хорóшее вино** (goede wijn) schrijft, maar **плохóе вино** (slechte wijn). 
 
 <br/>
 
@@ -54,7 +54,7 @@ Russisch is anders. De plaats van de klemtoon is vaak moeilijk te voorspellen, e
 
 #### Hulp
 
-Verschillende richtlijnen bieden houvast. De eenvoudigste is dat in woorden met een ë erin (zie [De letter ë](https://rusland1.nl/taal/20200219-de-letter-e/)) de klemtoon altijd op die letter valt. En vaak (niet altijd) op de laatste lettergreep in onzijdige woorden eindigend op -o, zoals in **кольцо́** (ring) en **лицо́** (gezicht). De laatste lettergreep van vrouwelijke woorden eindigend op -a is meestal beklemtoond wanneer dat woord twee lettergrepen telt, zoals in **мечта́** (droom) en **рука́** (hand).
+Verschillende richtlijnen bieden houvast. De eenvoudigste is dat in woorden met een ë erin (zie [De letter ë](https://rusland1.nl/nl/taal/20200219-de-letter-e/)) de klemtoon altijd op die letter valt. En vaak (niet altijd) op de laatste lettergreep in onzijdige woorden eindigend op -o, zoals in **кольцо́** (ring) en **лицо́** (gezicht). De laatste lettergreep van vrouwelijke woorden eindigend op -a is meestal beklemtoond wanneer dat woord twee lettergrepen telt, zoals in **мечта́** (droom) en **рука́** (hand).
 
 Praktische hulp is er ook. Met apps ([App Store](https://apps.apple.com/ru/app/%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/id959350438), [Google Play](https://play.google.com/store/apps/details?id=air.ru.teofrast.accentfree)), en online bij [Morpher](https://morpher.ru/accentizer/),  [RussianGram](https://russiangram.com/) en [Russian Stress Finder](https://www.readyrussian.org/WebApps/StressFinder/).
 

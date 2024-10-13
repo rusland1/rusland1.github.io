@@ -73,7 +73,7 @@ Liveversies van het nummer (met matig geluid) [hier](https://www.youtube.com/wat
 <br/>
 
 Meer WLVS op [VK](https://vk.com/thelastgangintown), muziek op [Spotify](https://open.spotify.com/artist/36xJkQLGRgjiQP1jfH4V39?si=jVmmD-2GT8-ORmbM1TivFQ) en [Bandcamp](https://wlvs.bandcamp.com/). <br/>
-Van 2020 is [Дорога до вечности](https://wlvs.bandcamp.com/album/--3), zie en lees ook [hier](https://rusland1.nl/muziek/20201229-wlvs-mirages/).
+Van 2020 is [Дорога до вечности](https://wlvs.bandcamp.com/album/--3), zie en lees ook [hier](https://rusland1.nl/nl/muziek/20201229-wlvs-mirages/).
 
 <br/>
 

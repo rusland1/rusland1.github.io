@@ -79,7 +79,7 @@ Recentelijk (juni 2020) declameerde [Irina Gorbacheva](https://en.wikipedia.org/
 
 ##### Muziek
 
-Ook andere muzikanten deden en doen het hunne met de taal van Rhyzhy. Hoor en zie onder meer [Vladimir Kirkin](https://www.youtube.com/watch?v=fJuKd9ujEFs) (Пока я спал, повсюду выпал снег), [Sergey Nikitin](https://www.youtube.com/watch?v=bHEb4GLXBDY) (Качели), en de band [Molchat Doma](https://rusland1.nl/muziek/20201117-molchat-doma/). De tekst van [Sudno / Судно](https://youtu.be/91GTuZWCQmY) (2019) is ontleend aan [Эмалированное судно](https://поэтика.рф/поэты/рыжий/стихи/16918/эмалированное-судно) (1997). Dit ten slotte is (gemaakt met) [Настоящая любовь](https://youtu.be/cvtSuY39F-U) (door Гόголем, 2020).
+Ook andere muzikanten deden en doen het hunne met de taal van Rhyzhy. Hoor en zie onder meer [Vladimir Kirkin](https://www.youtube.com/watch?v=fJuKd9ujEFs) (Пока я спал, повсюду выпал снег), [Sergey Nikitin](https://www.youtube.com/watch?v=bHEb4GLXBDY) (Качели), en de band [Molchat Doma](https://rusland1.nl/nl/muziek/20201117-molchat-doma/). De tekst van [Sudno / Судно](https://youtu.be/91GTuZWCQmY) (2019) is ontleend aan [Эмалированное судно](https://поэтика.рф/поэты/рыжий/стихи/16918/эмалированное-судно) (1997). Dit ten slotte is (gemaakt met) [Настоящая любовь](https://youtu.be/cvtSuY39F-U) (door Гόголем, 2020).
 
  <br/>
 

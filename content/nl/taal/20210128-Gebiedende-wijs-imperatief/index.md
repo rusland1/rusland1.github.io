@@ -59,7 +59,7 @@ In **помнить** (onthouden) en **молчать** (zwijgen) dezelfde uitga
 <br/>
 
 **-ь, -ьте**<br/>
-Ook in [быть](https://rusland1.nl/taal/20200818-zijn-of-niet-zijn/) (zijn) een stam die eindigt op een medeklinker (буд-, van **они будут**), maar de klemtoon in **я бу́ду** levert **будь** en **будьте** op. **Будь здоров**, wees gezond, gezondheid. **Будьте любезны**, wees aardig, en **вежливы**, beleefd.
+Ook in [быть](https://rusland1.nl/nl/taal/20200818-zijn-of-niet-zijn/) (zijn) een stam die eindigt op een medeklinker (буд-, van **они будут**), maar de klemtoon in **я бу́ду** levert **будь** en **будьте** op. **Будь здоров**, wees gezond, gezondheid. **Будьте любезны**, wees aardig, en **вежливы**, beleefd.
 
 Zo gaat het bij meer werkwoorden, zoals [ответить](https://ru.wiktionary.org/wiki/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B8%D1%82%D1%8C) en [готовить](https://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D1%82%D1%8C): gebiedende wijs **ответь**, **ответьте** en **готовь**, **готовьте**, vanwege **я отве́чу** en **я гото́влю**.
 

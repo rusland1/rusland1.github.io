@@ -9,7 +9,7 @@ intro: >-
 
   [Lousine Gevorkyan](https://en.wikipedia.org/wiki/Lousine_Gevorkyan) (1983)
   dook al een keer op bij
-  [Тараканы!](https://rusland1.nl/muziek/20200720-tarakany-3x/), maar is buiten
+  [Тараканы!](https://rusland1.nl/nl/muziek/20200720-tarakany-3x/), maar is buiten
   zulke uitstapjes zangeres in eigen project Louna. Rock uIt Moskou (sinds 2008)
   met zo nu en dan een boodschap: ‘The band is best known for its socially
   conscious songs criticizing Russian political elites’
@@ -91,7 +91,7 @@ Louna heeft een nieuwe plaat (oktober 2020), **Начало нового кру�
 - [Родина](https://youtu.be/oA7ipYKLh2w) (2016)
 - [Обычный человек](https://youtu.be/eqMzblvmtVs) (2016)
 
-Live [Огня](https://youtu.be/ivC4-uQ3X_w) (2018) en [Весна](https://youtu.be/vLRK6j3CvGk) (2017), met [Pornofilmy](https://rusland1.nl/muziek/20200212-pornofilmy-3x/). <br/>
+Live [Огня](https://youtu.be/ivC4-uQ3X_w) (2018) en [Весна](https://youtu.be/vLRK6j3CvGk) (2017), met [Pornofilmy](https://rusland1.nl/nl/muziek/20200212-pornofilmy-3x/). <br/>
 Luisteren kan ook bij [Apple Music](https://itunes.apple.com/ru/artist/louna/id410063121) en [Spotify](https://open.spotify.com/artist/2OhFv0nL7QXOWMYXPoLEP8?si=fggo0-1xQROzYfEP-eRTJA).
 
 <br/>

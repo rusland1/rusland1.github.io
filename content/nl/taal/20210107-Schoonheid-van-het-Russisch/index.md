@@ -2,7 +2,7 @@
 draft: false
 intro: >-
   Gewoon de mooiste taal van allemaal, werd al gesteld (in [Waarom
-  Russisch](https://rusland1.nl/taal/190612-waarom-russisch/)). Het is fraaier
+  Russisch](https://rusland1.nl/nl/taal/190612-waarom-russisch/)). Het is fraaier
   en beter geformuleerd, meer recht doend aan de schoonheid der Russische taal.
   “Russian has the grandeur of Spanish, the vivacity of French, the strength of
   German, the gentleness of Italian, and in addition to that, the wealth and

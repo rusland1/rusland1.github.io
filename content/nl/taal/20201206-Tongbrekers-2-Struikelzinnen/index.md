@@ -30,7 +30,7 @@ voetnoot: ''
 
 #### Breken en twisten
 
-De tongbreker heet in het Russisch **скороговоркa** (meervoud **скороговорки**) en in het Engels een [tongue-twister](https://en.wikipedia.org/wiki/Tongue-twister). Voor het [eerste deel](https://rusland1.nl/taal/20201202-tongbrekers-1-lange-woorden/) was dat een groot woord (zie de [sjibbolet](https://nl.wikipedia.org/wiki/Sjibbolet)), maar met struikelzinnen komen we al meer bij ongelukken in de buurt.
+De tongbreker heet in het Russisch **скороговоркa** (meervoud **скороговорки**) en in het Engels een [tongue-twister](https://en.wikipedia.org/wiki/Tongue-twister). Voor het [eerste deel](https://rusland1.nl/nl/taal/20201202-tongbrekers-1-lange-woorden/) was dat een groot woord (zie de [sjibbolet](https://nl.wikipedia.org/wiki/Sjibbolet)), maar met struikelzinnen komen we al meer bij ongelukken in de buurt.
 
   <br/>
 

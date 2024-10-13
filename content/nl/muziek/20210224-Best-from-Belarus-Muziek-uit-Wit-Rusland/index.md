@@ -35,7 +35,7 @@ voetnoot: ''
 
 <br/>
 
-In de selectie van Wit-Russische muziek ontbreken [Би-2](https://rusland1.nl/muziek/190421-%D0%B1%D0%B8-2hipster/), [Molchat Doma](https://rusland1.nl/muziek/20201117-molchat-doma/) en [Грязь](https://rusland1.nl/muziek/20210121-gryaz-mensenhaat-i-hate-people/), wegens eerder al belicht.
+In de selectie van Wit-Russische muziek ontbreken [Би-2](https://rusland1.nl/nl/muziek/190421-%D0%B1%D0%B8-2hipster/), [Molchat Doma](https://rusland1.nl/nl/muziek/20201117-molchat-doma/) en [Грязь](https://rusland1.nl/nl/muziek/20210121-gryaz-mensenhaat-i-hate-people/), wegens eerder al belicht.
 
 <br/>
 

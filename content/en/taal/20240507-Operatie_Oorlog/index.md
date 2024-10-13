@@ -73,7 +73,7 @@ Even well before Operation Russia1 (read: its creator) had come to a standstill.
 
 #### Statement
 
-The objective once described (in the [FAQ](https://www.rusland1.nl/faq/)) does not change either. There is more rather than less reason to encourage learning and admiring the Russian language. It is under pressure, as evidenced by, among other things, [Up to ten percent fewer people start Russian courses in Ghent](https://www.vrt.be/vrtnws/nl/2022/09/27/tot-tien-procent-minder-mensen-beginnen-aan-opleiding-russisch-i/) (VRT, 27-09-2022) and [Significantly less interest in Russian courses](https://www.nieuwsblad.be/cnt/dmf20220908_96112619) (Nieuwsblad, 09-09-2022).
+The objective once described (in the [FAQ](https://www.rusland1.nl/en/faq/)) does not change either. There is more rather than less reason to encourage learning and admiring the Russian language. It is under pressure, as evidenced by, among other things, [Up to ten percent fewer people start Russian courses in Ghent](https://www.vrt.be/vrtnws/nl/2022/09/27/tot-tien-procent-minder-mensen-beginnen-aan-opleiding-russisch-i/) (VRT, 27-09-2022) and [Significantly less interest in Russian courses](https://www.nieuwsblad.be/cnt/dmf20220908_96112619) (Nieuwsblad, 09-09-2022).
 
 As far as anything of a statement is needed, the editors concur: “It is extremely important just in these moments of crisis to train people who understand the ‘enemy’” - although instead of “the enemy” it could have read “Russia” or “the Russians.
 

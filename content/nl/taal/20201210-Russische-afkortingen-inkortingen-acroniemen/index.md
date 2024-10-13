@@ -79,7 +79,7 @@ Zie ook
 - [5 Russian Chat Abbreviations](https://www.youtube.com/watch?v=pBP83GkdfLU) (Russian Progress, 2019, 4 m) – voor **хз** (хрен знает), **мб** (может быть), **ппж** (попозже), **збс** (заебись) en de **)))**
 - [Shortened Expressions in Russian](https://www.youtube.com/watch?v=3noR30Yqcrw) (Be Fluent in Russian, 2019, 3 m) – voor o.a. **тока** (только), **спок** (спокойной ночи), **ава** (аватарка), **лс** (личные сообщения), **сорян**/**сори** (извини) en **здрасьте** (здравствуйте)
 
-Meer van dat in [Roesski sleng](https://rusland1.nl/taal/20200802-roesski-sleng/); item over telefoon- en internettaal in voorbereiding.
+Meer van dat in [Roesski sleng](https://rusland1.nl/nl/taal/20200802-roesski-sleng/); item over telefoon- en internettaal in voorbereiding.
 
 <br/>
 

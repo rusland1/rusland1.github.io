@@ -172,7 +172,7 @@ Zie ook
 
  
 
-De [persoonlijk voornaamwoorden](https://www.rusland1.nl/taal/200224-persoonlijk-voornaamwoord/) veranderen in **мне**, **тебе**, **ему**, **ей**, **нам**, **вам** en **им**. <br/>
+De [persoonlijk voornaamwoorden](https://www.rusland1.nl/nl/taal/200224-persoonlijk-voornaamwoord/) veranderen in **мне**, **тебе**, **ему**, **ей**, **нам**, **вам** en **им**. <br/>
 Кто (wie) wordt **кому**, en что (wat) wordt **чему**,
 
  

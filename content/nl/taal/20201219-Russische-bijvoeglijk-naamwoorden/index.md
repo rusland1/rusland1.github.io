@@ -119,7 +119,7 @@ Aan de regels heb je niks als ze nergens op zijn toe te passen. Vocabulaire opbo
 
 #### Tegenstelling
 
-Leer bijvoeglijk naamwoorden in paren die elkaars tegendeel zijn. Koud/warm, donker/licht, goed/slecht enzovoort. Je onthoudt ze beter – beide woorden worden voor elkaar geheugensteun – en je leert er dubbel zoveel. Zie [Russische antoniemen](https://rusland1.nl/taal/20201223-russische-antoniemen/).
+Leer bijvoeglijk naamwoorden in paren die elkaars tegendeel zijn. Koud/warm, donker/licht, goed/slecht enzovoort. Je onthoudt ze beter – beide woorden worden voor elkaar geheugensteun – en je leert er dubbel zoveel. Zie [Russische antoniemen](https://rusland1.nl/nl/taal/20201223-russische-antoniemen/).
 
 
  <br/>

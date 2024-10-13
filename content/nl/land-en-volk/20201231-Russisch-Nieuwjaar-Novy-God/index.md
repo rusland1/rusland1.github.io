@@ -34,7 +34,7 @@ voetnoot: ''
 
 #### Begin = vervolg
 
-Aan Nieuwjaar verbonden is een Russische zegswijze (in de hoek van [bijgeloof](https://rusland1.nl/land-en-volk/20200824-russisch-bijgeloof/)) die zowel stimulerend als onheilspellend kan klinken. **Как встретишь Новый год**, zoals je Nieuwjaar begint (meer letterlijk: ontmoet), **так его и проведёшь**, zo zal het gaan. Een mooie reden om flink feest te vieren met zijn allen, maar dat ligt wat ingewikkeld nu.
+Aan Nieuwjaar verbonden is een Russische zegswijze (in de hoek van [bijgeloof](https://rusland1.nl/nl/land-en-volk/20200824-russisch-bijgeloof/)) die zowel stimulerend als onheilspellend kan klinken. **Как встретишь Новый год**, zoals je Nieuwjaar begint (meer letterlijk: ontmoet), **так его и проведёшь**, zo zal het gaan. Een mooie reden om flink feest te vieren met zijn allen, maar dat ligt wat ingewikkeld nu.
 
 
 
@@ -49,7 +49,7 @@ Adviezen voor een goede start bij tegenwind in [Если ты один и дом
 In zowat elk land verschijnt bij aanvang van het een nieuw jaar het staatshoofd op tv – om niks te zeggen, het beste te wensen en weg zijn ze weer, terug hun paleis in. In Rusland doet de president zijn verhaal niet op 1-1, maar de avond ervoor.
 
 
-De (nog even) recentste editie in [Новогоднее обращение Владимира Путина 2020](https://youtu.be/XYjhD-DFS6U) (говорим по-русски правильно, vh. русский с носителем, 2019, 4 m), ook in [Leer Russisch met Vladimir Poetin](https://rusland1.nl/taal/20200420-leer-russisch-met-poetin-1/) (2020). Interessanter en historisch is de [eerste](https://youtu.be/CJI2_lw1gIQ), uit 1999, onlosmakelijk verbonden met Boris Jeltins [laatste](https://youtu.be/vTsqy18Mbvs). Zie ook [The day Boris Yeltsin said goodbye to Russia](https://youtu.be/xGMyAnefL-8) (BBC News, 2017, 4 m). 
+De (nog even) recentste editie in [Новогоднее обращение Владимира Путина 2020](https://youtu.be/XYjhD-DFS6U) (говорим по-русски правильно, vh. русский с носителем, 2019, 4 m), ook in [Leer Russisch met Vladimir Poetin](https://rusland1.nl/nl/taal/20200420-leer-russisch-met-poetin-1/) (2020). Interessanter en historisch is de [eerste](https://youtu.be/CJI2_lw1gIQ), uit 1999, onlosmakelijk verbonden met Boris Jeltins [laatste](https://youtu.be/vTsqy18Mbvs). Zie ook [The day Boris Yeltsin said goodbye to Russia](https://youtu.be/xGMyAnefL-8) (BBC News, 2017, 4 m). 
 
 
 Elk jaar mooier wordt de toespraak van Leonid Brezjnev voor 1979 (9 m).

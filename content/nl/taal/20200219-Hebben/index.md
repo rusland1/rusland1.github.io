@@ -24,7 +24,7 @@ voetnoot = ""
 <br/>
 
 #### у ... есть<br/>
-Letterlijk zegt een Rus niet ‘ik heb’, maar ‘bij mij is’. Voor dat ‘bij’ gebruik je **у**, ‘is’ wordt **есть**, en daartussen komt het persoonlijk voornaamwoord in genitief ([tweede naamval](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/)). Die maakt van **я** (ik) **меня**.
+Letterlijk zegt een Rus niet ‘ik heb’, maar ‘bij mij is’. Voor dat ‘bij’ gebruik je **у**, ‘is’ wordt **есть**, en daartussen komt het persoonlijk voornaamwoord in genitief ([tweede naamval](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/)). Die maakt van **я** (ik) **меня**.
 <br/>
 <br/>
  
@@ -56,7 +56,7 @@ De regels veranderen een beetje wanneer je iets níét hebt. Het **есть** wo
 Ik heb geen auto: **у меня нет машины**.<br/>
 Jij hebt geen huis: **у** **тебя** **нет** **дома**.
 
-Zie 'Afwezigheid' bij [tweede naamval](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/), plus:
+Zie 'Afwezigheid' bij [tweede naamval](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/), plus:
 
 - [The construction “I have” “I haven’t” in Russian](https://youtu.be/Mbd5zOhK7pw) (Russian Up, 2020, 12 m)
 - [У меня есть & У меня нет. Common mistake in Russian](https://youtu.be/hN6x07zu3Pk) (Daria Mikhay, 2018, 5 m)

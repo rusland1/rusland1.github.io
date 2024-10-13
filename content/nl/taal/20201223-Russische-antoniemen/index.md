@@ -2,7 +2,7 @@
 draft: false
 intro: >-
   In navolging van de introductie op [bijvoeglijk
-  naamwoorden](https://rusland1.nl/taal/20201219-russische-bijvoeglijk-naamwoorden/).
+  naamwoorden](https://rusland1.nl/nl/taal/20201219-russische-bijvoeglijk-naamwoorden/).
   Waarin werd geopperd ze te oefenen met tegenstellingen of
   [antoniemen](https://nl.wikipedia.org/wiki/Antoniem) (in het Russisch
   **антонимы**). Ze werden er niet bij geleverd toen en daar. Hier en nu alsnog.

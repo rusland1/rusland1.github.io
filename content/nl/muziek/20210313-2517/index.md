@@ -49,7 +49,7 @@ Met [Дмитрий Ревякин](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D
 #### Жду чуда (2012)
 
 Wachten op een wonder – van album **На волне**. <br/>
-Er is ook een [cover](https://youtu.be/by_rQtqLHPg) (2019) van [Anacondaz](https://rusland1.nl/muziek/20201215-anacondaz-4x/).
+Er is ook een [cover](https://youtu.be/by_rQtqLHPg) (2019) van [Anacondaz](https://rusland1.nl/nl/muziek/20201215-anacondaz-4x/).
 
 
 [Tekst](https://www.azlyrics.com/lyrics/2517/2.html)

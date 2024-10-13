@@ -11,7 +11,7 @@ intro: >+
   komt – en muziek die ook niet altijd even vrolijk klinkt. Toch luisteren naar
   Molchat Doma (**Молчат Дома**, Zwijgende of Stille Huizen). Zeker als je new
   of 80’s wave een warm hart toedraagt (al heet het nu postpunk of coldwave), en
-  ook als je [Ploho](https://rusland1.nl/muziek/20200724-ploho-3x/) wel
+  ook als je [Ploho](https://rusland1.nl/nl/muziek/20200724-ploho-3x/) wel
   waarderen kon.
 
 publishdate: '2020-11-17'
@@ -72,7 +72,7 @@ Voor hier werd alleen geselecteerd uit het rijke aanbod tekstclips.
 
 #### Sudno / Судно (2018)
 
-Tekst (hieronder met vertaling) ontleend aan [Эмалированное судно](https://поэтика.рф/поэты/рыжий/стихи/16918/эмалированное-судно) (1997), een gedicht van **Борис Рыжий** (1974-2001). Zie ook [deze clip](https://youtu.be/91GTuZWCQmY) (2019) en [dit item](https://rusland1.nl/land-en-volk/20200724-boris-ryzhy/) over Boris Ryzhy. Duiding van deze **Судно** in [Смысл песни Судно Борис Рыжий](https://kakoy-smysl.ru/meaning-song/smysl-pesni-sudno-boris-ryzhij/) (Какой смысл, 2020).
+Tekst (hieronder met vertaling) ontleend aan [Эмалированное судно](https://поэтика.рф/поэты/рыжий/стихи/16918/эмалированное-судно) (1997), een gedicht van **Борис Рыжий** (1974-2001). Zie ook [deze clip](https://youtu.be/91GTuZWCQmY) (2019) en [dit item](https://rusland1.nl/nl/land-en-volk/20200724-boris-ryzhy/) over Boris Ryzhy. Duiding van deze **Судно** in [Смысл песни Судно Борис Рыжий](https://kakoy-smysl.ru/meaning-song/smysl-pesni-sudno-boris-ryzhij/) (Какой смысл, 2020).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4iHruXlSujM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

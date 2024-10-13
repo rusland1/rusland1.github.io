@@ -31,7 +31,7 @@ Behalve vermakelijk en interessant zijn ze nuttig om kennis van te nemen. Een aa
 <br/>
 
 Wat het handen schudden betreft: veel regels en gewoonten daaromtrent veranderen waarschijnlijk door corona. Met die slag om de arm, zie [Russia Tips, Tricks & Travel: The Etiquette of Shaking Hands](https://youtu.be/oPv1VOU8f0U) (Russia Beyond, 2017, 4 m), [How (Not) to Shake Hands in Russia](https://www.themoscowtimes.com/2013/10/10/how-not-to-shake-hands-in-russia-a34542) (Andy Frecka, The Moscow Times 2013) en [Is it true that you should never shake someone's hand in a doorway in Russia because it's bad luck?](https://www.quora.com/Is-it-true-that-you-should-never-shake-someones-hand-in-a-doorway-in-Russia-because-its-bad-luck) (Quora).
-Zie ook [Niet in Rusland](https://www.rusland1.nl/land-en-volk/20190422-niet-in-rusland/).
+Zie ook [Niet in Rusland](https://www.rusland1.nl/nl/land-en-volk/20190422-niet-in-rusland/).
 
 <br/>
 

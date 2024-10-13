@@ -74,7 +74,7 @@ Al ruim vóór de Operatie was Rusland1 (lees: de maker ervan) stil komen te val
 
 #### Statement
 
-De ooit omschreven doelstelling (in de [FAQ](https://www.rusland1.nl/faq/) verandert ook niet. Er is eerder meer dan minder reden om aan te sporen tot het leren en bewonderen van de Russische taal. Die zit in de verdrukking, getuige o.a. [Tot tien procent minder mensen starten met opleiding Russisch in Gent](https://www.vrt.be/vrtnws/nl/2022/09/27/tot-tien-procent-minder-mensen-beginnen-aan-opleiding-russisch-i/) (VRT, 27-09-2022) en [Beduidend minder interesse in opleidingen Russisch](https://www.nieuwsblad.be/cnt/dmf20220908_96112619) (Nieuwsblad, 09-09-2022).
+De ooit omschreven doelstelling (in de [FAQ](https://www.rusland1.nl/nl/faq/) verandert ook niet. Er is eerder meer dan minder reden om aan te sporen tot het leren en bewonderen van de Russische taal. Die zit in de verdrukking, getuige o.a. [Tot tien procent minder mensen starten met opleiding Russisch in Gent](https://www.vrt.be/vrtnws/nl/2022/09/27/tot-tien-procent-minder-mensen-beginnen-aan-opleiding-russisch-i/) (VRT, 27-09-2022) en [Beduidend minder interesse in opleidingen Russisch](https://www.nieuwsblad.be/cnt/dmf20220908_96112619) (Nieuwsblad, 09-09-2022).
 
  Voor zover iets van een statement nodig is, de redactie sluit zich aan bij de woorden: “Het is net in deze momenten van crisis extreem belangrijk om mensen op te leiden die de ‘vijand’ snappen" – al had er in plaats van 'de vijand' ook 'Rusland' of 'de Russen' mogen staan.
 

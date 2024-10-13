@@ -35,7 +35,7 @@ Voor wat omschrijvingen van klanken waard zijn: [Wikipedia](https://nl.wikipedia
 
 #### Beeld
 
-Prima luisteroefening dus, die **ш** en **щ**. En (net als bij [de letter ы](https://rusland1.nl/taal/20200826-de-letter-bi/)) gymnastiek voor de mond.  [Настасья Сетун](https://youtu.be/ysc-1QMAkDA) en [Марина Решетко](https://youtu.be/QdX868dMuEg) doen het duidelijker voor dan misschien nodig was geweest; ook de [Постановка звуков Ш и Ж](https://youtu.be/KIFBaP5GBUE) en [Постановка звука Щ](https://youtu.be/glI-EF9-NZQ) van Natalya Gruzinova zijn niet erg mild voor het oog.
+Prima luisteroefening dus, die **ш** en **щ**. En (net als bij [de letter ы](https://rusland1.nl/nl/taal/20200826-de-letter-bi/)) gymnastiek voor de mond.  [Настасья Сетун](https://youtu.be/ysc-1QMAkDA) en [Марина Решетко](https://youtu.be/QdX868dMuEg) doen het duidelijker voor dan misschien nodig was geweest; ook de [Постановка звуков Ш и Ж](https://youtu.be/KIFBaP5GBUE) en [Постановка звука Щ](https://youtu.be/glI-EF9-NZQ) van Natalya Gruzinova zijn niet erg mild voor het oog.
 
 Maria, Katya, Anya en Olga’s animaties zijn dat wel en (belangrijker) helpen je verder.
 

@@ -11,7 +11,7 @@ intro: >-
 
   Er is (naast de nooit meer te overtreffen
   [hardbassversie](https://youtu.be/QiFBgtgUtfw), zie
-  [Adidas](https://rusland1.nl/land-en-volk/20190425-adidas/)) ook een **Три
+  [Adidas](https://rusland1.nl/nl/land-en-volk/20190425-adidas/)) ook een **Три
   полоски** *(tri paloski)* van **Animal ДжаZ** (Animal Jazz). Uit
   Sint-Petersburg, zie (Engelstalige)
   [Wikipedia](https://en.wikipedia.org/wiki/Animal_Jazz) en

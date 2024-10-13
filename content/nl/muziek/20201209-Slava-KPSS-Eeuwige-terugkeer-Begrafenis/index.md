@@ -14,7 +14,7 @@ intro: >-
   Keerde zich als rapper – ook onder de naam **Соня Мармеладова**, een
   [personage](https://studydostoevsky.blogspot.com/2015/02/sonya-marmeladova-sonia-marmeladov.html)
   uit [Misdaad en
-  straf](https://rusland1.nl/land-en-volk/20200401-misdaad-en-straf/), en onder
+  straf](https://rusland1.nl/nl/land-en-volk/20200401-misdaad-en-straf/), en onder
   bijnaam **Гнойный**, dat zoiets als etterig betekent – met een diss tegen
   velen.
 iscjklanguage: ''

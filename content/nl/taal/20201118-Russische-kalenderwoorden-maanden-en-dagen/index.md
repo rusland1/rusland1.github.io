@@ -39,7 +39,7 @@ Weg met die Romeinen – de Russen en hun taal. De namen van de maanden zijn mak
 
 #### In ... (maand): В 
 
-Je ziet het slechts drie keer aan de slotletter (**март**, **май**, **август**), maar alle twaalf de namen zijn mannelijk. Zie [Woorden eindigend op ь](https://rusland1.nl/taal/20200716-woorden-eindigend-op-b/).
+Je ziet het slechts drie keer aan de slotletter (**март**, **май**, **август**), maar alle twaalf de namen zijn mannelijk. Zie [Woorden eindigend op ь](https://rusland1.nl/nl/taal/20200716-woorden-eindigend-op-b/).
 
 Dus geen verrassingen als je 'in ... (maand)' wilt zeggen. Twaalf keer zesde naamval, twaalf keer met **в** (= in), twaalf keer uitgang -**e**, de negen zachte tekens verdwijnen. **В январе**, **в феврале**, **в марте**, **в апреле**, **в мае**, **в июне**, **в июле**, **в августе**, **в сентябре**, **в октябре**, **в ноябре**, **в декабре**.
 

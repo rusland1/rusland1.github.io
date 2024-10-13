@@ -96,7 +96,7 @@ Live bij bij [Вечерний Ургант](https://youtu.be/HOl9PRToVfo) (2018
 - [Ружьё](https://youtu.be/EOAUkLWlQlE) (2014), ook een [tekstclip](https://youtu.be/f83NcC9GjZc) (2019)
 
 Van 2020 is het album **Это пройдёт** ([YouTube](https://youtu.be/cNysTY9R1Xc), [Spotify](https://open.spotify.com/album/7b5LNjhQWLnlklVkgOPgZy?si=4yialdZqT1CxGIEBz98ucQ)).<br/> 
-Zie [Volodya Kotlyarov & Pornofilmy – Gaat voorbij](https://rusland1.nl/muziek/20200722-volodya-kotlyarov-pornofilmy-gaat-voorbij/) (2020).
+Zie [Volodya Kotlyarov & Pornofilmy – Gaat voorbij](https://rusland1.nl/nl/muziek/20200722-volodya-kotlyarov-pornofilmy-gaat-voorbij/) (2020).
 
 <br/> 
 

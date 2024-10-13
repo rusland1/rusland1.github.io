@@ -54,7 +54,7 @@ Van **Мои дети не будут скучать** (2019).
 
 #### Твоему новому парню (2018)
 
-Van **Я тебя никогда** (2018), net als **Ни капли не больно** en **Дубак**. Met in de tekst een rol voor [Louna](https://rusland1.nl/muziek/20201201-louna-3x/) (waarmee ook [Кто мы?](https://youtu.be/1LvNpzJQVSk) werd gemaakt). In [deze versie](https://youtu.be/v9ZQM4_DGxU) doet Louna ook mee (vanaf 3:00).
+Van **Я тебя никогда** (2018), net als **Ни капли не больно** en **Дубак**. Met in de tekst een rol voor [Louna](https://rusland1.nl/nl/muziek/20201201-louna-3x/) (waarmee ook [Кто мы?](https://youtu.be/1LvNpzJQVSk) werd gemaakt). In [deze versie](https://youtu.be/v9ZQM4_DGxU) doet Louna ook mee (vanaf 3:00).
 
 &nbsp; &nbsp; **Помнишь тот фестиваль?**<br/>
 &nbsp; &nbsp; **Я заблевал твои берцы**<br/>
@@ -107,7 +107,7 @@ Van **Я тебя никогда** (2018), net als **Ни капли не бол
 
 #### Samenwerkingen
 
-Anacondaz werkt ook samen, met zo’n beetje iedereen. Zie/hoor [Самый счастливый человек на земле](https://youtu.be/AGxWKlrdmRg) met [Тараканы!](https://rusland1.nl/muziek/20200720-tarakany-3x/), [Синий кит](https://youtu.be/ABNXsROSQXI) met [Horus](https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D1%8C) (tekstvideo), [Двое](https://youtu.be/UGm6C8VvgSw) met [Animal ДжаZ](https://rusland1.nl/muziek/190425-animal-%D0%B4%D0%B6%D0%B0z-drie-strepen/), [Иди за второй](https://youtu.be/WYZalrkxRpo) met [Макс Гирко](https://artchange.ru/publ/photo_biography/musical_artists/maks_girko/16-1-0-680), [Пусть они умрут](https://youtu.be/EuL4SAFkWIk) met [Noize MC](https://en.wikipedia.org/wiki/Noize_MC) (analyse van de clip in een [Скрытый смысл клипа](https://youtu.be/EzJfHsqZfDk)), [Хаос](https://youtu.be/QMHYjeavVUw) met [Артём Пивоваров](https://www.vokrug.tv/person/show/artem_pivovarov/) en [Сядь мне на лицо](https://youtu.be/LCqfQGOvEK4) met [кис-кис](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81-%D0%9A%D0%B8%D1%81_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)), dat ook onder het volgende valt.
+Anacondaz werkt ook samen, met zo’n beetje iedereen. Zie/hoor [Самый счастливый человек на земле](https://youtu.be/AGxWKlrdmRg) met [Тараканы!](https://rusland1.nl/nl/muziek/20200720-tarakany-3x/), [Синий кит](https://youtu.be/ABNXsROSQXI) met [Horus](https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D1%8C) (tekstvideo), [Двое](https://youtu.be/UGm6C8VvgSw) met [Animal ДжаZ](https://rusland1.nl/nl/muziek/190425-animal-%D0%B4%D0%B6%D0%B0z-drie-strepen/), [Иди за второй](https://youtu.be/WYZalrkxRpo) met [Макс Гирко](https://artchange.ru/publ/photo_biography/musical_artists/maks_girko/16-1-0-680), [Пусть они умрут](https://youtu.be/EuL4SAFkWIk) met [Noize MC](https://en.wikipedia.org/wiki/Noize_MC) (analyse van de clip in een [Скрытый смысл клипа](https://youtu.be/EzJfHsqZfDk)), [Хаос](https://youtu.be/QMHYjeavVUw) met [Артём Пивоваров](https://www.vokrug.tv/person/show/artem_pivovarov/) en [Сядь мне на лицо](https://youtu.be/LCqfQGOvEK4) met [кис-кис](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81-%D0%9A%D0%B8%D1%81_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)), dat ook onder het volgende valt.
 
  <br/>
 

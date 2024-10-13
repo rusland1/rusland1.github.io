@@ -6,11 +6,11 @@ intro: >-
   wel-Russen. Ze drinken wodka als water en overleven op augurken en bietensoep.
   Alle vrouwen boven de vijftig zien eruit als een boerin of oma, mannen van
   boven de vijftig zijn er niet. O ja. Russen houden van
-  [Adidas](https://www.rusland1.nl/land-en-volk/20190425-adidas/), Russen
+  [Adidas](https://www.rusland1.nl/nl/land-en-volk/20190425-adidas/), Russen
   [glimlachen
-  niet](https://www.rusland1.nl/land-en-volk/200215-glimlachen-is-voor-gekken/),
+  niet](https://www.rusland1.nl/nl/land-en-volk/200215-glimlachen-is-voor-gekken/),
   Rusland is [niet te
-  begrijpen](https://www.rusland1.nl/land-en-volk/20190419-niet-te-begrijpen/)
+  begrijpen](https://www.rusland1.nl/nl/land-en-volk/20190419-niet-te-begrijpen/)
   enz. Stereotypen ook hier, en er komt nog veel meer.
 iscjklanguage: ''
 land_en_volk_onderwerpen:

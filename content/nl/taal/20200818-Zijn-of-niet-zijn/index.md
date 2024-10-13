@@ -3,7 +3,7 @@ draft: false
 intro: >-
 
 
-  Net als met [hebben](https://www.rusland1.nl/taal/200219-hebben/) is ook met
+  Net als met [hebben](https://www.rusland1.nl/nl/taal/200219-hebben/) is ook met
   het werkwoord ‘zijn’ in het Russisch iets geks aan de hand. Het is er wel –
   het heet **быть** – maar ontbreekt vaak in zinnen, tenzij in verleden of
   toekomende tijd. In tegenwoordige tijd laat je het vaak weg.
@@ -38,7 +38,7 @@ Hij is gelukkig: **он счастлив**.<br/>Dat is vreemd: **это стра
 
 - [Russian to be in the present tense – быть в настоящем времени](https://youtu.be/VX7k8umO7to) (Russian with Natasha, 2016, 17 m) 
 - [Russian Grammar: Verb to Be in Present Tense](https://youtu.be/pBOJXGDlzVA) (Fun Russian, 2012, 2 m)
-- [Zinnen maken](https://www.rusland1.nl/taal/190525-zinnen-maken/)
+- [Zinnen maken](https://www.rusland1.nl/nl/taal/190525-zinnen-maken/)
 
 
 Wel een ‘zijn’ (een dubbele zelfs) in Shakespeare. To be or not to be: **быть или не быть**. Veel vaker kom je het tegen in **может быть** (‘kan zijn’), want dat is Russisch voor misschien. Verder neemt het werkwoord in tegenwoordige tijd de vorm aan van **есть**, een vervoeging die hetzelfde is voor alle persoonlijk voornaamwoorden.
@@ -47,7 +47,7 @@ Wel een ‘zijn’ (een dubbele zelfs) in Shakespeare. To be or not to be: **б�
 
 #### Verleden en toekomende tijd
 
-Voor verleden en toekomende tijd gebruik je het vervoegd. Als **был**, **была**, **было** of **были** in [verleden tijd](https://www.rusland1.nl/taal/200217-verleden-tijd/); als **буду**, **будешь**, **будет**, **будем**, **будете** of **будут** in toekomende (zie ook [Bab.la](https://www.babla.ru/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/%D0%B1%D1%8B%D1%82%D1%8C), [Reverso](https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB-%D0%B1%D1%8B%D1%82%D1%8C.html), [Wiktionary](https://ru.wiktionary.org/wiki/%D0%B1%D1%8B%D1%82%D1%8C)).
+Voor verleden en toekomende tijd gebruik je het vervoegd. Als **был**, **была**, **было** of **были** in [verleden tijd](https://www.rusland1.nl/nl/taal/200217-verleden-tijd/); als **буду**, **будешь**, **будет**, **будем**, **будете** of **будут** in toekomende (zie ook [Bab.la](https://www.babla.ru/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/%D0%B1%D1%8B%D1%82%D1%8C), [Reverso](https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB-%D0%B1%D1%8B%D1%82%D1%8C.html), [Wiktionary](https://ru.wiktionary.org/wiki/%D0%B1%D1%8B%D1%82%D1%8C)).
 
 Hij was gelukkig: **он был счастлив**.<br/>Dat zal vreemd zijn: **это будет странно**. 
 

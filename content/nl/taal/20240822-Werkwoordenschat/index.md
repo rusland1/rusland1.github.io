@@ -29,14 +29,14 @@ voetnoot: ''
 
 <br/>
 
-Hier een selectie bronnen en kanalen waarmee je dat kunt doen. Beperkt tot de basiswerkwoorden, de speciale en complexere (werkwoorden van beweging, [werkwoorden op -ся](https://www.rusland1.nl/taal/20201108-wederkerend-en-onovergankelijk/), werkwoorden met voorzetsels) er grotendeels buiten gelaten. 
+Hier een selectie bronnen en kanalen waarmee je dat kunt doen. Beperkt tot de basiswerkwoorden, de speciale en complexere (werkwoorden van beweging, [werkwoorden op -ся](https://www.rusland1.nl/nl/taal/20201108-wederkerend-en-onovergankelijk/), werkwoorden met voorzetsels) er grotendeels buiten gelaten. 
 
 <br/>
 
 
 #### Lina's Lessons
 
-Alina Zubko (Lina dus)  bespreekt werkwoorden in drie paren ([perfectief en imperfectief](https://www.rusland1.nl/taal/20210406-perfectief_en_imperfectief/)), van eenvoudig (A!) tot *intermediate* (B1) –  de eenvoudige toch interessant voor meer gevorderden, de moeilijkere ook te volgen voor beginners. Steeds met vervoegingen erbij, en in voorbeeldzinnen gekoppeld aan de naamvallen. 
+Alina Zubko (Lina dus)  bespreekt werkwoorden in drie paren ([perfectief en imperfectief](https://www.rusland1.nl/nl/taal/20210406-perfectief_en_imperfectief/)), van eenvoudig (A!) tot *intermediate* (B1) –  de eenvoudige toch interessant voor meer gevorderden, de moeilijkere ook te volgen voor beginners. Steeds met vervoegingen erbij, en in voorbeeldzinnen gekoppeld aan de naamvallen. 
 
 Voor de inplak werd gekozen voor de jongste van de drie, van eerder zijn
 
@@ -138,7 +138,7 @@ Werkwoorden met voorzetsel in de de [Playlist глаголы с приставк
 #### LearnRussian.org
 
 
-De serie Глаголы (werkwoorden) van LearnRussian.org leert je werkwoorden met een overzichtelijke 5 tegelijk. Vervoegingen en toepassingen in zinnen. Kleine vertellingen en de stem van Anastacia (uit/zie ook [Eerste en tweede vervoeging](https://www.rusland1.nl/taal/200216-eerste-en-tweede-vervoeging/)). 
+De serie Глаголы (werkwoorden) van LearnRussian.org leert je werkwoorden met een overzichtelijke 5 tegelijk. Vervoegingen en toepassingen in zinnen. Kleine vertellingen en de stem van Anastacia (uit/zie ook [Eerste en tweede vervoeging](https://www.rusland1.nl/nl/taal/200216-eerste-en-tweede-vervoeging/)). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=5znKzipV38MCzkOU&amp;list=PLfw0nPWCDcmMegJubup-6a3BG_WGUMWf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

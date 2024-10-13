@@ -59,7 +59,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Klemtoon
 
-Waar de [klemtoon](https://rusland1.nl/taal/20210304-klemtoon-in-russisch/) ligt is van invloed op de uitspraak van klinkers, maar het kan ook de betekenis van een woord veranderen. De plaats van de klemtoon is dus **важно** (*vazjna*) ofwel belangrijk, en wordt in lesmateriaal vaak aangegeven met een accentteken (**вáжно**).
+Waar de [klemtoon](https://rusland1.nl/nl/taal/20210304-klemtoon-in-russisch/) ligt is van invloed op de uitspraak van klinkers, maar het kan ook de betekenis van een woord veranderen. De plaats van de klemtoon is dus **важно** (*vazjna*) ofwel belangrijk, en wordt in lesmateriaal vaak aangegeven met een accentteken (**вáжно**).
 
 
 

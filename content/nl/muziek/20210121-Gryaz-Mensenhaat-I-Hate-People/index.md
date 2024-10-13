@@ -30,7 +30,7 @@ voetnoot: ''
 
 #### Haten en verdrinken
 
-Haten (**ненавидеть**) is een transitief werkwoord – gehaat worden doet iets met een mens – en daarom in principe [vierde naamval](https://rusland1.nl/taal/20201125-vierde-naamval-accusatief/). Hier toch de [tweede](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/) (genitief meervoud) omdat mensen, of je het leuk vindt of niet, levende wezens zijn.
+Haten (**ненавидеть**) is een transitief werkwoord – gehaat worden doet iets met een mens – en daarom in principe [vierde naamval](https://rusland1.nl/nl/taal/20201125-vierde-naamval-accusatief/). Hier toch de [tweede](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/) (genitief meervoud) omdat mensen, of je het leuk vindt of niet, levende wezens zijn.
 <br/>
 
 Dat geldt ook voor dieren, maar daar weten mensen wel wat op. In de categorie Toonaangevende Beginzinnen is deze op zijn minst genomineerd: **Я хочу утопить этот день, как топят бездомных котят**, Ik wil deze dag verdrinken zoals dakloze kittens worden verdronken. ([Tekst](https://l-hit.com/ru/135710); tekst [met vertaling](https://text-pesni-perevod.ru/gryaz/ya_nenavizhu_lyudey/).)

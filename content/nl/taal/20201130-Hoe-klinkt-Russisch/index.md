@@ -36,7 +36,7 @@ Een grof maar gangbaar oordeel over het Russisch is dat het *rude* of **груб
 
 #### Achterstevoren
 
-‘Like someone’s playing a vinyl backwards’ volgens [Trevor Noah](https://nl.wikipedia.org/wiki/Trevor_Noah), in Some Languages Are Scary (2018), imitatie vanaf [4:06 m](https://youtu.be/9OB72GZOS4c?t=246). Eerder opgenomen in [Grappen over Russen en Rusland](https://rusland1.nl/land-en-volk/200215-grappen-over-russen-en-rusland/). Er is ook een versie met [Russische stem en ondertiteling](https://youtu.be/2DiMRN4jblc).
+‘Like someone’s playing a vinyl backwards’ volgens [Trevor Noah](https://nl.wikipedia.org/wiki/Trevor_Noah), in Some Languages Are Scary (2018), imitatie vanaf [4:06 m](https://youtu.be/9OB72GZOS4c?t=246). Eerder opgenomen in [Grappen over Russen en Rusland](https://rusland1.nl/nl/land-en-volk/200215-grappen-over-russen-en-rusland/). Er is ook een versie met [Russische stem en ondertiteling](https://youtu.be/2DiMRN4jblc).
 
 
 Vergelijkbare gedachte bij [Russell Peters](https://en.wikipedia.org/wiki/Russell_Peters), in [Almost Famous](https://youtu.be/BtMd6PbscwE) (2017). ‘You ever hear people speak Russian? It’s amazing – they just sound like they’re talking backwards the whole time’ (vanaf plm. [0:45](https://youtu.be/BtMd6PbscwE?t=45)). Er is ook een versie met [Russische ondertiteling](https://youtu.be/TsUUjb_AuKk).
