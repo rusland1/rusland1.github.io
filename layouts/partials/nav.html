@@ -17,8 +17,7 @@
 {{ end }}
 
 <div class="fixed-top" id="mainNav">
-
-
+    {{ partial "allLanguages.html" . }}
     <div class="text-uppercase maingrid">
       <div class="navcolorbg bg-{{.Scratch.Get "colorclass"}}"></div>
         <div class="subgrid">
@@ -46,8 +45,6 @@
         </div>
 
         <div class="subgrid">
-            {{ partial "allLanguages.html" . }}
-
             {{ $current := . }}
             {{ range .Site.Menus.nav2 }}
                 {{ $active := or ($current.IsMenuCurrent "nav2" .) ($current.HasMenuCurrent "nav2" .) }}
