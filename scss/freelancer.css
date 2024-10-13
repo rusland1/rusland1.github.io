@@ -7247,7 +7247,7 @@ a.text-dark:hover, a.text-dark:focus {
       font-size: 3rem;
       line-height: 2.5rem; } }
 #main {
-  margin-top: 70px; }
+  margin-top: 40px; }
 
 .bg-main-red {
   background-color: #FF272E; }
@@ -7464,17 +7464,6 @@ iframe.left {
     .subgrid {
       grid-template-columns: repeat(3, 1fr);
       margin-top: 47px; } }
-#languageBar {
-  display: flex;
-  flex-direction: row;
-  align-items: end;
-  justify-content: end;
-  padding-top: 5px;
-  padding-right: 12px; }
-  #languageBar .languagebuttons .languagebutton {
-    font-size: 12px;
-    padding: 5px; }
-
 #mainNav {
   font-weight: 700; }
   #mainNav .navcolorbg {
@@ -7483,7 +7472,7 @@ iframe.left {
     top: 0px;
     left: 0px;
     right: 0px;
-    height: 130px; }
+    height: 100px; }
   #mainNav .item {
     grid-row: span 1;
     grid-column: span 1;
