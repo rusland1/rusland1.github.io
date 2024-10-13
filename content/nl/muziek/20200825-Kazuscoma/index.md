@@ -69,7 +69,7 @@ Meer en langer live in **Казускома живьём** (S Reviews, 2020, 17 
 
 Twee verbindingen met andere artiesten. [Вокруг так много всего](https://www.youtube.com/watch?v=T9X-R_oOYDc) (2018) is een samenwerking met rapper  Хаски (Husky). Zie ook [live in Moskou](https://youtu.be/ZBpFpybr2uA) (2019).
 
-**Спасибо и до свидания** is een cover van Тараканы! ([Tarakany](https://www.rusland1.nl/muziek/20200720-tarakany-3x/)), van [Улица Свободных (Тараканы! Part 1)](https://open.spotify.com/album/14I2rOqLN9Jh5n8n8l2wpv?si=aCBAAC0qTumC8_9qGMSfTQ) uit 2018. Het origineel [hier](https://youtu.be/uUe9xgTbIas).
+**Спасибо и до свидания** is een cover van Тараканы! ([Tarakany](https://www.rusland1.nl/nl/muziek/20200720-tarakany-3x/)), van [Улица Свободных (Тараканы! Part 1)](https://open.spotify.com/album/14I2rOqLN9Jh5n8n8l2wpv?si=aCBAAC0qTumC8_9qGMSfTQ) uit 2018. Het origineel [hier](https://youtu.be/uUe9xgTbIas).
 
  
 

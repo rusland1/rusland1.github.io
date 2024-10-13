@@ -68,7 +68,7 @@ Tussendoor wijdde ze twee uitzendingen aan Overwinningsdag. Zie de [Victory Day 
 
 
 #### Russian from Russia
-Anna Strelkovskaya doet veel met werkwoorden, met name voor wat meer gevorderden. Over zelfisoleren (als dat een werkwoord is) ging het in [Intermediate Russian Words 2020: самоизолироваться](https://youtu.be/zbXT5z-1L0o) (2 april, 4 m). Verder (en eerder) kwam corona alleen zijdelings aan bod, in [Intermediate Russian Listening: Гречка (Buckwheat)](https://youtu.be/ApAy_PoT0eA) (22 maart, 11 m; ook vermeld in [Grechka – Plaatje]( https://www.rusland1.nl/muziek/200214-grechka-plaatje/) in de sectie Muziek). Zie in dat kader ook [An Unexpected Item Russians Stockpile Because of Coronavirus](https://blogs.transparent.com/russian/an-unexpected-item-russians-stockpile-because-of-coronavirus/) (Transparent Languages, 26 maart).
+Anna Strelkovskaya doet veel met werkwoorden, met name voor wat meer gevorderden. Over zelfisoleren (als dat een werkwoord is) ging het in [Intermediate Russian Words 2020: самоизолироваться](https://youtu.be/zbXT5z-1L0o) (2 april, 4 m). Verder (en eerder) kwam corona alleen zijdelings aan bod, in [Intermediate Russian Listening: Гречка (Buckwheat)](https://youtu.be/ApAy_PoT0eA) (22 maart, 11 m; ook vermeld in [Grechka – Plaatje]( https://www.rusland1.nl/nl/muziek/200214-grechka-plaatje/) in de sectie Muziek). Zie in dat kader ook [An Unexpected Item Russians Stockpile Because of Coronavirus](https://blogs.transparent.com/russian/an-unexpected-item-russians-stockpile-because-of-coronavirus/) (Transparent Languages, 26 maart).
 
   <br/>
 

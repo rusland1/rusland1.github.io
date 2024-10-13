@@ -32,7 +32,7 @@ voetnoot: >-
 
 
 #### Signalement
-Zag je ooit een Rus in trainingspak ([Adidas](https://www.rusland1.nl/land-en-volk/20190425-adidas/) of wat ervoor moet doorgaan), fles bier in de hand, peuk in de mond, met platte voeten op de hurken zitten? Dan zag je een echte gopnik (m) of gopnitsa (v). De kans daarop is overigens groter in de digitale wereld (memes, muziekvideo's,  persiflages) dan in de echte. Na een korte bloeiperiode in de jaren 90 is het fenomeen grotendeels verdwenen uit het straatbeeld – maar Gopnik Will Never Die.
+Zag je ooit een Rus in trainingspak ([Adidas](https://www.rusland1.nl/nl/land-en-volk/20190425-adidas/) of wat ervoor moet doorgaan), fles bier in de hand, peuk in de mond, met platte voeten op de hurken zitten? Dan zag je een echte gopnik (m) of gopnitsa (v). De kans daarop is overigens groter in de digitale wereld (memes, muziekvideo's,  persiflages) dan in de echte. Na een korte bloeiperiode in de jaren 90 is het fenomeen grotendeels verdwenen uit het straatbeeld – maar Gopnik Will Never Die.
 
 
 

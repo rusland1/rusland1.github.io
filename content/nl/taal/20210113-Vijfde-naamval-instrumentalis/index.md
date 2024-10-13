@@ -64,7 +64,7 @@ Zie [Russian Instrumental case, charmed by the sound](https://youtu.be/9Z97ChTyp
 
 #### Felicitaties
 
-Russische wensen zijn kort. Gefeliciteerd met je verjaardag: **с днём рождения**. Meer letterlijk ‘met dag van geboorte’, zonder gefeliciteerd. De vijfde naamval maakt van **день** (dag) **днём**, de [tweede](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/) van **рождение** (geboorte) een **рождения**. Wel twee keer vijfde naamval in nieuwjaarswens **с Новым Годом** (Zie [Russisch Nieuwjaar](https://rusland1.nl/land-en-volk/20201231-russisch-nieuwjaar-novy-god/)).
+Russische wensen zijn kort. Gefeliciteerd met je verjaardag: **с днём рождения**. Meer letterlijk ‘met dag van geboorte’, zonder gefeliciteerd. De vijfde naamval maakt van **день** (dag) **днём**, de [tweede](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/) van **рождение** (geboorte) een **рождения**. Wel twee keer vijfde naamval in nieuwjaarswens **с Новым Годом** (Zie [Russisch Nieuwjaar](https://rusland1.nl/nl/land-en-volk/20201231-russisch-nieuwjaar-novy-god/)).
 
 - [How to Say Happy Birthday in Russian](https://www.youtube.com/watch?v=WKGKyTmo1Mw) (Be Fluent in Russian, 2019, 1 m) 
 - [Holiday Greetings. Toasts. Invitations.](https://www.youtube.com/watch?v=rynKGqDatts ) (Amazing Russian, 2017, 10 m)
@@ -74,7 +74,7 @@ Russische wensen zijn kort. Gefeliciteerd met je verjaardag: **с днём ро�
 
 #### Gevoel
 
-Het ‘met’ ook op subtieler niveau. Met plezier (met genoegen, graag gedaan): **с удовольствием** (genoegen = **удовольствие**). Met ongeduld (ongeduldig): **с нетерпением**. Veel gebruikt en netjes om mee af te sluiten is **с уважением**, met respect (**уважение**). Worden de gevoelens ervaren of beleefd, dan [derde naamval](https://rusland1.nl/taal/20200818-derde-naamval-datief/).
+Het ‘met’ ook op subtieler niveau. Met plezier (met genoegen, graag gedaan): **с удовольствием** (genoegen = **удовольствие**). Met ongeduld (ongeduldig): **с нетерпением**. Veel gebruikt en netjes om mee af te sluiten is **с уважением**, met respect (**уважение**). Worden de gevoelens ervaren of beleefd, dan [derde naamval](https://rusland1.nl/nl/taal/20200818-derde-naamval-datief/).
 
 <br/>
 
@@ -88,7 +88,7 @@ De vijfde naamval wordt daarnaast gebruikt voor ‘jij en ik’-constructies, en
 
 #### Instrument
 
-Schrijven met pen of potlood: **писать ручкой или карандашом**. De vijfde naamval maakt **ручкой** van een **ручка**, en voegt aan **карандаш** een -**ом** toe. Dat zegt ‘met’. Het voorzetsel **с** (of **со**) doet hetzelfde, maar is lang niet altijd nodig. Na **с** met betekenis ‘van’ of ‘vanaf’ niet de vijfde maar de [tweede naamval](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/). 
+Schrijven met pen of potlood: **писать ручкой или карандашом**. De vijfde naamval maakt **ручкой** van een **ручка**, en voegt aan **карандаш** een -**ом** toe. Dat zegt ‘met’. Het voorzetsel **с** (of **со**) doet hetzelfde, maar is lang niet altijd nodig. Na **с** met betekenis ‘van’ of ‘vanaf’ niet de vijfde maar de [tweede naamval](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/). 
 
 ‘Instrument’ breed op te vatten, maar muziekintrumenten vallen onder een andere categorie. Daar speel je niet mee maar op, dus zesde naamval. Meer in [Musical Instruments. Музыкальные инструменты](https://www.youtube.com/watch?v=sLfHosckTWk) (Amazing Russian, 2017, 8 m).
 
@@ -124,7 +124,7 @@ Gedicht [Носом, ушами, глазами](https://www.stihi.ru/2016/11/28
 
 Instrumental voor seizoenen, ter vervanging voor ‘in de’. In de lente (**весна**), zomer (**лето**), herfst (**осень**), winter (**зима**): **весной**, **летом**, **осенью**, **зимой**.
 
-Ook bij tijden van de dag. In de ochtend (**утро**), middag (**день**), avond (**вечера**), nacht (**ночь**): **утром**, **днём**, **вечером**, **ночью**. Vertalen met ’s ochtends, ’s middags enz. kan ook, maar bij [kloktijden](https://rusland1.nl/taal/200218-klokkijken/) geen vijfde maar tweede naamval.
+Ook bij tijden van de dag. In de ochtend (**утро**), middag (**день**), avond (**вечера**), nacht (**ночь**): **утром**, **днём**, **вечером**, **ночью**. Vertalen met ’s ochtends, ’s middags enz. kan ook, maar bij [kloktijden](https://rusland1.nl/nl/taal/200218-klokkijken/) geen vijfde maar tweede naamval.
 
 
 - [Seasons & parts of the day in Russian Instrumental Case](https://youtu.be/ESbWPGf7r-Y) (Russian Step by Step, 2020, 4 m)
@@ -173,11 +173,11 @@ Behalve vaak met **с** (met), vijfde naamval na **рядом с** (dichtbij), *
 
 #### Werkwoorden
 
-Na [wederkerende werkwoorden](https://rusland1.nl/taal/20201108-wederkerend-en-onovergankelijk/) zoals **гордиться** (trots zijn op), **заниматься** (bedrijven, beoefenen), **интересоваться** (geïnteresseerd zijn in), **пользоваться** (gebruiken), **увлекаться** (dol zijn op, aangetrokken zijn tot), **оставаться** (blijven), **оказываться** (blijken), **являться** (schijnen te), et cetera.
+Na [wederkerende werkwoorden](https://rusland1.nl/nl/taal/20201108-wederkerend-en-onovergankelijk/) zoals **гордиться** (trots zijn op), **заниматься** (bedrijven, beoefenen), **интересоваться** (geïnteresseerd zijn in), **пользоваться** (gebruiken), **увлекаться** (dol zijn op, aangetrokken zijn tot), **оставаться** (blijven), **оказываться** (blijken), **являться** (schijnen te), et cetera.
 
 De vijfde naamval maakt hier woorden als ‘aan’, ‘op’ en ‘in’ overbodig.<br/>Aan sport (**спорт**) doen: **заниматься спортом**.<br/>Trots zijn op het land (**страна**): **гордиться страной**.<br/>Geïnteresseerd zijn in taal (**язык**): **интересоваться языком**.
 
-Is het werkwoord niet wederkerend, dan gelden andere regels. Vijfde naamval na **пользоваться**, maar na **использовать** de [vierde](https://rusland1.nl/taal/20201125-vierde-naamval-accusatief/); uitleg in [Пользоваться vs использовать](https://www.youtube.com/watch?v=ioxNLEGTamg) (Ru-Land Club, 2016, 4 m).
+Is het werkwoord niet wederkerend, dan gelden andere regels. Vijfde naamval na **пользоваться**, maar na **использовать** de [vierde](https://rusland1.nl/nl/taal/20201125-vierde-naamval-accusatief/); uitleg in [Пользоваться vs использовать](https://www.youtube.com/watch?v=ioxNLEGTamg) (Ru-Land Club, 2016, 4 m).
 
 - [Nouns in the Russian Instrumental Case. Reflexive Verbs in Russian](https://youtu.be/PeoKvO607aU) (Learn Russian, 2020 10 m), zie [Nouns in the Russian Instrumental Case. First Verbs of Motion](https://youtu.be/cWZYrmRSsjk) (2020, 9 m)
 - [Глаголы, требующие творительного падежа / грамматика](https://youtu.be/nGt617HxR8g) (говорим по-русски правильно, vh. русский с носителем, 2017, 5 m)

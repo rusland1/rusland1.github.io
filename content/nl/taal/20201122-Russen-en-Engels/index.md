@@ -2,7 +2,7 @@
 draft: false
 intro: >
   Nog een reden om Russisch te leren (zie [Waarom
-  Russisch](https://rusland1.nl/taal/190612-waarom-russisch/)) is dat Russen
+  Russisch](https://rusland1.nl/nl/taal/190612-waarom-russisch/)) is dat Russen
   geen Engels spreken. Dat wil zeggen, lang niet iedereen. En van degenen die
   het wel doen, niet iedereen even goed. *How come?* Daarover het volgende. Met
   aan het eind de Russen zelf aan het woord.

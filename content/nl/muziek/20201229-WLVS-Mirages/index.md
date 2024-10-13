@@ -10,7 +10,7 @@ intro: >-
   voor deze ene keer: R1’s redactie is fan van WLVS – kort voor Wolves (daterend
   uit Engelstalige begindagen), maar als vrienden leuk willen doen zeggen ze
   Walvis. (Een normale introductie van de band is van eerder en staat
-  [hier](https://rusland1.nl/muziek/20200214-wlvs-aan-stukken/).)
+  [hier](https://rusland1.nl/nl/muziek/20200214-wlvs-aan-stukken/).)
 publishdate: '2020-12-29'
 resources: []
 seo_description: >-

@@ -4,7 +4,7 @@ intro: >
   Een veelgestelde vraag, die nog niet zo makkelijk te beantwoorden is. Er zijn
   weliswaar gradaties van ingewikkeldheid (zie [Hoelang het duurt voor je
   Russisch
-  kunt](https://rusland1.nl/taal/190613-hoelang-het-duurt-voor-je-russisch-kunt/);
+  kunt](https://rusland1.nl/nl/taal/190613-hoelang-het-duurt-voor-je-russisch-kunt/);
   meer onderaan), maar wat een makkie voor de een is, kan voor de ander een
   beproeving zijn. De een loopt met gemak een marathon, de ander krijgt een
   halve nog niet uitgefietst.
@@ -36,7 +36,7 @@ Russisch is ook weer geen Chinees. En als ruim [150 miljoen](https://www.rbth.co
 <br/> 
 <br/> 
 
-Ook mooi meegenomen: meerdere letters uit het [Russisch alfabet](https://rusland1.nl/taal/190412-abctje/) zijn precies als die van ons; [vragen](https://rusland1.nl/taal/200229-vraagwoorden/) en [verleden tijd](https://rusland1.nl/taal/200217-verleden-tijd/) zijn vaak eenvoudig; Russisch kent geen lidwoorden, en zo is er meer. *Russian is easy!*
+Ook mooi meegenomen: meerdere letters uit het [Russisch alfabet](https://rusland1.nl/nl/taal/190412-abctje/) zijn precies als die van ons; [vragen](https://rusland1.nl/nl/taal/200229-vraagwoorden/) en [verleden tijd](https://rusland1.nl/nl/taal/200217-verleden-tijd/) zijn vaak eenvoudig; Russisch kent geen lidwoorden, en zo is er meer. *Russian is easy!*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TLH_zsz2TR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Ook mooi meegenomen: meerdere letters uit het [Russisch alfabet](https://rusland
 
 ### Toch niet zo eenvoudig
 
-Nu niet overmoedig worden. Tegenover elk gemak staat in de Russische taal minstens één moeilijkheid. Zes naamvallen (eigenlijk [zeven](https://youtu.be/7OVuNBWS-e8)). Van elk werkwoord twee vormen, met eigen vervoegingen ­– waarvan er geen [twee](https://rusland1.nl/taal/200216-eerste-en-tweede-vervoeging/), maar wel [veertig](https://youtu.be/rapWYCAUpQo) zijn. Dan heb je ook nog werkwoorden van beweging en met prefix, gerundia, en nog veel meer. Nee, Russisch is geen Chinees – Russisch is moeilijker! Zeggen de [Chinezen zelf](https://youtu.be/N6H3MgF7ovY?t=53) (zie onderaan voor meer vergelijkingen). Klinkt dat onwaarschijnijk: reken even mee met [RusTongue](https://www.youtube.com/channel/UC6gqFI6AIjZn32eXGGlHnog), dat (hieronder) uitlegt hoe je van een woord als **слово** (woord) 597 nieuwe woorden maakt. Russisch is [Difficult Even for Native Speakers](https://understandrussia.com/russian-language/) en een [Real hell for foreigners](https://www.youtube.com/watch?v=GsLKThGbXAU).
+Nu niet overmoedig worden. Tegenover elk gemak staat in de Russische taal minstens één moeilijkheid. Zes naamvallen (eigenlijk [zeven](https://youtu.be/7OVuNBWS-e8)). Van elk werkwoord twee vormen, met eigen vervoegingen ­– waarvan er geen [twee](https://rusland1.nl/nl/taal/200216-eerste-en-tweede-vervoeging/), maar wel [veertig](https://youtu.be/rapWYCAUpQo) zijn. Dan heb je ook nog werkwoorden van beweging en met prefix, gerundia, en nog veel meer. Nee, Russisch is geen Chinees – Russisch is moeilijker! Zeggen de [Chinezen zelf](https://youtu.be/N6H3MgF7ovY?t=53) (zie onderaan voor meer vergelijkingen). Klinkt dat onwaarschijnijk: reken even mee met [RusTongue](https://www.youtube.com/channel/UC6gqFI6AIjZn32eXGGlHnog), dat (hieronder) uitlegt hoe je van een woord als **слово** (woord) 597 nieuwe woorden maakt. Russisch is [Difficult Even for Native Speakers](https://understandrussia.com/russian-language/) en een [Real hell for foreigners](https://www.youtube.com/watch?v=GsLKThGbXAU).
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ewiIwd4nPXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

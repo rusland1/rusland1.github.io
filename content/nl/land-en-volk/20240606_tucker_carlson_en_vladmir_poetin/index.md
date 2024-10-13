@@ -95,6 +95,6 @@ Het voorgaande grote gesprek tussen Poetin en westerse pers dateert van 28 juni 
 <br/>
 
 
-Zie ook [Leer Russisch met Vladimir Poetin (1/2)](https://www.rusland1.nl/taal/20200420-leer-russisch-met-poetin-1/) en [Leer Russisch met Vladimir Poetin (2/2)](https://www.rusland1.nl/taal/20200515-leer-russisch-met-poetin-2/)
+Zie ook [Leer Russisch met Vladimir Poetin (1/2)](https://www.rusland1.nl/nl/taal/20200420-leer-russisch-met-poetin-1/) en [Leer Russisch met Vladimir Poetin (2/2)](https://www.rusland1.nl/nl/taal/20200515-leer-russisch-met-poetin-2/)
 
 

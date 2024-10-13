@@ -2,7 +2,7 @@
 draft: false
 intro: >-
   Zoals gesteld
-  ([hier](https://www.rusland1.nl/taal/190611-mannelijk-vrouwelijk-onzijdig/)),
+  ([hier](https://www.rusland1.nl/nl/taal/190611-mannelijk-vrouwelijk-onzijdig/)),
   meestal is niet moeilijk te bepalen of een woord mannelijk, vrouwelijk of
   onzijdig is. Het wordt alleen een beetje ingewikkeld als het eindigt op het
   zachte teken, de **мягкий знак** of **ь**, en zulke woorden zijn er veel.

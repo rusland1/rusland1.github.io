@@ -35,7 +35,7 @@ voetnoot: ''
 
 #### Uitzonderingen
 
-Op elke regel een uitzondering. **имя** (voornaam) en **время** (tijd) zijn onzijdig, **кофе** (koffie) is mannelijk, en zo is er meer. En als een woord eindigt op een **ь** (**мягкий знак**, het zachte teken), kan het zowel mannelijk als vrouwelijk zijn. Dat komt vaak voor en daarvoor gelden eigen [regels](https://www.rusland1.nl/taal/20200716-woorden-eindigend-op-b/).
+Op elke regel een uitzondering. **имя** (voornaam) en **время** (tijd) zijn onzijdig, **кофе** (koffie) is mannelijk, en zo is er meer. En als een woord eindigt op een **ь** (**мягкий знак**, het zachte teken), kan het zowel mannelijk als vrouwelijk zijn. Dat komt vaak voor en daarvoor gelden eigen [regels](https://www.rusland1.nl/nl/taal/20200716-woorden-eindigend-op-b/).
 
 Verder eindigen woorden als **папа** (papa) of **дядя** (oom) weliswaar op **а** en **я**, maar een papa en een oom zijn en blijven wel **мужчина** (man). Een woord waarvoor hetzelfde geldt als voor de papa en de oom: ondanks de vrouwelijke slotletter wordt het behandeld als mannelijk.
 

@@ -25,7 +25,7 @@ voetnoot: ''
 
 <br/>
 
-Dit gaat over spreek- en informele taal, bijna een taal op zich. Eerder gespositioneerd als [de veilige kant](https://rusland1.nl/taal/20200802-roesski-sleng/) van slang, uitziend naar het deel dat dan moet volgen.
+Dit gaat over spreek- en informele taal, bijna een taal op zich. Eerder gespositioneerd als [de veilige kant](https://rusland1.nl/nl/taal/20200802-roesski-sleng/) van slang, uitziend naar het deel dat dan moet volgen.
 
 
 

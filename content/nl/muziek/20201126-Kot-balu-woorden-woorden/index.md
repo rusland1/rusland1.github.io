@@ -45,7 +45,7 @@ Luisteren kan ook op [Deezer](https://www.deezer.com/en/track/867609632?autoplay
 - [Песня о любви](https://youtu.be/ffk5IQroGLI) (2019) (met **Jah Khalib**)
 - [До встречи родная](https://youtu.be/ntkXZfLV7x4) (2016)
 - [Туда где солнца нет](https://youtu.be/uHBCxtnTAIY) (2015, met **Банума** en **Словетский**)
-- [Туда и обратно](https://youtu.be/5f_61RIk5xo) (2015, met [Каспийский Груз](https://rusland1.nl/muziek/190422-%D0%BA%D0%B0%D1%81%D0%BF%D0%B8%D0%B8%CC%86%D1%81%D0%BA%D0%B8%D0%B8%CC%86-%D0%B3%D1%80%D1%83%D0%B7-3x/))
+- [Туда и обратно](https://youtu.be/5f_61RIk5xo) (2015, met [Каспийский Груз](https://rusland1.nl/nl/muziek/190422-%D0%BA%D0%B0%D1%81%D0%BF%D0%B8%D0%B8%CC%86%D1%81%D0%BA%D0%B8%D0%B8%CC%86-%D0%B3%D1%80%D1%83%D0%B7-3x/))
 - [Одиночество](https://youtu.be/vCNBBwsMqss) (2013)
 - [Письма к стене](https://youtu.be/Mls7bGi6mbk) (2013) 
 - [Открой](https://youtu.be/5xBP5JZP9sM) (2013)

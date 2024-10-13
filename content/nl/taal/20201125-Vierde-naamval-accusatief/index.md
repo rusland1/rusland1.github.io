@@ -107,7 +107,7 @@ Zie ook
 Ook om op maandag, op dinsdag, op woensdag enz. te zeggen, gebruik je de vierde naamval. Met het voorzetsel **в** en bij dinsdag **во**, De naamval is alleen zichtbaar bij de dagen die eindigen op op a (**в среду**, **в пятницу**, **в субботу**).
 
 Ook zonder voorzetsel wordt de accusatief gebruikt. Elke zaterdag: **каждую субботу**.<br/>
-Zie [Russische kalenderwoorden](https://rusland1.nl/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/).
+Zie [Russische kalenderwoorden](https://rusland1.nl/nl/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/).
 
  
 <br/>
@@ -131,7 +131,7 @@ Vierde naamval na gangbare werkwoorden als **читать** (lezen), **помн�
 
 #### Mannelijk en onzijdig
 
-Het makkelijkst aan de vierde naamval is dat onzijdige woorden ongewijzigd blijven, en mannelijke meestal ook. Een **журнал** (tijdschrift) bijvoorbeeld – of je het nou koopt of leest of in brand steekt, het woord blijft hetzelfde omdat het mannelijk is. Je kunt ook zeggen:  журнал zoals in de [eerste naamval](https://rusland1.nl/taal/20200417-eerste-naamval-nominatief/) (nominatief).
+Het makkelijkst aan de vierde naamval is dat onzijdige woorden ongewijzigd blijven, en mannelijke meestal ook. Een **журнал** (tijdschrift) bijvoorbeeld – of je het nou koopt of leest of in brand steekt, het woord blijft hetzelfde omdat het mannelijk is. Je kunt ook zeggen:  журнал zoals in de [eerste naamval](https://rusland1.nl/nl/taal/20200417-eerste-naamval-nominatief/) (nominatief).
 
  <br/>
 
@@ -162,9 +162,9 @@ Bijvoeglijk naamwoorden in de [Introduction to the Accusative: Adjectives](https
 
 #### Dood of levend
 
-Mannelijke woorden veranderen wél wanneer ze betrekking hebben op een levend wezen. Is het bezield (**одушевлённое** of *animate*), dan volgt het de regels van de [tweede naamval](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/) (genitief). Niet alleen maar naar de letters kijken dus. Ik zie een journalist (журналист): **я вижу журналиста**.
+Mannelijke woorden veranderen wél wanneer ze betrekking hebben op een levend wezen. Is het bezield (**одушевлённое** of *animate*), dan volgt het de regels van de [tweede naamval](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/) (genitief). Niet alleen maar naar de letters kijken dus. Ik zie een journalist (журналист): **я вижу журналиста**.
 
-Tweede en vierde naamval hebben dus ook dezelfde [persoonlijk voornaamwoorden](https://rusland1.nl/taal/200224-persoonlijk-voornaamwoord/). Tamara heeft er een [liedje](https://youtu.be/ZJE_lH8Yny0) over (2019).
+Tweede en vierde naamval hebben dus ook dezelfde [persoonlijk voornaamwoorden](https://rusland1.nl/nl/taal/200224-persoonlijk-voornaamwoord/). Tamara heeft er een [liedje](https://youtu.be/ZJE_lH8Yny0) over (2019).
 
 
 Wat beschouwd wordt als levend (of niet-levend) is een verhaal apart. Zie [Wanted Dead Or Alive: Noun Animacy in Russian](https://blogs.transparent.com/russian/wanted-dead-or-alive-noun-animacy-in-russian/) (Russian Language Blog, 2015) en [Кто? Что? Одушевленное и неодушевленное](https://www.youtube.com/watch?v=dJkE7-o2o4s) (Шишкина школа, 2014, 7 m).

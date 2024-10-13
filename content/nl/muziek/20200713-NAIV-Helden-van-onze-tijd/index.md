@@ -13,7 +13,7 @@ intro: >+
   [Wikipedia](https://nl.wikipedia.org/wiki/Een_held_van_onze_tijd). Verander je
   de **й** in **и**, dan maak je helden van de held (uitleg over meervoud in de
   eerste naamval
-  [hier](https://www.rusland1.nl/taal/20200417-eerste-naamval-nominatief/)) en
+  [hier](https://www.rusland1.nl/nl/taal/20200417-eerste-naamval-nominatief/)) en
   zijn we waar we wezen moeten: bij de song (uit 2018) met opmerkelijke video,
   van **НАИВ** (of NAIV, Naïve).
 

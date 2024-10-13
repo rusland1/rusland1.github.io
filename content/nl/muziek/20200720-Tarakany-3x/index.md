@@ -55,7 +55,7 @@ Tekst is natuurlijk belangrijk. Meerdere clips zijn ondertiteld, en er zijn teks
 
 #### Пыль и пепел (2018) 
 
-Stof en as, met [Anacondaz](https://rusland1.nl/muziek/20201215-anacondaz-4x/). <br/>
+Stof en as, met [Anacondaz](https://rusland1.nl/nl/muziek/20201215-anacondaz-4x/). <br/>
 [Tekst](https://teksty-pesenok.ru/rus-anacondaz-tarakany/tekst-pesni-pyl-i-pepel/6666140/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KOmBcuR8Ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -67,7 +67,7 @@ Stof en as, met [Anacondaz](https://rusland1.nl/muziek/20201215-anacondaz-4x/). 
 
 Met 5 woorden (**5 слов**) kun je veel zeggen. Dingen aanrichten of problemen oplossen. **Я больше не люблю тебя**: ik hou niet meer van je, al zijn dat er zes. Om het op vijf te houden: ‘Ik moet je niet meer’ kan ook. Makkelijker gedacht dan gezegd ([tekst](https://teksty-pesenok.ru/rus-tarakany/tekst-pesni-5-slov/4054906/)). 
 
-Van **5 слов** is ook een [studioversie](https://www.youtube.com/watch?v=iIZFvNlZHf0) (2013, met Лусинэ Геворкян / [Lousine Gevorkyan](https://en.wikipedia.org/wiki/Lousine_Gevorkyan)) en een [live-uitvoering](https://youtu.be/DMxLtFyWagY) (2015) met Ника Комета / Nika Kometa. Dit komt van de [Larger Than… LIVE: 25th Anniversary Show](https://youtu.be/gy8HHYo2Nr8) (Moskou 2016); ook daarvandaan is o.a. [Кто-то из нас двоих](https://youtu.be/rVfQ4KAQ2Q8) en [Тишина – это смерть](https://youtu.be/prP3Kzvghgo), eveneens met zangeres van [Louna](https://rusland1.nl/muziek/20201201-louna-3x/). 
+Van **5 слов** is ook een [studioversie](https://www.youtube.com/watch?v=iIZFvNlZHf0) (2013, met Лусинэ Геворкян / [Lousine Gevorkyan](https://en.wikipedia.org/wiki/Lousine_Gevorkyan)) en een [live-uitvoering](https://youtu.be/DMxLtFyWagY) (2015) met Ника Комета / Nika Kometa. Dit komt van de [Larger Than… LIVE: 25th Anniversary Show](https://youtu.be/gy8HHYo2Nr8) (Moskou 2016); ook daarvandaan is o.a. [Кто-то из нас двоих](https://youtu.be/rVfQ4KAQ2Q8) en [Тишина – это смерть](https://youtu.be/prP3Kzvghgo), eveneens met zangeres van [Louna](https://rusland1.nl/nl/muziek/20201201-louna-3x/). 
 
  
 

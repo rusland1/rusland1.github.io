@@ -51,7 +51,7 @@ Zie [Time in the Second Half Hour](https://youtu.be/a5nwdHb2Oiw) (Russian gramma
 
 #### Genitief en klokwoorden
 
-Die [tweede naamval](https://rusland1.nl/taal/20200419-tweede-naamval-genitief/) gebruik je ook voor het meervoud van woorden als **минута** (minuut) en **час** (uur). Zo kom je aan **минуты** of **минут**, en aan **часа** of **часов**, afhankelijk van het getal. Voor 2 of 3 of 4 (minuten, uren) gebruikt het Russisch een andere vorm dan bij 5 en hoger. Een heel onderwerp op zich en niet voor hier.
+Die [tweede naamval](https://rusland1.nl/nl/taal/20200419-tweede-naamval-genitief/) gebruik je ook voor het meervoud van woorden als **минута** (minuut) en **час** (uur). Zo kom je aan **минуты** of **минут**, en aan **часа** of **часов**, afhankelijk van het getal. Voor 2 of 3 of 4 (minuten, uren) gebruikt het Russisch een andere vorm dan bij 5 en hoger. Een heel onderwerp op zich en niet voor hier.
 
 Het woord voor half is **половина**, kwartier is **четверть**, een halfuur is **полчаса**. En een klok of horloge  **часы**, wat eigenlijk gewoon uren betekent, net als **часа** en **часов**, maar wie vraagt hoe laat het is, gebrukt vaak **час**. 
 

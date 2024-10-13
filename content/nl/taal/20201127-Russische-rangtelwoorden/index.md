@@ -2,7 +2,7 @@
 draft: false
 intro: >-
   Na als eerste de gewone
-  [getallen](https://rusland1.nl/taal/200215-tellen-en-getallen/) of
+  [getallen](https://rusland1.nl/nl/taal/200215-tellen-en-getallen/) of
   [hoofdtelwoorden](https://nl.wikipedia.org/wiki/Hoofdtelwoord), hier en als
   tweede de [rangtelwoorden](https://nl.wikipedia.org/wiki/Rangtelwoord). Zoals
   eerste en tweede. In het Engels *ordinal numbers*, en in Russisch **порядковые
@@ -36,11 +36,11 @@ Derde trouwens ook, en zo blijf je bezig.
 
 #### Toepassingen
 
-Toch erbij vermelden, omdat je anders zou kunnen denken dat het niet interessant of belangrijk is. Rangtelwoorden heb je natuurlijk nodig voor data. Wij zeggen ook: het is vandaag de 27ste. Al een voorschot daarop in [Ordinal numbers and dates in Russian](https://youtu.be/B2NSFsYLOI4) (Learn Russian with Alfia, 2020, 22 m). Ook in [klokkijken](https://rusland1.nl/taal/200218-klokkijken/) kwamen de rangtelwoorden voor. En [namen van dagen](https://rusland1.nl/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/) zijn ervan afgeleid.
+Toch erbij vermelden, omdat je anders zou kunnen denken dat het niet interessant of belangrijk is. Rangtelwoorden heb je natuurlijk nodig voor data. Wij zeggen ook: het is vandaag de 27ste. Al een voorschot daarop in [Ordinal numbers and dates in Russian](https://youtu.be/B2NSFsYLOI4) (Learn Russian with Alfia, 2020, 22 m). Ook in [klokkijken](https://rusland1.nl/nl/taal/200218-klokkijken/) kwamen de rangtelwoorden voor. En [namen van dagen](https://rusland1.nl/nl/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/) zijn ervan afgeleid.
 
 <br/>
 
-Ook in taal en uitdrukkingen kom je ze tegen. Voorbeelden in [Russian phrases with numerals](https://blogs.transparent.com/russian/russian-phrases-with-numerals/) (Russian Language Blog, 2020). Met over **первый** (eerste) de **первый встречный**, **первый сорт**, **первый парень на деревне**, **первый блин комом** en **на первый взгляд**. Dan ook nog de **любовь с первого взгляда**, liefde op het eerste gezicht (rangtelnummer in de tweede naamval). [Первый](https://rusland1.nl/muziek/190412-amatory-eerste/) was ook het eerste nummer in de sectie Muziek.
+Ook in taal en uitdrukkingen kom je ze tegen. Voorbeelden in [Russian phrases with numerals](https://blogs.transparent.com/russian/russian-phrases-with-numerals/) (Russian Language Blog, 2020). Met over **первый** (eerste) de **первый встречный**, **первый сорт**, **первый парень на деревне**, **первый блин комом** en **на первый взгляд**. Dan ook nog de **любовь с первого взгляда**, liefde op het eerste gezicht (rangtelnummer in de tweede naamval). [Первый](https://rusland1.nl/nl/muziek/190412-amatory-eerste/) was ook het eerste nummer in de sectie Muziek.
 
 
 <br/>

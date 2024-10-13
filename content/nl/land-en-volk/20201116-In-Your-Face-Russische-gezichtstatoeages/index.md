@@ -26,7 +26,7 @@ voetnoot: ''
 
 #### Rappers
 
-[Face](https://rusland1.nl/muziek/20200227-face-3x/), [Kizaru](https://rusland1.nl/muziek/190525-kizaru-3x/), [Ганвест](https://www.mtv.ru/news/ganvest/), [Morgenshtern](https://www.rbth.com/lifestyle/332731-meet-morgenstern-first-man-woman-of-the-year) (die [spijt](https://www.starhit.ru/novosti/morgenshtern-jaleet-o-tatuirovkah-na-litse-217946/) heeft), [Скруджи](https://24smi.org/celebrity/9892-skrudzhi.html) en nog veel meer. Allemaal **на лице** (in het gezicht) getatoeëerd. Dat lijkt soms wel belangrijker dan de *skills*. 
+[Face](https://rusland1.nl/nl/muziek/20200227-face-3x/), [Kizaru](https://rusland1.nl/nl/muziek/190525-kizaru-3x/), [Ганвест](https://www.mtv.ru/news/ganvest/), [Morgenshtern](https://www.rbth.com/lifestyle/332731-meet-morgenstern-first-man-woman-of-the-year) (die [spijt](https://www.starhit.ru/novosti/morgenshtern-jaleet-o-tatuirovkah-na-litse-217946/) heeft), [Скруджи](https://24smi.org/celebrity/9892-skrudzhi.html) en nog veel meer. Allemaal **на лице** (in het gezicht) getatoeëerd. Dat lijkt soms wel belangrijker dan de *skills*. 
 
 Vooralsnog alleen mannen in het rijtje. Een vrouwelijke Roesski rapper met inkt in het gezicht werd (nog) niet gevonden. Dat kan te maken hebben met een voordeel dat mannen wel, en vrouwen niet van tatoeages hebben: je kunt er militaire dienst mee ontlopen.
 

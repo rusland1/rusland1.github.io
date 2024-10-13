@@ -5,7 +5,7 @@ intro: >+
 
   Nog één keer benadrukken dat – en waarom – het nuttig en belangrijk is te
   weten waar de
-  [klemtoon](https://rusland1.nl/taal/20210304-klemtoon-in-russisch/) in het
+  [klemtoon](https://rusland1.nl/nl/taal/20210304-klemtoon-in-russisch/) in het
   Russisch valt. En hoe die wetenschap je helpt, bij zowel de spelling van het
   woord **крокодил** (krokodil) als de uitspraak van namen zoals Tolstoj.
 
@@ -34,7 +34,7 @@ voetnoot: ''
 
 #### Oh en ah
 
-De o is in het Russisch (als vermeld in [Klanken plakken](https://rusland1.nl/taal/190421-klanken-plakken/)) de meest voorkomende letter. Zouden al die o’s een o-klank hebben, dan was heel de taal van klank veranderd. Nu is bepaald dat een onbeklemtoonde o (meestal) als een a klinkt, en dat was een goed idee. Want o, o, o, wat is het Russisch [mooi](https://rusland1.nl/taal/20210107-schoonheid-van-het-russisch/) – ook omdat je niet steeds o, o, o hoort.
+De o is in het Russisch (als vermeld in [Klanken plakken](https://rusland1.nl/nl/taal/190421-klanken-plakken/)) de meest voorkomende letter. Zouden al die o’s een o-klank hebben, dan was heel de taal van klank veranderd. Nu is bepaald dat een onbeklemtoonde o (meestal) als een a klinkt, en dat was een goed idee. Want o, o, o, wat is het Russisch [mooi](https://rusland1.nl/nl/taal/20210107-schoonheid-van-het-russisch/) – ook omdat je niet steeds o, o, o hoort.
 
 <br/>
 
@@ -85,7 +85,7 @@ Meer over de materie in tweeluik **Vowel reduction** van [Russian grammar](https
 
 #### Tolstoj en Bolshoi
 
-Zoals Nederlanders ‘Tolstoj’ zeggen, dat kan dus nooit goed zijn. Het is ofwel *Tólstaj* (wat vreemd zou klinken), ofwel *Talstój* – wat aanvankelijk ook vreemd aandoet, maar wel juist is en snel went. Waarna je Tólstoj algauw niet meer kunt áánhoren. **Толстый** (met de klemtoon op de eerste lettergreep) is trouwens een [bijvoeglijk naamwoord](https://rusland1.nl/taal/20201219-russische-bijvoeglijk-naamwoorden/) en betekent dik.
+Zoals Nederlanders ‘Tolstoj’ zeggen, dat kan dus nooit goed zijn. Het is ofwel *Tólstaj* (wat vreemd zou klinken), ofwel *Talstój* – wat aanvankelijk ook vreemd aandoet, maar wel juist is en snel went. Waarna je Tólstoj algauw niet meer kunt áánhoren. **Толстый** (met de klemtoon op de eerste lettergreep) is trouwens een [bijvoeglijk naamwoord](https://rusland1.nl/nl/taal/20201219-russische-bijvoeglijk-naamwoorden/) en betekent dik.
 
 Bestel ook nooit kaarten voor het [Bolshói Theater](https://en.wikipedia.org/wiki/Bolshoi_Theatre) of [Bolshói Ballet](https://en.wikipedia.org/wiki/Bolshoi_Ballet) – wel voor het *Balshói*. Dat dat zo vaak verkeerd gaat is heel erg. Het gaat hier wel om balshoi namen.
 

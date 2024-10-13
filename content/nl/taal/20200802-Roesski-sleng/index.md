@@ -43,7 +43,7 @@ Zie om te beginnen, voor wat vocabulaire:
 - [5 Useful Slang Words in Russian Language](https://www.youtube.com/watch?v=rRhJOSerbfQ) (2019, 5 m), met **кореш**, **тусовка**, **тупой**, **погнали** en **гавно**
 
 
-Een enkele keer gaat het over een enkel woord. Zoals [hier](https://www.youtube.com/watch?v=gUS3LwST7x8) over **бабки**, een slang woord voor geld (ook vermeld bij de muziek van [Pharaoh](https://www.rusland1.nl/muziek/20200623-pharaoh-problemen/)). Zie voor zulke zaken tevens [Russian slang for Money](https://youtu.be/NIXfbvXwLB8) (Russian Matreshka, 2020, 4 m) en [Show Me The Money: Slang Expressions for Cash in Russian](https://blogs.transparent.com/russian/show-me-the-money-slang-expressions-for-cash-in-russian/) (Russian Language Blog, 2016).
+Een enkele keer gaat het over een enkel woord. Zoals [hier](https://www.youtube.com/watch?v=gUS3LwST7x8) over **бабки**, een slang woord voor geld (ook vermeld bij de muziek van [Pharaoh](https://www.rusland1.nl/nl/muziek/20200623-pharaoh-problemen/)). Zie voor zulke zaken tevens [Russian slang for Money](https://youtu.be/NIXfbvXwLB8) (Russian Matreshka, 2020, 4 m) en [Show Me The Money: Slang Expressions for Cash in Russian](https://blogs.transparent.com/russian/show-me-the-money-slang-expressions-for-cash-in-russian/) (Russian Language Blog, 2016).
 
 In [Russian Almost Curse Words](https://www.youtube.com/watch?v=zBSSBL3yeDg) (2019, 5 m) geeft Fedor drie keer de acceptabele versie van een grove uitdrukking. Die laatste krijg je er ook bij; explicit lyrics dus (hier niet overgenomen). Met **пошёл ты**, **нафиг**, **блин**, **хрен знает** en **заколебал**. 
 

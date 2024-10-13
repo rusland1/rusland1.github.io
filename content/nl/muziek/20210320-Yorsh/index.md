@@ -103,7 +103,7 @@ Tekst met [vertaling](https://text-pesni-perevod.ru/yorsh/chernyy_flag/)
 #### Meer
 
 
-- [Особый резон](https://youtu.be/bjCD6opDy2w) (2020) covert [Yanka Dyagileva](https://rusland1.nl/muziek/20200812-yanka-dyagileva/); origineel [hier](https://youtu.be/CWt4_OdUC0E)
+- [Особый резон](https://youtu.be/bjCD6opDy2w) (2020) covert [Yanka Dyagileva](https://rusland1.nl/nl/muziek/20200812-yanka-dyagileva/); origineel [hier](https://youtu.be/CWt4_OdUC0E)
 - [Нарисуй Мне Счастье (fan-video)](https://youtu.be/nYIKiOU1bw0) (eerst inloggen) (2019)
 - [В рамках закона (fan-video)](https://youtu.be/qUFlbLds9GY) (2019)
 - [Против тебя](https://youtu.be/Yt2mXnDCSJU) (2019)

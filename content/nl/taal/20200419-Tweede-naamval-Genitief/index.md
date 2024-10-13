@@ -2,7 +2,7 @@
 draft: false
 intro: >-
   Zo makkelijk als het je gemaakt werd met de [eerste
-  naamval](https://rusland1.nl/taal/20200417-eerste-naamval-nominatief/), zo
+  naamval](https://rusland1.nl/nl/taal/20200417-eerste-naamval-nominatief/), zo
   ingewikkeld wordt het met de tweede. De genitief of **родительный падеж** is
   op meerdere terreinen een uitdaging. Het is de meest gebruikte en
   veelzijdigste, maar ook de meest complexe.
@@ -49,7 +49,7 @@ Meer in [Making Comparisons. Comparatives](https://youtu.be/PX6XeRv8L3U) (Amazin
 
 De tweede naamval is ook nodig om bezit of eigenaarschap uit te drukken. Het huis van Ivan: **дом Ивана**. Het 'van' is onnodig door de genitief. Die geeft Ivan een extra **a**. Daarmee is hij nog steeds Ivan (en niet een Ivana) en is het huis van hem. De genitief wordt vaak gebruikt bij namen. Ook bij ‘hebben’. Na de **у** in **у … есть** (hebben) volgt de tweede naamval.
 
-Meer in [Beginning Russian: Genitive Case-1: Personal Pronouns with У+ ЕСТЬ](https://www.youtube.com/watch?v=ovH8AAY1WbU) (Amazing Russian, 2018, 11 m), [Genitive Singular. Practice: У КОГО ЧТО ЕСТЬ](https://youtu.be/sJ0gaNfAC-8) (Amazing Russian, 2018, 4 m) en [Genitive for Attribution and Possession](https://youtu.be/eUhW8NUpKm4) (Russian grammar, 2013, 2 m). Zie ook [Hebben hebben hebben](https://rusland1.nl/taal/200219-hebben/) en [Expressing connection, relationship with У](https://youtu.be/Zw8DFcnFJmw) (Russian grammar, 2020, 3 m).
+Meer in [Beginning Russian: Genitive Case-1: Personal Pronouns with У+ ЕСТЬ](https://www.youtube.com/watch?v=ovH8AAY1WbU) (Amazing Russian, 2018, 11 m), [Genitive Singular. Practice: У КОГО ЧТО ЕСТЬ](https://youtu.be/sJ0gaNfAC-8) (Amazing Russian, 2018, 4 m) en [Genitive for Attribution and Possession](https://youtu.be/eUhW8NUpKm4) (Russian grammar, 2013, 2 m). Zie ook [Hebben hebben hebben](https://rusland1.nl/nl/taal/200219-hebben/) en [Expressing connection, relationship with У](https://youtu.be/Zw8DFcnFJmw) (Russian grammar, 2020, 3 m).
 
 
 
@@ -75,7 +75,7 @@ Meer in [Russian Cases – Expressing Quantity with the Genitive](https://www.yo
 
 #### Tijd en datum
 
-Het Russisch gebruikt ook 'van'-constructies om kloktijd en datum aan te duiden, en gebruikt dus ook dan de genitief. De kalender is een onderwerp op zich en voor later. Voor kloktijden, zie [Klokkijken in het Russisch](https://rusland1.nl/taal/200218-klokkijken/).
+Het Russisch gebruikt ook 'van'-constructies om kloktijd en datum aan te duiden, en gebruikt dus ook dan de genitief. De kalender is een onderwerp op zich en voor later. Voor kloktijden, zie [Klokkijken in het Russisch](https://rusland1.nl/nl/taal/200218-klokkijken/).
 
 <br/>
 
@@ -126,9 +126,9 @@ Meer in [Грамматика русского языка : предлоги р�
 #### Meer
 
 
-- De [persoonlijk voornaamwoorden](https://rusland1.nl/taal/200224-persoonlijk-voornaamwoord/) **я**, **ты**, **он**, **она**, **мы**, **вы** en **они** veranderen in **меня**, **тебя**, **его**, **её**, **нас**, **вас**, **их**. Meer in [Personal Pronouns in the Genitive](https://youtu.be/2W4xo1gAjqU) (Russian grammar, 2013, 3 m).
+- De [persoonlijk voornaamwoorden](https://rusland1.nl/nl/taal/200224-persoonlijk-voornaamwoord/) **я**, **ты**, **он**, **она**, **мы**, **вы** en **они** veranderen in **меня**, **тебя**, **его**, **её**, **нас**, **вас**, **их**. Meer in [Personal Pronouns in the Genitive](https://youtu.be/2W4xo1gAjqU) (Russian grammar, 2013, 3 m).
 - Soms slaat een letter op de vlucht als er een andere bij komt. Van vader: **отец** wordt **отца**. De **a** erachter, de **e** verdwijnt, waardoor het makkelijker uit te spreken is.
-- De [klemtoon](https://rusland1.nl/taal/20210304-klemtoon-in-russisch/) kan verspringen. Zoals van **стóл** (tafel) naar **столá** en van **гарáж** (garage) naar **гаражá**.
+- De [klemtoon](https://rusland1.nl/nl/taal/20210304-klemtoon-in-russisch/) kan verspringen. Zoals van **стóл** (tafel) naar **столá** en van **гарáж** (garage) naar **гаражá**.
 
 
 <br/>Nuttig en om vaker te bekijken zijn [Genitive Case-2: Genitive Singular Forms](https://www.youtube.com/watch?v=0So19oX1mgo) (Amazing Russian, 2018, 13 m), [The genitive case. Endings. Masculine and neuter](https://youtu.be/3l96tX4lSUM) (Russian Language for Life and Work, 2018, 10 m),  [The genitive case. Endings. Feminine](https://youtu.be/BXA0I2W9sh0) (Russian Language for Life and Work, 2018, 9 m).

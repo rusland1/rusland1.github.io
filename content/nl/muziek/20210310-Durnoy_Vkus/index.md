@@ -74,7 +74,7 @@ UItvoeringen door [Дарья Шишкина](https://youtu.be/0bLFcHavHW8) (202
 
 
 
-Zie [Vinyl in Rusland](https://rusland1.nl/land-en-volk/20200716-vinyl-in-rusland/) (2020).
+Zie [Vinyl in Rusland](https://rusland1.nl/nl/land-en-volk/20200716-vinyl-in-rusland/) (2020).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AxR6OP7Yf8w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

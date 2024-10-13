@@ -62,7 +62,7 @@ Podcast: **Почему россияне уезжают из России?**<br/
 
 [EN]
 
-- [What's it like to Retire in Russia & Why Young Russians Wanna Move Abroad](https://youtu.be/ttnDLXx-0GA) (Russian Plus, 2020, 4 m), zie ook [dit item](https://rusland1.nl/land-en-volk/20200727-dood-of-herlevend-russische-dorpen/) over het Russische dorp
+- [What's it like to Retire in Russia & Why Young Russians Wanna Move Abroad](https://youtu.be/ttnDLXx-0GA) (Russian Plus, 2020, 4 m), zie ook [dit item](https://rusland1.nl/nl/land-en-volk/20200727-dood-of-herlevend-russische-dorpen/) over het Russische dorp
 - [5 reasons not to live in Russia](https://youtu.be/AKkagokZpaA) (Russian Progress, 2020, 11 m), van hetzelfde kanaal [5 reasons to live in Russia](https://youtu.be/DE29DeZF63U) (2020, 15 m)
 - [Do I Want to Leave Russia?](https://youtu.be/D16-E2UuLaU) (NFKRZ, 2020, 12 m)
 - [Is Russia a good place to live? Survey](https://youtu.be/c0YnVtYhH0k) (1420, 2020, 8 m), van hetzelfde kanaal [Name one country that you don't like](https://youtu.be/rLj89v2dV_Q) (2020, 2 m)
