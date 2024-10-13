@@ -1,0 +1,242 @@
+.topmenuwithlines{
+    align-items: unset !important;
+  
+    .textitems{
+      margin-top:55px;
+      text-align: center;
+    }
+    .textitems-shrink{
+      margin-top:43px;
+      text-align: center;
+    }
+  }
+  
+  .subsectionmenu{
+    width: 100%;
+    z-index: 200;
+    display: grid;
+    grid-auto-flow: row dense;
+  
+  
+    a{
+      font-family: $subtop-font-family;
+      text-transform: uppercase;
+      color: $zwartman;
+      font-size: 0.9rem;
+    }
+  
+    @media (min-width: $custom-media-phonesmall) {
+      grid-template-columns:  repeat(2,1fr) ;
+    }
+  
+    @media (min-width: $custom-media-phonebig) {
+    grid-template-columns:  repeat(3,1fr) ;
+    }
+  
+    @media (min-width: $custom-media-tablet) {
+    grid-template-columns:  repeat(5,1fr) ;
+    }
+  
+    @media (min-width: $custom-media-desktop) {
+      grid-template-columns:  auto;
+      grid-auto-flow: column;
+    }
+  
+    @media (min-width: $custom-media-retina) {
+      grid-template-columns: auto;
+      grid-auto-flow: column;
+    }
+  
+    grid-template-columns:  auto repeat(auto-fit, 10px) auto;
+    grid-template-rows: auto;
+  
+  }
+  
+  .subsectionmenu-fixed{
+    position: fixed;
+    top:100px;
+    padding: 20px 5px 3px 5px;
+    z-index: 300;
+  }
+  
+  .logo-{
+    background-color: $white;
+  }
+  .logo-muziek{
+    background-color: $main-red;
+  }
+  
+  .logo-landenvolk {
+    background-color: $main-blue;
+  }
+  
+  .logo-taal {
+    background-color: $main-green;
+  }
+  .logo-overig {
+    background-color: $main-overig;
+  }
+  
+  .logowit {
+    background-color: $white;
+  }
+  
+  .maingrid {
+    width: 100%;
+    z-index: 1;
+    display: grid;
+    grid-auto-flow: row;
+    background-origin: padding-box;
+    background-repeat: repeat-x;
+    height: 100px;
+  
+    @media (min-width: $custom-media-phonesmall) {
+    grid-template-columns:  3fr 130px 3fr;
+      background-image:url(../img/lines3.png);
+    }
+  
+    @media (min-width: $custom-media-tablet) {
+      background-image:url(../img/lines2.png);
+  
+    }
+  
+    @media (min-width: $custom-media-desktop) {
+      grid-template-columns:  3fr 190px 3fr;
+    }
+  
+  }
+  
+  .subgrid {
+    z-index: 300;
+    width: 100%;
+    display: inline-grid;
+    height: 30px;
+    top: -5px;
+  
+  
+  
+    @media (min-width: $custom-media-phonesmall) {
+        grid-template-columms: repeat(1, 1fr);
+        margin-top: 5px;
+  
+    }
+  
+    @media (min-width: $custom-media-phonebig) {
+      grid-template-columns: repeat(3, 1fr);
+      margin-top: 30px;
+    }
+  
+    @media (min-width: $custom-media-tablet) {
+      grid-template-columns: repeat(3, 1fr);
+      margin-top: 40px;
+    }
+  
+    @media (min-width: $custom-media-desktop) {
+      grid-template-columns: repeat(3, 1fr);
+      margin-top: 47px;
+    }
+  }
+  
+  #languageBar {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: end;
+    padding-top: 5px;
+    padding-right: 12px;
+
+    .languagebuttons {
+      .languagebutton {
+        font-size: 12px;
+        padding: 5px;
+      }
+    }
+  }
+  
+  #mainNav {
+  
+    .navcolorbg{
+      z-index:-1;
+      position:absolute;
+      top:0px;
+      left:0px;
+      right:0px;
+      height:130px;
+    }
+  
+    .item {
+      grid-row: span 1;
+      grid-column: span 1;
+      text-align: center;
+    }
+  
+    a {
+      color:$zwartman;
+  
+      @media (min-width: $custom-media-phonesmall) {
+      font-size:105%;
+      }
+  
+      @media (min-width: $custom-media-phonebig) {
+      font-size:105%;
+      }
+  
+      @media (min-width: $custom-media-tablet) {
+      font-size:105%;
+      }
+  
+      @media (min-width: $custom-media-desktop) {
+        font-size:120%;
+      }
+  
+      @media (min-width: $custom-media-retina) {
+        font-size:140%;
+      }
+  
+    }
+    a.active{
+      color:$white;
+    }
+  
+  
+  
+    font-weight: 700;
+  
+    div.sticky {
+      position: relative;
+    }
+  
+    img#logo{
+      position:absolute;
+      top:14px;
+      left:15px;
+      width:160px;
+      height:160px;
+    }
+  
+    img#logobg{
+      position:absolute;
+      top: -6px;
+      left: -6px;
+      width:200px;
+      height:200px;
+    }
+  
+    .circle {
+      position:absolute;
+      border-radius: 50%;
+      height: 190px !important;
+      width: 190px !important;
+      left: -25px;
+  
+      @media (min-width: $custom-media-desktop) {
+        left: 0px;
+      }
+  
+      @media (max-width: $custom-media-phonebig) {
+        left: -25px;
+      }
+    }
+  
+  }
+  
