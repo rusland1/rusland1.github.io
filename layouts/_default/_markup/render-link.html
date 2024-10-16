@@ -1,0 +1,7 @@
+{{ $link := .Destination }}
+{{ $rel := "noopener noreferrer" }}
+{{ if strings.HasPrefix $link "http" }}
+  <a href="{{ $link }}" target="_blank" rel="{{ $rel }}">{{ .Text | safeHTML }}</a>
+{{ else }}
+  <a href="{{ $link }}">{{ .Text | safeHTML }}</a>
+{{ end }}
