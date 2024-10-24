@@ -7,8 +7,10 @@ genres:
 artiesten:
   - Zemfira
 trefwoorden:
-  - songtekst
+  - tekstclip
   - Music in Russian
+  - Oekraïne
+  - ' СВО'
 seo_description: >-
   Portret Zemfra (Земфира), highlights 25 jaar Zemfra (Земфира) en alles over de
   Zemfira Tour 2024
@@ -36,7 +38,7 @@ Debuteren deed Земфира Талгатовна Рамазанова (1976, i
 
 "The group enjoyed popularity from the start," vertelt ons [Wikipedia](https://en.wikipedia.org/wiki/Zemfira), "in part because of heavy rotation on radio and television, and in part because a female rocker is a fairly rare and unusual concept for the Russian music scene."*
 
-Een single met de titel [СПИД](https://www.youtube.com/watch?v=HkaifQJEDsA) (aids), naast Aриведерчи (hieronder) en [Ракеты]( https://www.youtube.com/watch?v=DOS34Y_YEFg) was ook *fairly rare and unusual* in het Rusland van die tijd. De naam van Zemfira was direct een bekende.
+Een single met de titel [СПИД](https://www.youtube.com/watch?v=HkaifQJEDsA) (aids), naast Aриведерчи (hieronder) en [Ракеты]( https://www.youtube.com/watch?v=DOS34Y_YEFg), was ook *fairly rare and unusual* in het Rusland van die tijd. De naam van Zemfira was direct een bekende.
 
 <br/>
 
@@ -74,9 +76,9 @@ Hoogtepunten als [Искала](https://www.youtube.com/watch?v=Jn1kng-nFuY), [�
 
 #### Borderline
 
-Van die eerste twee platen naar het nieuwste werk kon alleen met reuzenstappen die werk en artiest geen recht doen – zie vooral de links naar meer (onderaan).
+Van die eerste twee platen naar het nieuwste werk kon alleen met reuzenstappen, die werk en artiest geen recht doen – zie vooral de links naar meer (onderaan).
 
-Het jongste volwaardige album – soundtracks voor [Северный ветер](https://music.youtube.com/playlist?list=OLAK5uy_m3hYxWjrItuvm6RjDkNHbTPtlm7DtaND4) (2021) en [Cactus](https://www.youtube.com/watch?v=hLbCZLvLAMw&list=PL6aOiP9G0g3a0Df9m42HcYKOxx12ECg5g) (2023) buiten beschouwing gelaten – is *бордерлайн* (borderlne) uit 2021 (deluxe edition 2022). Daarvan пальто, met tekst in beeld, ook [hier](https://genius.com/Zemfira-coat-lyrics).
+Het jongste volwaardige album – soundtracks voor [Северный ветер](https://music.youtube.com/playlist?list=OLAK5uy_m3hYxWjrItuvm6RjDkNHbTPtlm7DtaND4) (2021) en [Cactus](https://www.youtube.com/watch?v=hLbCZLvLAMw&list=PL6aOiP9G0g3a0Df9m42HcYKOxx12ECg5g) (2023) buiten beschouwing gelaten – is *бордерлайн* (borderline) uit 2021 (deluxe edition 2022). Daarvan пальто, met tekst in beeld, ook [hier](https://genius.com/Zemfira-coat-lyrics).
 
 
 <br/>
@@ -147,7 +149,7 @@ Playlists
 
 #### Inoagent
 
-Steun aan Oekraïne en kritiek op de [СВО](https://tinyurl.com/5n8vhpsp) (speciale militaire operatie ofwel oorlog) brachten Zemfira op de lijst van buitenlands agenten (zie: [Russian foreign agent law](https://en.wikipedia.org/wiki/Russian_foreign_agent_law). Een beslissing die ze aanvocht, zonder succes.
+Steun aan Oekraïne en kritiek op de [СВО](https://tinyurl.com/5n8vhpsp) (speciale militaire operatie ofwel oorlog) brachten Zemfira op de lijst van buitenlands agenten (zie: [Russian foreign agent law](https://en.wikipedia.org/wiki/Russian_foreign_agent_law)). Een beslissing die ze aanvocht, zonder succes.
 
 Zie [Земфира против войны: почему певица прервала молчание и за что ее признали «иноагентом»](https://www.youtube.com/watch?v=2EtZxUDWVsA) (TV Rain, 2023, 14 m) en [Земфиру признали иноагентом](https://youtube.com/shorts/2jtEIxlLDwE?si=OZgd_cVWYDRDSdzP) (SUNSET, 2023, 1 m);  lees (EN/RU)
 
@@ -172,7 +174,7 @@ Wat niet vaak gebeurt is nu gaande: Zemfira op [toernee](https://www.songkick.co
 Ook langs Nederland dus! Maandag 4 november, in [AFAS Amsterdam](https://www.afaslive.nl/agenda/zemfira). [Kaarten kopen](https://zemfira.band/en/events/263702) doe je bij Zemfira zelf, voor prijzen waar je van achteroverslaat. Schrijver dezes is er ook en zal verslag doen.
 
 
-Op YouTube zie je Impressies van eerdere stops:
+Op YouTube zie je impressies van eerdere stops:
 
 - [Riga](https://www.youtube.com/watch?v=78ck1S4k2WM) (13-10)
 - [Tbilisi](https://www.youtube.com/watch?v=hfaac0r5etE) (18-09)
@@ -197,7 +199,7 @@ PORTRET
 
 - [Как Земфира пришла и победила](https://www.youtube.com/watch?v=CO5mjtub9MY) (БРОКЕН ДЭНС, 2023, 14 m)
 - [ Земфира – Как Живет Рок-Легенда и Самая Таинственная Певица России](https://www.youtube.com/watch?v=6x_EdK8u5ew) (MixShow, 2022, 27 m)
-- [To love Zemfira: Земфира, начало, 1999-2009. часть 1](https://www.youtube.com/watch?v=3Ra9_G1H-Vs) (1999, 9 m) – zie ook [deel 3](https://www.youtube.com/watch?v=jpfGdtXkguU),  [deel 4](https://www.youtube.com/watch?v=qC8yMgbQXAY), [deel 5](https://www.youtube.com/watch?v=JYu9O7MUdRw&t=74s); wie deel 2 vindt: stuur een mail
+- [To love Zemfira: Земфира, начало, 1999-2009. часть 1](https://www.youtube.com/watch?v=3Ra9_G1H-Vs) (1999, 9 m) – zie ook [deel 3](https://www.youtube.com/watch?v=jpfGdtXkguU),  [deel 4](https://www.youtube.com/watch?v=qC8yMgbQXAY), [deel 5](https://www.youtube.com/watch?v=JYu9O7MUdRw&t=74s); wie deel 2 vindt, stuur een mail
 - [Земфира "До 16 и старше" часть1](https://www.youtube.com/watch?v=ge8bbuRkRoI) – zie ook [deel 2](https://www.youtube.com/watch?v=xHc51AZhmMg), [deel 3](https://www.youtube.com/watch?v=pHv5-VTLb-M) (of [hier](https://www.youtube.com/watch?v=777zC_wSLBI)) en [deel 4](https://www.youtube.com/watch?v=3GzjIbZxr8w)
 
 
@@ -209,7 +211,7 @@ INTERVIEW
 
 
 - [Вечерний Ургант В гостях у Ивана](https://www.youtube.com/watch?v=T_rhLMIz68Y) (2016, 17 m) 
-- [Земфира VK Live Chat](https://www.youtube.com/watch?v=JcY8XCoCw_M) (2015)
+- [Земфира VK Live Chat](https://www.youtube.com/watch?v=JcY8XCoCw_M) (2015, 57 m)
 - [Земфира – Интервью с Ренатой Литвиновой](https://www.youtube.com/watch?v=l-9m2jNBURc) (2008, 7 m)
 - [Земфира – «Детали» на СТС | Интервью](https://www.youtube.com/watch?v=GzFDXVahLZ8) (СТС, 2007, 26 m)
 - [Земфира – «Школа Злословия» | Интервью](https://www.youtube.com/watch?v=QA27VCgPEAY) (2005, 45 m)

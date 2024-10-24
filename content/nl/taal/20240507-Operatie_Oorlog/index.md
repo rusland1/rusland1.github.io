@@ -10,6 +10,7 @@ trefwoorden:
   - oorlog
   - Peskov
   - Poetin
+  - ' СВО'
 seo_description: ''
 intro: >-
   En toen werd het oorlog. Of moeten we zeggen: begon de speciale militaire
