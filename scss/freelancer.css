@@ -7207,6 +7207,30 @@ a.text-dark:hover, a.text-dark:focus {
   padding: 0;
   justify-content: center; }
 
+.articlebadge {
+  font-size: 1rem;
+  border-radius: 2px;
+  padding: 0px 5px 0px 5px;
+  width: fit-content;
+  font-weight: 600; }
+
+.tag {
+  margin-bottom: 5px;
+  display: inline-block;
+  color: #212529;
+  font-size: 1rem;
+  border-radius: 2px;
+  padding: 0px 5px 0px 5px;
+  width: fit-content;
+  font-weight: 600;
+  box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04); }
+
+.tags-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap; }
+
 .page-link {
   position: relative;
   display: block;
