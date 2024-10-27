@@ -31,45 +31,50 @@
         </div>
         <div class="offset-md-2 col-md-8 col-lg-8 mt-0">
           {{ if eq .Section "taal" }}
-          <div class="tags-row">
+          <div style="display:flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
             <strong class="mr-2 mb-2">{{ T "onderwerp" }}: </strong>
             {{ range .Params.Taal_Onderwerpen }}
-            <a href="{{ "taal_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}" class="tag">{{
+            <a href="{{ "taal_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}"
+              style="margin-bottom: 5px; display: inline-block; color: #212529; font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04);">{{
               . }}</a>&nbsp;
             {{ end }}
           </div>
         
           {{ else if eq .Section "muziek" }}
-          <div class="tags-row">
+          <div style="display:flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
             <strong class="mr-2 mb-2">{{ T "artiest" }}: </strong>
             {{ range .Params.Artiesten }}
-            <a href="{{ "artiesten/" | relLangURL }}{{ . | urlize | lower }}" class="tag">{{
+            <a href="{{ "artiesten/" | relLangURL }}{{ . | urlize | lower }}"
+              style="margin-bottom: 5px; display: inline-block; color: #212529; font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04);">{{
               . }}</a>&nbsp;
             {{ end }}
           </div>
-          <div class="tags-row">
+          <div style="display:flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
             <strong class="mr-2 mb-2">{{ T "genre" }}: </strong>
             {{ range .Params.Genres }}
-            <a href="{{ "genres/" | relLangURL }}{{ . | urlize | lower }}" class="tag">{{
+            <a href="{{ "genres/" | relLangURL }}{{ . | urlize | lower }}"
+              style="margin-bottom: 5px; display: inline-block; color: #212529; font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04);">{{
               . }}</a>&nbsp;
             {{ end }}
           </div>
         
           {{ else if eq .Section "land-en-volk" }}
-          <div class="tags-row">
+          <div style="display:flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
             <strong class="mr-2 mb-2">{{ T "onderwerp" }}: </strong>
             {{ range .Params.Land_En_Volk_Onderwerpen }}
-            <a href="{{ "land_en_volk_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}" class="tag">{{
+            <a href="{{ "land_en_volk_onderwerpen/" | relLangURL }}{{ . | urlize | lower }}"
+              style="margin-bottom: 5px; display: inline-block; color: #212529; font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04);">{{
               . }}</a>&nbsp;
             {{ end }}
           </div>
           {{ end }}
         
-          <div class="tags-row">
+          <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
             {{ with .Params.Trefwoorden }}
             <strong class="mr-2 mb-2">{{ T "trefwoorden" }}: </strong>
             {{ range . }}
-            <a href="{{ "trefwoorden/" | relLangURL }}{{ . | urlize | lower }}" class="tag">{{
+            <a href="{{ "trefwoorden/" | relLangURL }}{{ . | urlize | lower }}"
+              style="margin-bottom: 5px; display: inline-block; color: #212529; font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;box-shadow: 0 0 1px 0 rgba(0, 0, 45, 0.04), 0 0 2px 0 gray, 0 4px 8px 0 rgba(0, 0, 46, 0.04);">{{
               . }}</a>&nbsp;
             {{ end }}
             <br>
@@ -84,8 +89,7 @@
     {{ $imageOriginal := . }}
     {{ $imageResource := $imageOriginal.Resize "1200x jpg" }}
     <div class="container">
-      <div class="row" style="  xmax-height:400px;
-                      xoverflow:hidden;">
+      <div class="row" style="xmax-height:400px;xoverflow:hidden;">
         <div class="offset-md-0 col-md-12 col-lg-12 mt-3 mb-5 px-0">
           <img class="img-responsive w-100 h-100" src="{{ $imageResource.RelPermalink }}" />
         </div>
