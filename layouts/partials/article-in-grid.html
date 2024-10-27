@@ -1,7 +1,7 @@
 <div class="mb-5 col-md-6 col-lg-4 d-flex flex-column articlecard">
     <div class="" style="">
         <h2> <a href="{{ .RelPermalink }}"> {{ .Title }} </a> </h2>
-        <div style="font-size: 1rem; border-radius: 2px; padding: 0px 5px 0px 5px;width: fit-content; font-weight: 600;" class="mb-2 bg-{{.Scratch.Get "colorclass"}}">{{ $title := .Scratch.Get "titel" }}
+        <div class="mb-2 articlebadge bg-{{.Scratch.Get "colorclass"}}">{{ $title := .Scratch.Get "titel" }}
             {{ T $title }}</div>
     </div>
     <div class="mb-2">
