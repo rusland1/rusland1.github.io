@@ -32,7 +32,7 @@ We start with music, for a change from old to new.
 
 #### 25 Years
 
-Zemfira Talgatovna Ramazanova (1976, in Tatar: Земфира Тәлгать кызы Рамазанова) made her debut in the last century (1999), under not overly creative creative but perhaps strategic title *Zemfira*.
+Zemfira Talgatovna Ramazanova (1976, in Tatar: Земфира Тәлгать кызы Рамазанова) made her debut in the last century (1999), under not overly creative but perhaps strategic title *Zemfira*.
 
 
 "The group enjoyed popularity from the start," tells us [Wikipedia](https://en.wikipedia.org/wiki/Zemfira), "in part because of heavy rotation on radio and television, and in part because a female rocker is a fairly rare and unusual concept for the Russian music scene."*
