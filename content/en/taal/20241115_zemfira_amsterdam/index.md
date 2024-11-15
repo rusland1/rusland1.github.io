@@ -20,7 +20,7 @@ voetnoot: >+
   Not everyone could appreciate the sign/paper showing "Дякую". See
   [here](https://www.unian.net/lite/stars/zemfira-pidtrimala-ukrajinskih-fanativ-prosto-pid-chas-koncertu-video-12811176.html)
   and [here](https://www.pravda.ru/news/showbiz/2126600-zemfira-djakuju/) for
-  Russianm see
+  Russian, see
   [here](https://dutch.news-pravda.com/ukraine/2024/11/06/31541.html) for Dutch.
 
 
@@ -53,7 +53,7 @@ The Russians sing along as if they too are all back home again. With Беско�
 **FRIENDLY** <br/>
 In the queue before the start, a lively conversation emerged, with a Russian guy from Germany and, we suspected, his sister. According to Katya, he was stoned.
 They had heard right away that I was not from Russia. That was a bit discouraging.
-But they thought it was quite something, a Dutchman who could speak a little Russian. The Russias seemed like a friendly people to me, stoned or not.
+But they thought it was quite something, a Dutchman who could speak a little Russian. The Russians seemed like a friendly people to me, stoned or not.
 
 All my photos were a failure. But a pleasant evening, in this Little Russia..<br/>
 As for the Big one: I'll be going there next year.<br/>
