@@ -11,6 +11,7 @@ trefwoorden:
   - Music in Russian
   - Oekraïne
   - ' СВО'
+  - Zemfira
 seo_description: >-
   Portret Zemfra (Земфира), highlights 25 jaar Zemfra (Земфира) en alles over de
   Zemfira Tour 2024
@@ -21,13 +22,14 @@ intro: >
   is rock. 
 voetnoot: |
   "Is" had natuurlijk "was" moeten zijn – het moe(s)t worden opgemerkt.
+resources: []
 
 ---
 
 
 <br/>
 
-We beginnen met muziek, voor de verandering van oud naar nieuw
+We beginnen met muziek, voor de verandering van oud naar nieuw.
 
 <br/>
 
@@ -93,7 +95,7 @@ Het jongste volwaardige album – soundtracks voor [Северный ветер]
 
 #### Singles
 
-Nieuwe Zemfira's zijn daarna steeds als single verschenen, zoals [Мяco](https://www.youtube.com/watch?v=viy2FXOcI68) (2022)  en [PODNHA](https://www.youtube.com/watch?v=kq2r2DVgEqg) (2023). De recentste (en enige van dit jaar) is Colette, waarbij geen video gemaakt werd. Een nieuw kanaal met de naam [Music in Russian](https://www.youtube.com/@MusicinRussian) bood uitkomst.
+Nieuwe Zemfira's zijn daarna steeds als single verschenen, zoals [Мяco](https://www.youtube.com/watch?v=viy2FXOcI68) (2022)  en [PODNHA](https://www.youtube.com/watch?v=kq2r2DVgEqg) (2023). De recentste (en enige van dit jaar) is Colette, waarbij geen video gemaakt werd. Een veelbelovend nieuw kanaal met de naam [Music in Russian](https://www.youtube.com/@MusicinRussian) bood uitkomst.
 
 <br/>
 

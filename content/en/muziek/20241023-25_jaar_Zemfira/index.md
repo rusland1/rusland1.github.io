@@ -11,6 +11,7 @@ trefwoorden:
   - Music in Russian
   - СВО
   - ' иноагент'
+  - Zemfira
 seo_description: '25 years Zemfira: highlights, bio, Zemfira Tour 2024'
 intro: >-
 
@@ -20,6 +21,7 @@ intro: >-
   rock.
 voetnoot: |
   *) Of course, “is” should have been “was” – it has/had to be noted.
+resources: []
 
 ---
 
@@ -94,7 +96,7 @@ The latest full album– soundtracks to [Северный ветер](https://mu
 
 #### Singles
 
-After that, new Zemfira's were relased as singles, like [Мяco](https://www.youtube.com/watch?v=viy2FXOcI68) (2022) and [PODNHA](https://www.youtube.com/watch?v=kq2r2DVgEqg) (2023). The most recent one (and only one from 2024) is Colette, of which no video was made. A new channel named [Music in Russian](https://www.youtube.com/@MusicinRussian) came to the rescue.
+After that, new Zemfira's were relased as singles, like [Мяco](https://www.youtube.com/watch?v=viy2FXOcI68) (2022) and [PODNHA](https://www.youtube.com/watch?v=kq2r2DVgEqg) (2023). The most recent one (and only one from 2024) is Colette, of which no video was made. A promising new channel named [Music in Russian](https://www.youtube.com/@MusicinRussian) came to the rescue.
 
 <br/>
 
