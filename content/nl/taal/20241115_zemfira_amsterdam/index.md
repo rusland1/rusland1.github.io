@@ -21,10 +21,7 @@ voetnoot: >
   en [hier](https://www.pravda.ru/news/showbiz/2126600-zemfira-djakuju/) voor
   Russisch, zie
   [hier](https://dutch.news-pravda.com/ukraine/2024/11/06/31541.html) voor
-  Nederlands).
-
-
-  .
+  Nederlands.
 resources:
   - src: imgs/_DSC3602 kopie.JPG
 

@@ -2,19 +2,21 @@
 draft: false
 intro: >-
   All bass guitarists (and many others) will or should know
-  [Davie504](https://www.youtube.com/Davie504/). In 2019, after initially
-  being [denied](https://youtu.be/zI8iBk740rk) a visa, he went to Russia to
-  play 'Rasputin'. Yes, from our very own [Boney
-  M](https://youtu.be/SYnVYJDxu2Q), from the time when TopPop still existed.
+  [Davie504](https://www.youtube.com/Davie504/). In 2019, after initially being
+  [denied](https://youtu.be/zI8iBk740rk) a visa, he went to Russia to play
+  'Rasputin'. Yes, from our very own [Boney M](https://youtu.be/SYnVYJDxu2Q),
+  from the time when TopPop still existed.
 land_en_volk_onderwerpen:
   - Various
 pubdate: 2020-2-15
 publishdate: '2020-02-15'
-seo_description: ''
+seo_description: Davie 504 in Russia, Davie 504 in Russian, Davie 504 playing Russian songs
 title: Davie504 in Moscow
 trefwoorden:
   - Moscow
+  - music
 voetnoot: ''
+resources: []
 
 ---
 
