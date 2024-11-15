@@ -1,4 +1,4 @@
-hugover: extended_0.75.0
+hugover: extended_0.99.1
 serve:
   - key: default
     config: config.toml

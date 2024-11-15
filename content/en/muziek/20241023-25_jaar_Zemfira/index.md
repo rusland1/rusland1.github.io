@@ -27,7 +27,7 @@ voetnoot: |
 
 <br/>
 
-We start with music, for a change from old to new.
+We start with music, for a change from old to (very) new.
 
 
 #### 25 Years
