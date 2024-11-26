@@ -86,6 +86,8 @@ h2 a:hover {
   background-color: transparent !important;
   color: $zwartman !important;
   text-decoration: underline;
+  text-underline-offset: 0.1em;
+  text-decoration-thickness: 1px;
 }
 
 a.text-primary:hover, a.text-primary:focus,
