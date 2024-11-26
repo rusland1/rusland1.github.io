@@ -36,7 +36,13 @@
   {{ $desc = .Site.Data.globalSiteSettings.description }}
 {{ end }}
 
-
+<style>
+    h1 a:hover,
+h2 a:hover {
+  text-underline-offset: 0.1em !important;
+  text-decoration-thickness: 1px !important;
+}
+</style>
 <meta name="description" content= {{$desc}}>
 
 {{ $featured_image := (.Resources.ByType "image").GetMatch "*featured*" }}
