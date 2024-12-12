@@ -5,8 +5,6 @@ draft: false
 land_en_volk_onderwerpen:
   - Politics
   - History
-  - Alexander Rutskoy
-  - Putin
 trefwoorden:
   - Boris Yeltsin
   - Mikhail Gorbachev
@@ -15,6 +13,9 @@ trefwoorden:
   - '1991 Coup '
   - 1993 Crisis
   - Bill Clinton
+  - Putin
+  - Alexander Rutskoy
+  - Setarko
 seo_description: >-
   Discover the life and career of Boris Yeltsin (1931-2007) through 4 defining
   moments. Dive deeper into history and better understand this influential
@@ -29,6 +30,8 @@ resources:
 
 ---
 
+
+<br/>
 
 #### President (one of two)
 
@@ -62,16 +65,16 @@ Simon Marks, 2011, 9 m
 
 #### First Post-Soviet President
 
-At the end of that same year, Gorbachev stepped aside (December 25](https://www.youtube.com/watch?v=4lPjMh1zpEo), the Soviet Union [dissolved](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union), and  [Борис Николаевич Ельцин](https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD%2C_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87), from the village of [Butka](https://en.wikipedia.org/wiki/Butka,_Russia), became the first Post-Soviet President.
+At the end of that same year, Gorbachev [stepped aside](https://www.youtube.com/watch?v=4lPjMh1zpEo) (December 25), the Soviet Union [dissolved](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union), and [Борис Николаевич Ельцин](https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD%2C_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87), from the village of [Butka](https://en.wikipedia.org/wiki/Butka,_Russia), became the first Post-Soviet President.
 
 <br/>
 <br/>
 
 #### 1993: Shooting with a Tank
 
-A power struggle between Yeltsin and the parliament (then the Supreme Soviet) escalated into a crisis and violence in October 1993. In March, the parliament (led by [Ruslan Khasbulatov]((https://en.wikipedia.org/wiki/Ruslan_Khasbulatov)) attempted to impeach Yeltsin; Yeltsin, in turn, announced in September that he was dissolving the parliament and would call for new elections, constitution or not. Parliament declared Yeltsin impeached, and appointed [Alexander Rutskoy](https://en.wikipedia.org/wiki/Alexander_Rutskoy) as acting president.
+A power struggle between Yeltsin and the parliament (then the Supreme Soviet) escalated into a crisis and violence in October 1993. In March, the parliament, led by [Ruslan Khasbulatov](https://en.wikipedia.org/wiki/Ruslan_Khasbulatov), attempted to impeach Yeltsin; Yeltsin, in turn, announced in September that he was dissolving the parliament and would call for new elections, constitution or not. Parliament declared Yeltsin impeached, and appointed [Alexander Rutskoy](https://en.wikipedia.org/wiki/Alexander_Rutskoy) as acting president.
 
-On October 3, clashes broke out in Moscow between pro-parliament demonstrators and troops loyal to Yeltsin. On October 4, Yeltsin ordered the military to storm the White House (where the parliament was holed up). If standing on a tank didn't make some impression already, having a tank fire surely did.
+On October 3, clashes broke out in Moscow between pro-parliament demonstrators and troops loyal to Yeltsin. On October 4, Yeltsin ordered the military to storm the White House, where the parliament was holed up. If standing on a tank didn't make some impression already, having a tank fire surely did.
 
 See 
 
@@ -176,9 +179,9 @@ Yeltsin's [funeral](https://www.youtube.com/watch?v=HDsCUqrVN_k) was conducted a
 To not end with a funeral, an overview of Boris Yeltsin's life and career in the following documentaries:
 
 - [Boris Yeltsin](https://www.youtube.com/watch?v=dgbCPgo7BwE) (Smart History of Russia, 2017, 3 m)
-- [I Knew Boris Yeltsin - Part 1](https://www.youtube.com/watch?v=9Mye09esHiM&t=68s) (Al Jazeera, 2008, 11 m), zie ook [Part 2](https://www.youtube.com/watch?v=8HQKcn-AMVE) (12 m)
+- [I Knew Boris Yeltsin - Part 1](https://www.youtube.com/watch?v=9Mye09esHiM&t=68s) (Al Jazeera, 2008, 11 m), also see [Part 2](https://www.youtube.com/watch?v=8HQKcn-AMVE) (12 m)
 - [Борис Ельцин. Прощание с эпохой](https://www.youtube.com/watch?v=RV6MCAhZ2bI) (Центральное Телевидение, 2020, 33 m)
-- [Борис Ельцин. Жизнь и судьба 1/2](https://www.youtube.com/watch?v=d-uUt0N4W0E) (Россия 1, 2011, 13 m), zie ook [deel 2](https://www.youtube.com/watch?v=WhdxXgdr3f8) (40 m)
+- [Борис Ельцин. Жизнь и судьба 1/2](https://www.youtube.com/watch?v=d-uUt0N4W0E) (Россия 1, 2011, 13 m), also see [deel 2](https://www.youtube.com/watch?v=WhdxXgdr3f8) (40 m)
 
  <br/>
 
