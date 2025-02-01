@@ -2,7 +2,8 @@
 title: WERKWOORDENSCHAT
 publishdate: '2024-08-22'
 draft: false
-taal_onderwerpen: []
+taal_onderwerpen:
+  - werkwoorden
 trefwoorden:
   - vocabulaire
   - woordenschat
@@ -24,6 +25,7 @@ intro: >+
 
 
 voetnoot: ''
+resources: []
 
 ---
 

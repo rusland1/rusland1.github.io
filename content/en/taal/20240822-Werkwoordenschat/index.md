@@ -1,8 +1,9 @@
 ---
-title: VERBS
+title: VERB VOCABULARY
 publishdate: '2024-08-22'
 draft: false
-taal_onderwerpen: []
+taal_onderwerpen:
+  - verbs
 trefwoorden:
   - vocabulaire
   - verbs
@@ -12,18 +13,18 @@ trefwoorden:
   - LearnRussian.org
   - Amazing Russian
 seo_description: >-
-  Learning Russian verbs? These are the best resources and channels. Increase your
-  verb vocabulary, and enrich your Russian language.
+  Learning Russian verbs? These are the best resources and channels. Increase
+  your verb vocabulary, and enrich your Russian language.
 intro: >+
 
   Verbs work for those who want to make sentences.  There - work and make, there
   you already have two. And try to make Russian out of that sentence if you if
-  you don't know **работать** or **делать**. So work, also on your
-  vocabulary. 
+  you don't know **работать** or **делать**. So work, also on your vocabulary. 
 
 
 
 voetnoot: ''
+resources: []
 
 ---
 

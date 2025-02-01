@@ -7,12 +7,13 @@ genres:
 artiesten:
   - Offret
 trefwoorden:
-  - Nizhny Novgorod
   - songtekst
   - Andrei Tarkovski
+  - Nizjni Novgorod
 seo_description: ''
 intro: "\nHet woord *offret* is Zweeds en betekent 'offer'; de band Offret is Russisch en maakt stevige muziek. Verbindende factor tussen woord en band: een [film uit 1986](https://en.wikipedia.org/wiki/The_Sacrifice_(1986_film)), in het Zweeds, van de \LRussische Andrei Tarkovski.\n"
 voetnoot: ''
+resources: []
 
 ---
 
