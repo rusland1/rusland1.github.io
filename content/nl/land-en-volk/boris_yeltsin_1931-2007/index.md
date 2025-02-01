@@ -71,7 +71,7 @@ Aan het einde van dat jaar stapte Gorbatsjov [opzij](https://www.youtube.com/wat
 #### 1993: schieten met een tank
 Een machtsstrijd tussen Jeltsin, en het parlement (toen nog de Opperste Sovjet) leidde tot crisis en geweld in oktober 1993. In maart had het parlement (onder leiding van [Ruslan Chasboelatov](https://en.wikipedia.org/wiki/Ruslan_Khasbulatov)) geprobeerd Jeltsin af te zetten; Jeltsin op zijn beurt kondigde in september aan dat hij het parlement ging ontbinden en nieuwe verkiezingen zou uitschrijven, grondwet of niet. Het parlement verklaarde Jeltsin dan weer afgezet, en benoemde [Aleksandr Roetskoj](https://en.wikipedia.org/wiki/Alexander_Rutskoy) tot interim-president.
 
-Op 3 oktober braken er rellen uit in Moskou tussen pro-parlementaire demonstranten en troepen die loyaal aan Jeltsin waren.  Op 4 oktober, gaf Jeltsin het leger opdracht om het Witte Huis (waar het parlement zich in verschanst had) te bestormen. Als op een tank stáán niet al indruk maakte, er met een laten scheten deed dat zeker wel.
+Op 3 oktober braken er rellen uit in Moskou tussen pro-parlementaire demonstranten en troepen die loyaal aan Jeltsin waren.  Op 4 oktober, gaf Jeltsin het leger opdracht om het Witte Huis (waar het parlement zich in verschanst had) te bestormen. Als op een tank stáán niet al indruk maakte, er met een laten schieten deed dat zeker wel.
 
 Zie o.a.
 
@@ -108,7 +108,7 @@ Meer beeld en met muziek in zowel deze  [Перемен!](https://www.youtube.co
 
 Terwijl het land nog zoekende was naar duurzame stabiliteit, leek de president die te verliezen – meestal omdat hij net een borrel had gedronken, of meer dan één. Ook op staatsbezoek in Washington. En in IJsland leek hij [kwijt](https://www.youtube.com/watch?v=WiVyd7ORKPU) (1994). 
 
-Met een zwakke economie, veel corruptie en een hoge criminaliteit was een dronken president wel het laatste wat het land gebruiken kon, maar het het gaf wel vaak iets om te lachen. En de beelden met Bill Clinton, plus die van een dansende Jeltsin.
+Met een zwakke economie, veel corruptie en een hoge criminaliteit was een dronken president het laatste wat het land gebruiken kon, maar het gaf wel vaak iets om te lachen. En de beelden met Bill Clinton, plus die van een dansende Jeltsin.
 
 
 Kijk

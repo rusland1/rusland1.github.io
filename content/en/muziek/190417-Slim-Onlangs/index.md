@@ -1,16 +1,18 @@
 ---
 artiesten:
   - Slim
-description: "Slim – Намедни (Recently). Clip and lyrics."
+description: Slim – Намедни (Recently). Clip and lyrics.
 draft: false
 genres:
   - rap
 intro: >-
-  Slim, or Slimus (Moscow 1981), comes from Centr. From his EP **Место под луной** (A Place Under the Moon, 2018), **Намедни** means something like: recently, lately. Slim gives his take, and the visuals are equally striking.
+  Slim, or Slimus (Moscow 1981), comes from Centr. From his EP **Место под
+  луной** (A Place Under the Moon, 2018), **Намедни** means something like:
+  recently, lately. Slim gives his take, and the visuals are equally striking.
 pubdate: 2020-1-31
 publishdate: '2019-04-17'
 resources: []
-seo_description: 'Намедни (Recently) by Slim, one of the pioneers of Russian rap.'
+seo_description: Намедни (Recently) by Slim, one of the pioneers of Russian rap.
 title: Slim – Recently
 trefwoorden:
   - fanclip
@@ -32,7 +34,7 @@ The song also touches on Putin, without naming him directly: “Yeltsin fell, ei
 
 Full lyrics [here](https://text-lyrics.ru/s/slim/10737-slimus-namedni-text-pesni.html); more links below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O_z59dXqOJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-S68xsKV1AI?si=1uOpBx9V7EPuiNRj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 <br/>
