@@ -38,7 +38,7 @@ Hoe dan ook: alhier de nieuwe lichting dapperen, met van elk de recentste video.
 
 ####  I love Russian
 
-Liefde voor I love Russian vanaf de eerste video (2022, over het [alfabet](https://www.youtube.com/watch?v=dgrSATfdOpM)) tot waarschijnlijk in de eeuwigheid. Vanwege Dasha vooral, om  het achtergrondbehang, en omdat het Rusland op zijn Ruslandst is. Dasha zegt verstandige dingen over doelen, en spreekt met mededogen over en tot de worstelende student (in [How NOT to learn Russian](https://www.youtube.com/watch?v=PNF_hXzq5C8), 2024).
+Liefde voor I love Russian vanaf de eerste video (2022, over het [alfabet](https://www.youtube.com/watch?v=dgrSATfdOpM)) tot waarschijnlijk in de eeuwigheid. Vanwege Dasha, om  het achtergrondbehang, en omdat dit Rusland op zijn Ruslandst is. Dasha zegt verstandige dingen over doelen, en spreekt met mededogen over en tot de worstelende student (in [How NOT to learn Russian](https://www.youtube.com/watch?v=PNF_hXzq5C8), 2024).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySs9culxrFA?si=8zLPMXYIStzYVE6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ Praktische tip voor meer gevorderden: zet de snelheid op 1.25 minimaal.
 
 #### Russian Radio Show
 
-Sergey Griffits werkte onder andere als dj en doet dat is te horen. Goeie stem, waarnaar het prettig luisteren is. Video's op YouTube sinds [2021](https://www.youtube.com/watch?v=fN2r4GdIa00), podcasts bij [Apple](https://podcasts.apple.com/us/podcast/russian-radio-show/id1548767287) en op [Spotify](https://open.spotify.com/show/72rFvi1mggZI79RpTqNpJV?si=a8bfec5e7be64667). Komt er inderdaad een serie over leskanalen, Sergey zal er zeker in een schitteren.
+Sergey Griffits werkte onder andere als dj en dat is direct te horen. Goeie stem, waarnaar het prettig luisteren is. Video's op YouTube sinds [2021](https://www.youtube.com/watch?v=fN2r4GdIa00), podcasts bij [Apple](https://podcasts.apple.com/us/podcast/russian-radio-show/id1548767287) en op [Spotify](https://open.spotify.com/show/72rFvi1mggZI79RpTqNpJV?si=a8bfec5e7be64667). Komt er inderdaad een serie over leskanalen, Sergey zal er zeker in een schitteren.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s17nGGsikjk?si=f9Kjk9TD7QMKOukH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,37 +114,34 @@ Actief sinds 2021 (opener: een [tour door het Georgian Museum of Fine Arts](http
 
 <br/>
 
-**BLIN SCHOOL** <br/>
+- **BLIN SCHOOL** <br/>
 Plus voor de naam, en voor openingsvideo [What`s the most effective way to learn Russian?](https://youtu.be/VaPikrlcqFM?si=bF7DNFzT71_ovEu_) (2021), met een must-see staaltje amateurtoneel met pannenkoek. Jongste video: [Adjectives in Russian](https://youtu.be/dzPoeFOBf90?si=PeHqbs9gw7gBLrNx ).
 
-
-**FANTASTIC RUSSIAN** <br/>
+- **FANTASTIC RUSSIAN** <br/>
 In één woord: fantastisch. in twee woorden: niet echt. Toch/dus zeker even [kijken](https://www.youtube.com/@fantasticrussian/featured).
 
-
-**IN SIMPLE RUSSIAN** <br/>
+- **IN SIMPLE RUSSIAN** <br/>
 Nog vers (sinds 2023) en in simpel Nederlands: veel is het nog niet, veel gaat het misschien ook niet worden. Hopelijk zien we dat verkeerd. Zeker zelf [kijken](https://www.youtube.com/watch?v=SJ2nhPDlTY0).
 
-**KEEP GETTING BETTER IN RUSSIAN** <br/>
+- **KEEP GETTING BETTER IN RUSSIAN** <br/>
 Vliegende start in 2023, met [50 Essential Russian Phrases for Beginners](https://www.youtube.com/watch?v=QJ-pF6NjMQ4) (het zijn vaak woorden maar alla), mogelijk al neergestort, met de laatste van [tien maanden geleden](
 https://www.youtube.com/watch?v=u_PnJqfGoz4).
 
-**LEARN RUSSIAN EASILY** <br/>
+- **LEARN RUSSIAN EASILY** <br/>
 Klinkt goed. Maar spoiler alert: Russian en Easily is geen gelukkig huwelijk. Learn Russian anyway [hier](https://www.youtube.com/@Raccoon_Pasha/featured).
 
-**LEARN RUSSIAN WITH STORIES**  <br/>
+- **LEARN RUSSIAN WITH STORIES**  <br/>
 De naam zegt het; hoeft geen story bij. Pas enkele maanden oud, houdt het tempo er (al of nog) goed in. Vooral voor [beginners](https://www.youtube.com/@learnrussianstories/featured).
 
-**RUSSIAN BOARD** <br/>
+- **RUSSIAN BOARD** <br/>
 Meer dan honderd video's sinds [2022](https://www.youtube.com/watch?v=SvDYoAIoeOM), belichting lijkt nog moeilijk in de [jongste, wie weet laatste](https://www.youtube.com/watch?v=RaNhf2dfyk0) (2024).
 
-**RUSSIAN FROM ZERO** <br/>
+- **RUSSIAN FROM ZERO** <br/>
 Fijne stem, techniek uit het jaar nul. Kijk [hier](https://www.youtube.com/@Russianfrom0).
 
-**RUSSIAN LANGUAGE CLUB** <br/>
+- **RUSSIAN LANGUAGE CLUB** <br/>
 Begon (vier maanden geleden nog maar) poëtisch met het werkwoord [любить](https://www.youtube.com/watch?v=ZKqetdyg6zg) en houdt vermoedelijk (en hopelijk) van werken. Produceert veel en consistent, verdient alleen al daarvoor ons respect. Meer [hier](https://www.youtube.com/@Ru_Lang_Club/featured).
 
-<br/>
 
 Nog meer in de [lijst met links](https://www.rusland1.nl/nl/links/), die echter is verouderd en waarin de hier besproken nieuwe nog niet zijn verwerkt. 
 
